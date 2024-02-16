@@ -17,7 +17,7 @@ pip install git+https://github.com/BM-Boris/gcmsnote.git
 
 #### Getting Started
 
-Below is a quick example to get you started with GCMSnote. This demonstrates how to load your GC-MS data and perform metabolite annotation:
+Below is a quick example to get you started with GCMSnote:
 ```python
 from gcmsnote import match_meta
 

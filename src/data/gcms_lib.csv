@@ -1,0 +1,4037 @@
+mz,time,Name,note
+359.8407,14.3588,PCB-169,mz0
+219.9841,7.2785,PCB-52,mz0
+393.8018,13.7861,PCB-180,mz0
+255.9603,6.3416,PCB-18,mz0
+255.9609,7.033,PCB-31,mz0
+255.9609,7.033,PCB-28,mz0
+219.9842,7.8958,PCB-44,mz0
+393.8019,14.0807,PCB-170,mz0
+467.6997,18.5067,PBB-153,mz0
+483.6947,18.9047,PBDE-153,mz0
+245.9676,11.0445,PBDE-28,mz0
+403.7865,16.9587,PBDE-99,mz0
+355.8537,14.309,"1,2,3,7,8-PCDD",mz0
+389.8151,16.4268,"1,2,3,4,7,8-HxCDD",mz0
+305.8982,11.6624,"2,3,7,8-TCDF",mz0
+373.8199,15.8109,"1,2,3,4,7,8-HxCDF",mz0
+407.7812,16.541,"1,2,3,4,6,7,8-HepCDF",mz0
+443.7392,19.3345,OCDF,mz0
+160.0506,15.0708,Azinphos ethyl ,mz0
+104.0257,14.2336,Azinphos methyl ,mz0
+348.9255,7.9857,Chlorpyrifos ,mz0
+320.894,7.1657,Chlorpyrifos methyl ,mz0
+304.1004,6.5063,Diazinon ,mz0
+323.0372,13.2171,EPN ,mz0
+277.017,7.6952,Fenitrothion ,mz0
+313.0411,6.6711,Isazophos ,mz0
+366.9863,14.0922,Phosalone ,mz0
+316.9937,13.0636,Phosmet ,mz0
+333.127,8.446,Pirimiphos ethyl ,mz0
+305.0958,7.6795,Pirimiphos methyl ,mz0
+360.0459,15.4356,Pyraclofos ,mz0
+373.0855,15.0461,Pyrazophos ,mz0
+340.0644,13.0164,Pyridaphenthion ,mz0
+298.0536,8.9472,Quinalphos ,mz0
+361.8748,8.3798,Aldrin ,mz0
+180.9373,5.8529,a-BHC,mz0
+180.9373,6.1403,b-BHC,mz0
+180.9373,6.2469,g-BHC,mz0
+180.9373,6.625,d-BHC,mz0
+267.9875,9.0867,Chlorbenside ,mz0
+405.7975,9.0598,cis-Chlordane ,mz0
+405.7969,9.3191,trans-Chlordane ,mz0
+301.9569,9.6434,Chlorfenson (Ovex) ,mz0
+205.9899,4.8457,Chloroneb ,mz0
+319.951,10.0159,"2,4'-DDD ",mz0
+319.95,10.8567,"4,4'-DDD ",mz0
+315.9376,9.1641,"2,4'-DDE ",mz0
+315.9376,9.8847,"4,4'-DDE ",mz0
+235.0076,10.8544,"2,4'-DDT ",mz0
+235.0076,11.7615,"4,4'-DDT ",mz0
+249.9948,8.1241,"4,4'-Dichlorobenzophenone ",mz0
+138.9945,9.3973,"4,4'-Dichlorobenzophenone-1",mz0
+138.9945,10.1407,"4,4'-Dichlorobenzophenone-2",mz0
+377.8699,9.9071,Dieldrin ,mz0
+339.8544,6.8605,Endosulfan ether ,mz0
+344.8985,10.3481,Endrin aldehyde ,mz0
+316.9035,12.6611,Endrin ketone ,mz0
+306.0972,21.83,Ethylan (Perthane) ,mz0
+267.9957,8.2116,Fenson ,mz0
+385.8155,8.5869,Heptachlor epoxide (isomer B) ,mz0
+361.8748,8.3835,Isodrin ,mz0
+344.0133,11.994,"2,4'-Methoxychlor ",mz0
+308.0366,11.5709,"4,4'-Methoxychlor olefin ",mz0
+271.8098,14.2467,Mirex ,mz0
+439.7579,9.3874,cis-Nonachlor ,mz0
+439.7581,10.7455,trans-Nonachlor ,mz0
+277.8621,5.9472,Pentachloroanisole ,mz0
+293.8394,7.6003,Pentachlorothioanisole ,mz0
+353.8837,13.7214,Tetradifon ,mz0
+335.1082,5.7433,Benfluralin ,mz0
+154.0773,4.2886,Biphenyl ,mz0
+263.8806,6.5359,Chlorothalonil,mz0
+331.9619,7.8132,Dichlofluanid ,mz0
+205.9643,6.0773,Dichloran ,mz0
+160.9795,6.2347,"3,4-Dichloroaniline ",mz0
+170.9639,4.0274,Dichlobenil,mz0
+169.0885,5.5202,Diphenylamine ,mz0
+333.0924,5.6243,Ethalfluralin ,mz0
+306.0689,6.5269,Fluchloralin ,mz0
+309.1684,8.5319,Isopropalin ,mz0
+345.0986,12.6644,Nitralin ,mz0
+282.9797,10.5717,Nitrofen ,mz0
+361.0321,10.2983,Oxyfluorfen ,mz0
+281.1368,8.6136,Pendimethalin ,mz0
+262.8626,6.9352,Pentachloroaniline ,mz0
+272.847,6.3088,Pentachlorobenzonitrile ,mz0
+321.0802,7.7346,Prodiamine ,mz0
+347.1084,6.365,Profluralin ,mz0
+228.9015,5.5112,"2,3,5,6-Tetrachloroaniline ",mz0
+151.0629,4.8512,THPI (Tetrahydrophthalimide) ,mz0
+345.9763,5.4977,Tolylfluanid ,mz0
+335.1077,5.7119,Trifluralin ,mz0
+269.1177,7.1622,Acetochlor ,mz0
+269.1176,7.2979,Alachlor ,mz0
+173.0601,3.7143,Allidochlor ,mz0
+239.0706,7.2732,Clomazone (Command) ,mz0
+234.0431,11.7356,Diallate_cis,mz0
+234.0431,11.7356,Diallate_trans,mz0
+255.1022,7.0769,Dimethachlor ,mz0
+349.1669,13.6411,Fenpropathrin ,mz0
+375.0082,16.0282,Fluquinconazole ,mz0
+323.1123,9.8644,Flutolanil ,mz0
+277.976,8.6439,Metazachlor ,mz0
+344.0127,13.465,Methoxychlor ,mz0
+283.1331,7.3765,Metolachlor ,mz0
+120.0806,4.8117,"N-(2,4-Dimethylphenyl)formamide ",mz0
+303.0384,11.7401,Norflurazon ,mz0
+344.0693,10.1653,Oxadiazon ,mz0
+311.1646,9.9564,Pretilachlor,mz0
+375.0331,4.3749,Prochloraz ,mz0
+211.0759,7.9383,Propachlor ,mz0
+217.0057,7.1084,Propanil ,mz0
+283.1331,7.3765,Propisochlor ,mz0
+364.1371,16.1315,Pyridaben ,mz0
+333.1602,13.7677,Tebufenpyrad ,mz0
+15170731.0,6.7837,Triallate ,mz0
+316.1564,10.3161,Bupirimate ,mz0
+346.9082,12.5452,Captafol ,mz0
+298.9345,4.6918,Captan ,mz0
+405.9691,10.49,Chlorfenapyr ,mz0
+225.1255,8.6561,Cyprodinil ,mz0
+376.2036,17.7026,Etofenprox ,mz0
+245.9182,4.6267,Etridiazole ,mz0
+435.9402,10.5596,Fipronil ,mz0
+248.0395,9.8722,Fludioxonil ,mz0
+329.0998,18.0406,Fluridone (Sonar) ,mz0
+315.1005,10.2503,Flusilazole ,mz0
+301.1024,17.8443,Flutriafol ,mz0
+294.9029,9.0587,Folpet ,mz0
+329.0326,13.0907,Iprodione ,mz0
+234.1364,11.8523,Lenacil ,mz0
+275.188,8.4464,MGK-264 ,mz0
+275.188,8.6975,MGK_264_1,mz0
+288.1137,10.1875,Myclobutanil ,mz0
+125.0154,9.4776,Paclobutrazol ,mz0
+283.0621,5.4871,Penconazole ,mz0
+283.0162,9.0039,Procymidone ,mz0
+350.1544,12.4693,Propargite ,mz0
+199.1098,6.5663,Pyrimethanil ,mz0
+321.1346,19.3654,Pyriproxyfen ,mz0
+307.1446,12.3044,Tebuconazole ,mz0
+216.066,6.6483,Terbacil-1,mz0
+229.109,6.4285,Terbuthylazine ,mz0
+189.0353,9.7936,Tricyclazole (Beam)-1,mz0
+345.0851,9.1171,Triflumizole ,mz0
+284.9954,7.2467,Vinclozolin ,mz0
+541.1328,15.3521,Acrinathrin ,mz0
+208.0515,8.0321,Anthraquinone ,mz0
+422.125,13.4226,Bifenthrin ,mz0
+302.188,8.993,Bioallethrin ,mz0
+433.0636,16.9059,Cyfluthrin-1,mz0
+433.064,17.0775,Cyfluthrin-2,mz0
+433.0642,17.1256,Cyfluthrin-3,mz0
+433.0644,17.2154,Cyfluthrin-4,mz0
+449.1007,14.9158,lambda-Cyhalothrin ,mz0
+449.1003,14.6579,gama-Cyhalothrin ,mz0
+415.0732,17.3198,Cypermethrin_1,mz0
+415.0738,17.4801,Cypermethrin_2,mz0
+415.0742,17.5161,Cypermethrin_3,mz0
+415.0738,17.5789,Cypermethrin_4,mz0
+173.9861,18.7539,Deltamethrin_1,mz0
+502.9727,18.8233,Deltamethrin_2,mz0
+419.1287,18.2542,Fenvalerate_1,mz0
+419.1285,18.4512,Fenvalerate_2,mz0
+451.1588,17.5677,Flucythrinate_1,mz0
+451.1589,17.8076,Flucythrinate_2,mz0
+502.1266,18.4242,tau-Fluvalinate_1,mz0
+502.1268,18.5051,tau-Fluvalinate_2,mz0
+390.0787,16.0042,cis-Permethrin ,mz0
+390.0782,16.2281,trans-Permethrin ,mz0
+350.1877,14.0307,Phenothrin_cis,mz0
+350.1877,14.0554,Phenothrin_trans,mz0
+338.1877,12.7986,Resmethrin ,mz0
+177.0572,14.9203,Tefluthrin ,mz0
+331.1767,13.199,Tetramethrin ,mz0
+370.0123,7.4073,Transfluthrin ,mz0
+386.2455,17.735,Acequinocyl ,mz0
+340.8992,13.2951,Bromopropylate ,mz0
+411.0363,11.7542,Carfentrazone ethyl ,mz0
+324.0351,12.0236,Chlorobenzilate,mz0
+331.0008,8.8085,Chlozolinate ,mz0
+329.9013,8.0645,DCPA methyl ester (Chlorthal-dimethyl) ,mz0
+383.132,10.8059,Fluazifop-p-butyl ,mz0
+279.1466,7.4271,Metalaxyl ,mz0
+170.0724,4.9876,2-Phenylphenol ,mz0
+376.898,14.0963,Bromfenvinfos-methyl ,mz0
+346.8455,11.4796,Bromfenvinphos ( E ),mz0
+391.8828,20.4197,Bromophos ethyl ,mz0
+363.8496,21.3047,Bromophos methyl ,mz0
+341.9733,11.6878,Carbophenothion ,mz0
+357.9691,15.8107,Chlorfenvinphos ,mz0
+359.9568,11.1504,Chlorthiophos -1,mz0
+359.957,10.8316,Chlorthiophos -2,mz0
+359.9567,10.6151,Chlorthiophos -3,mz0
+362.0139,16.035,Coumaphos ,mz0
+310.0247,11.7215,Edifenphos ,mz0
+383.9871,11.1099,Ethion ,mz0
+303.1053,9.8844,Fenamiphos ,mz0
+319.8995,8.6612,Fenchlorphos (Ronnel) ,mz0
+278.0193,8.0756,Fenthion ,mz0
+411.8347,11.2995,Iodofenphos ,mz0
+409.8696,22.2185,Leptophos ,mz0
+330.0343,3.8214,Malathion ,mz0
+240.0215,4.8706,Methacrifos ,mz0
+371.9344,9.9967,Profenofos ,mz0
+112.9279,9.874,Prothiofos ,mz0
+322.0221,5.7704,Sulfotepp ,mz0
+322.0277,11.4646,Sulprofos ,mz0
+288.0436,6.4173,Terbufos ,mz0
+124.9998,9.7071,Tetrachlorvinphos ,mz0
+299.9574,11.1459,Tolclofos-methyl ,mz0
+299.9572,10.8271,Tolclofos-methyl-1,mz0
+274.0282,6.6478,Disulfoton,mz0
+246.0296,6.4618,Fonofos ,mz0
+263.0013,7.2792,Methyl parathion ,mz0
+291.0322,8.14,Parathion (ethyl parathion) ,mz0
+260.0124,5.8944,Phorate ,mz0
+338.2086,12.7065,Piperonyl butoxide ,mz0
+313.0648,11.4868,Triazophos ,mz0
+325.8799,10.0804,PCB-111,mz0
+325.8797,10.0804,PCB-116,mz0
+325.8799,9.0183,PCB-121,mz0
+325.8799,9.9996,PCB-125,mz0
+359.8407,9.9412,PCB-140,mz0
+359.8407,8.7596,PCB-142,mz0
+359.8408,10.8742,PCB-143,mz0
+325.8797,11.1191,PCB-148,mz0
+359.8408,10.9707,PCB-150,mz0
+359.8409,10.0804,PCB-155,mz0
+359.8408,9.7048,PCB-160,mz0
+359.8408,9.2547,PCB-162,mz0
+359.8408,12.0627,PCB-168,mz0
+393.8018,12.6946,PCB-188,mz0
+255.9609,11.4363,PCB-23,mz0
+255.9608,11.1774,PCB-39,mz0
+291.919,6.9511,PCB-62,mz0
+291.9191,7.8126,PCB-68,mz0
+325.8798,7.9773,PCB-80,mz0
+291.919,8.4363,PCB-88,mz0
+325.8799,9.0789,PCB-94,mz0
+325.8798,10.1932,PCB-109,mz0
+325.88,9.734,PCB-112,mz0
+325.8799,9.7865,PCB-120,mz0
+359.841,12.5446,PCB-159,mz0
+393.802,12.0505,PCB-186,mz0
+393.802,13.5877,PCB-192,mz0
+429.7599,14.5922,PCB-198,mz0
+255.9609,6.3314,PCB-30,mz0
+219.9841,7.8185,PCB-43,mz0
+291.919,9.1687,PCB-55,mz0
+291.919,8.7187,PCB-58,mz0
+291.919,8.9243,PCB-76,mz0
+325.8798,10.8918,PCB-106,mz0
+325.88,10.7728,PCB-108,mz0
+291.919,9.8275,PCB-152,mz0
+359.8409,12.3733,PCB-166,mz0
+391.8048,12.7646,PCB-177,mz0
+393.802,12.4316,PCB-182,mz0
+393.8018,11.3533,PCB-184,mz0
+429.7596,13.4639,PCB-204,mz0
+255.9609,7.6594,PCB-36,mz0
+291.919,8.3748,PCB-72,mz0
+291.919,9.9092,PCB-78,mz0
+291.919,9.7063,PCB-79,mz0
+325.8798,9.4423,PCB-89,mz0
+325.8799,8.4363,PCB-96,mz0
+325.8798,8.9024,PCB-98,mz0
+325.8798,8.9022,PCB-102,mz0
+221.9998,6.4545,PCB-11,mz0
+325.8798,9.5181,PCB-113,mz0
+325.8798,12.3625,PCB-126,mz0
+325.8799,11.5973,PCB-127,mz0
+359.8409,11.1109,PCB-133,mz0
+359.8407,10.787,PCB-139,mz0
+359.8408,9.983,PCB-145,mz0
+359.8406,11.2547,PCB-161,mz0
+255.9608,7.3506,PCB-21,mz0
+255.9608,7.9326,PCB-38,mz0
+219.984,7.1646,PCB-50,mz0
+291.9189,8.5889,PCB-57,mz0
+291.9189,8.8249,PCB-61,mz0
+255.9608,7.9415,PCB-65,mz0
+325.8799,9.9057,PCB-86,mz0
+325.8799,8.0337,PCB-104,mz0
+325.8799,11.1325,PCB-114,mz0
+221.9998,6.5193,PCB-12,mz0
+323.8827,9.7347,PCB-123,mz0
+359.8409,12.203,PCB-129,mz0
+393.8017,11.8431,PCB-137,mz0
+357.8441,12.9834,PCB-156,mz0
+357.8439,12.4437,PCB-167,mz0
+393.8017,11.8521,PCB-176,mz0
+359.8407,12.8357,PCB-185,mz0
+391.8042,14.8918,PCB-189,mz0
+255.9608,7.3745,PCB-33,mz0
+289.9218,7.6298,PCB-49,mz0
+291.9189,8.1738,PCB-59,mz0
+291.9189,8.787,PCB-63,mz0
+291.9189,8.3921,PCB-64,mz0
+291.919,10.3427,PCB-77,mz0
+325.8798,10.1264,PCB-85,mz0
+325.8799,9.1018,PCB-91,mz0
+325.8798,9.9084,PCB-97,mz0
+325.8797,8.634,PCB-100,mz0
+325.8799,10.0032,PCB-117,mz0
+325.8799,11.17,PCB-122,mz0
+325.8798,10.7413,PCB-124,mz0
+221.9998,6.5496,PCB-13,mz0
+359.8406,11.9088,PCB-130,mz0
+221.9998,6.1977,PCB-14,mz0
+359.8408,11.1791,PCB-154,mz0
+359.8408,12.0228,PCB-163,mz0
+325.8798,10.26,PCB-165,mz0
+393.8019,12.3472,PCB-175,mz0
+429.7597,13.1773,PCB-200,mz0
+429.7596,13.9974,PCB-201,mz0
+429.7598,13.3977,PCB-202,mz0
+255.9607,8.1487,PCB-35,mz0
+219.9841,7.444,PCB-51,mz0
+219.9841,7.359,PCB-53,mz0
+291.919,6.9727,PCB-54,mz0
+291.9189,7.76,PCB-73,mz0
+291.9189,7.9313,PCB-75,mz0
+291.9189,10.1201,PCB-81,mz0
+325.8798,9.472,PCB-90,mz0
+323.8826,9.1906,PCB-101,mz0
+323.8828,10.5861,PCB-105,mz0
+323.8831,9.9342,PCB-118,mz0
+325.88,9.43,PCB-119,mz0
+359.8409,12.65,PCB-128,mz0
+359.8409,10.86,PCB-134,mz0
+359.841,9.96,PCB-136,mz0
+359.8409,10.45,PCB-144,mz0
+221.9998,5.84,PCB-15,mz0
+357.8439,10.1844,PCB-151,mz0
+357.8435,13.0989,PCB-157,mz0
+359.8409,11.7337,PCB-158,mz0
+393.802,14.5096,PCB-190,mz0
+393.8017,13.9052,PCB-191,mz0
+255.9608,7.3754,PCB-20,mz0
+463.7209,15.7538,PCB-207,mz0
+463.7207,15.5146,PCB-208,mz0
+225.043,17.7049,PCB-209,mz0
+255.9608,6.6608,PCB-27,mz0
+255.9609,7.0012,PCB-29,mz0
+255.9608,6.9339,PCB-34,mz0
+219.9842,8.5003,PCB-40,mz0
+219.9841,8.1998,PCB-42,mz0
+291.919,7.9265,PCB-47,mz0
+291.919,7.7362,PCB-69,mz0
+325.88,9.37,PCB-92,mz0
+325.8799,8.9306,PCB-93,mz0
+152.0621,5.521,PCB-10,mz0
+325.8799,8.5165,PCB-103,mz0
+325.8798,10.7908,PCB-107,mz0
+325.88,10.0401,PCB-115,mz0
+359.8408,11.0936,PCB-131,mz0
+359.8408,11.4114,PCB-132,mz0
+359.8408,10.5854,PCB-135,mz0
+359.8409,11.7177,PCB-141,mz0
+325.88,10.63,PCB-149,mz0
+359.8408,11.31,PCB-164,mz0
+186.0231,5.77,PCB-17,mz0
+393.802,13.24,PCB-171,mz0
+391.8056,13.2179,PCB-172,mz0
+391.8052,11.8425,PCB-178,mz0
+391.8046,12.197,PCB-183,mz0
+391.8047,13.3963,PCB-193,mz0
+425.7659,14.424,PCB-196,mz0
+429.76,13.6042,PCB-197,mz0
+429.7599,16.2832,PCB-205,mz0
+255.9608,6.6664,PCB-24,mz0
+255.9608,7.103,PCB-26,mz0
+255.9608,6.7993,PCB-32,mz0
+255.9608,8.2901,PCB-37,mz0
+219.9841,8.3562,PCB-41,mz0
+219.9842,7.548,PCB-45,mz0
+291.9189,7.6713,PCB-46,mz0
+219.9841,7.9077,PCB-48,mz0
+221.9998,5.9958,PCB-5,mz0
+291.919,9.3499,PCB-60,mz0
+221.9998,5.8123,PCB-7,mz0
+219.9841,8.9679,PCB-70,mz0
+325.88,9.7843,PCB-83,mz0
+325.8799,9.3836,PCB-84,mz0
+291.9189,8.9724,PCB-95,mz0
+188.0386,4.9356,PCB-1,mz0
+323.8833,9.2971,PCB-110,mz0
+357.8438,11.7202,PCB-138,mz0
+357.8435,10.9259,PCB-146,mz0
+359.8409,10.6823,PCB-147,mz0
+357.8439,11.0718,PCB-153,mz0
+186.0231,6.7801,PCB-16,mz0
+393.8019,13.3724,PCB-173,mz0
+393.8018,13.009,PCB-174,mz0
+393.802,11.6656,PCB-179,mz0
+393.8019,13.1257,PCB-181,mz0
+391.804,12.041,PCB-187,mz0
+186.0231,6.2186,PCB-19,mz0
+425.7663,15.7478,PCB-194,mz0
+429.7603,15.1622,PCB-195,mz0
+425.7665,14.2703,PCB-199,mz0
+188.0387,5.3096,PCB-2,mz0
+425.7659,14.424,PCB-203,mz0
+463.7211,16.6465,PCB-206,mz0
+255.9608,7.5093,PCB-22,mz0
+255.9609,7.1275,PCB-25,mz0
+188.0387,5.3537,PCB-3,mz0
+152.062,5.5237,PCB-4,mz0
+291.919,9.3314,PCB-56,mz0
+221.9997,5.9295,PCB-6,mz0
+289.9216,8.7294,PCB-66,mz0
+291.919,8.6866,PCB-67,mz0
+291.9189,8.337,PCB-71,mz0
+289.9216,8.5902,PCB-74,mz0
+221.9998,6.0104,PCB-8,mz0
+325.88,10.4802,PCB-82,mz0
+323.8826,9.2747,PCB-87,mz0
+221.9998,5.8194,PCB-9,mz0
+323.8828,9.2063,PCB-99,mz0
+169.0648,5.7693,BDE-1,mz0
+141.0699,5.8698,BDE-2,mz0
+247.9832,5.9798,BDE-3,mz0
+168.0569,7.2398,BDE-10,mz0
+327.8916,8.0249,BDE-11,mz0
+327.8915,8.2345,BDE-12,mz0
+327.8916,8.2345,BDE-13,mz0
+327.8915,8.4575,BDE-15,mz0
+168.0569,7.7527,BDE-7,mz0
+168.057,8.1806,BDE-8,mz0
+403.8037,10.2406,BDE-17,mz0
+245.9675,10.6579,BDE-25,mz0
+245.9677,10.7128,BDE-28,mz0
+245.9676,9.4895,BDE-30,mz0
+245.9675,10.3304,BDE-32,mz0
+245.9677,11.0328,BDE-33,mz0
+405.8019,11.3203,BDE-35,mz0
+405.802,11.6498,BDE-37,mz0
+325.8757,13.5567,BDE-47,mz0
+325.8759,13.4696,BDE-49,mz0
+325.8757,14.038,BDE-66,mz0
+325.876,13.5656,BDE-71,mz0
+485.7105,13.2136,BDE-75,mz0
+325.8759,15.1874,BDE-77,mz0
+403.7863,17.1966,BDE-99,mz0
+403.7865,16.4774,BDE-100,mz0
+483.6949,17.9316,BDE-114,mz0
+403.7864,16.958,BDE-115,mz0
+403.7864,17.1478,BDE-116,mz0
+563.6223,18.1556,BDE-126,mz0
+403.7867,18.1019,BDE-85,mz0
+483.6946,19.5035,BDE-138,mz0
+483.6942,19.0461,BDE-153,mz0
+483.6942,18.4855,BDE-154,mz0
+483.6949,17.9563,BDE-155,mz0
+483.6945,19.5552,BDE-166,mz0
+561.6062,21.1498,BDE-181,mz0
+561.6064,20.2356,BDE-183,mz0
+561.6064,21.3517,BDE-190,mz0
+172.0063,4.6453,bis(2-Chloroethoxy)methane,mz0
+93.0101,3.0167,bis(2-Chloroethyl)ether,mz0
+204.0323,5.4102,4-Chlorophenyl phenyl ether,mz0
+390.2772,16.1287,bis(2-Ethylhexyl)phthalate,mz0
+168.0793,5.5237,N-Nitrosodi-n-propylamine,mz0
+198.0785,10.7675,N-Nitrosodiphenylamine,mz0
+162.023,4.2895,2-Chloronaphthalene,mz0
+145.9687,3.0644,"1,2-Dichlorobenzene",mz0
+145.9687,3.0945,"1,3-Dichlorobenzene",mz0
+145.9686,3.108,"1,4-Dichlorobenzene",mz0
+179.9295,3.0945,"1,2,4-Trichlorobenzene",mz0
+192.9372,9.8605,Endosulfan I ,mz0
+338.8723,11.2041,Endosulfan II ,mz0
+271.8105,12.1712,Endosulfan sulfate,mz0
+262.8573,10.4633,Endrin,mz0
+271.8098,7.6869,Heptachlor,mz0
+352.8436,9.0953,Heptachlor epoxide (Isomer B)-1,mz0
+122.0363,14.2502,Benzoic acid,mz0
+108.0569,4.9215,2-Methylphenol,mz0
+108.057,3.7881,4-Methylphenol,mz0
+195.9244,4.1551,"2,4,5-Trichlorophenol",mz0
+93.0574,3.1257,Aniline,mz0
+108.057,3.7811,Benzyl alcohol,mz0
+127.0184,5.0646,4-Chloroaniline,mz0
+142.0774,3.826,2-Methylnaphthalene,mz0
+138.0424,4.4072,2-Nitroaniline,mz0
+138.0424,4.8091,3-Nitroaniline,mz0
+138.0425,5.3955,4-Nitroaniline,mz0
+184.0994,5.3952,Benzidine,mz0
+252.0217,16.3889,"3,3'-Dichlorobenzidine-2",mz0
+152.0619,4.6836,Acenaphthylene,mz0
+276.0938,19.4652,"Benzo(g,h,i)perylene",mz0
+142.0181,3.7464,4-Chloro-3-methylphenol,mz0
+128.0024,3.1907,2-Chlorophenol,mz0
+161.9633,3.0347,"2,4-Dichlorophenol",mz0
+122.0726,9.6951,"2,4-Dimethylphenol",mz0
+198.0272,5.4362,"2-Methyl-4,6-dinitrophenol",mz0
+139.0263,3.0024,2-Nitrophenol,mz0
+139.0264,5.0262,4-Nitrophenol,mz0
+94.0414,3.7852,Phenol,mz0
+195.9241,4.1195,"2,4,6-Trichlorophenol",mz0
+164.1402,4.8246,Acenaphthene-d10,mz0
+240.1686,13.0783,Chrysene-d12,mz0
+149.989,17.6591,"1,4-Dichlorobenzene-d4",mz0
+136.1122,3.1416,Naphthalene-d8,mz0
+264.1693,17.5581,Perylene-d12,mz0
+188.1401,6.5174,Phenanthrene-d10,mz0
+113.0598,9.5196,potassium sorbate,mz0
+138.0312,8.4987,4-hydroxybenzoic acid,mz0
+152.0477,4.5711,methyl paraben,mz0
+154.0261,5.3222,protocatechuic acid,mz0
+166.0625,4.9384,ethyl paraben,mz0
+180.078,5.0708,isopropyl paraben,mz0
+194.0939,4.9425,butyl paraben,mz0
+228.0783,9.5555,benzyl paraben,mz0
+236.1407,8.4291,heptyl paraben,mz0
+180.0778,5.4154,propyl paraben,mz0
+194.0937,4.9461,isobutyl paraben,mz0
+206.1669,4.8462,"Phenol, 2-octyl-",mz0
+220.1825,4.8417,Nonylphenol,mz0
+264.2082,8.3182,Nonylphenol monoethoxylate,mz0
+284.077,5.8491,"2-Bromo-4-(2,4,4-trimethylpentan-2-yl)phenol",mz0
+308.2346,11.4901,Nonylphenol diethoxylate,mz0
+204.9693,6.8733,Chloramben,mz0
+219.9689,6.0202,"2,4-Dichlorophenoxyacetic acid",mz0
+219.9689,5.5277,Dicamba,mz0
+219.9689,5.5277,Dichlorprop Acid,mz0
+233.9845,5.9966,Picloram,mz0
+195.9357,5.0024,Bentazon,mz0
+240.0565,8.2414,Fenoprop,mz0
+267.9456,7.1746,Acifluorfen,mz0
+189.9584,4.7008,"3,5-dichlorobenzoic acid",mz0
+200.0235,5.6099,MCPA,mz0
+214.0392,5.6324,MCPP,mz0
+248.0005,7.261,"2-(2,4-dichlorophenoxy)butanoic acid",mz0
+253.93,7.2418,"2,4,5-trichlorophenoxyacetic acid",mz0
+140.0234,4.1743,Trimethyl Phosphate,mz0
+224.1196,7.88,Tripropyl Phosphate,mz0
+167.0468,5.5214,Tributyl Phosphate,mz0
+340.0847,13.301,(3-Methylphenyl) diphenyl phosphate (CDP),mz0
+340.0851,13.6331,(3-Methylphenyl) diphenyl phosphate (CDP),mz0
+362.1645,12.6579,2-Ethylhexyldiphenylphosphate,mz0
+368.117,14.3757,Tri-O-cresyl phosphate,mz0
+251.1795,17.8425,Isodecyl Diphenyl Phosphate,mz0
+407.1407,21.8235,Tris(2-ethylhexyl) phosphate,mz0
+258.1044,13.2953,Diisopropylphenylphosphate,mz0
+224.1196,18.0122,Triisopropyl Phosphate,mz0
+250.059,18.867,Tris(2-carboxyethyl)phosphine,mz0
+627.8094,21.1561,"4,4'-Isopropylidenebis[2-(2,6-dibromophenoxy)ethanol]",mz0
+236.0,19.4429,Tris(1-chloro-2-propyl) phosphate,mz0
+368.1159,16.288,Tri-P-cresyl phosphate,mz0
+98.9842,11.4456,"Tris(1,3-dichloro-2-propyl)phosphate",mz0
+493.7133,9.8206,"Bis(2,3-dibromopropyl) hydrogen phosphate",mz0
+539.7573,18.6414,Tetrabromobisphenol A,mz0
+567.7888,18.0077,Tetrabromobisphenol A Bismethyl Ether,mz0
+200.8732,18.766,"Tris(2,3-dibromopropyl) phosphate",mz0
+647.4249,21.8191,tris(tribromoneopentyl),mz0
+213.8813,5.4491,Pentaerythritol tribromide,mz0
+326.0035,7.4335,Tris(2-chloropropyl) phosphate,mz0
+369.8021,6.2455,"Allyl 2,4,6-tribromophenyl ether",mz0
+368.116,15.2384,Tri-M-cresyl phosphate,mz0
+104.815,19.195,"1,2,5,6-Tetrabromocyclooctane",mz0
+445.7148,8.5803,"2-bromoallyl-2,4,6-tribromophenyl ether",mz0
+477.6649,17.5034,Tetrabromophthalic Acid,mz0
+561.6734,18.6242,Tetrabromobisphenol S,mz0
+619.8222,24.2075,Tetrabromobisphenol A Diallyl Ether,mz0
+681.8648,19.7405,"1,2-Bis(2,4,6-tribromophenoxy)ethane",mz0
+329.7708,5.5356,"2,4,6-tris(2,4,6-tribromophenoxy)-1,3,5-triazine",mz0
+181.9725,3.0132,3-Bromostyrene,mz0
+228.0781,9.76,Benzophenone-3,mz0
+254.1663,8.4945,4-Methyl-benzylidene camphor,mz0
+310.1587,23.4242,Avobenzone,mz0
+326.0029,5.4033,Tri(Chloropropyl) phosphate (TCPP),mz0
+327.773,5.5325,"2,4,6-Tribromophenol",mz0
+310.1587,23.4242,Tetrachlorobisphenol A,mz0
+299.2374,23.119,tris(2-Butoxyethyl) phosphate (TBEP),mz0
+437.6744,12.2742,"2,3,4,5-Tetrabromobenzoic acid",mz0
+437.6744,16.5164,"2,3,4,5-Tetrabromobenzoic acid_1",mz0
+589.7047,19.5318,tetrabromobisphenol S bismethyl ether,mz0
+651.8118,23.3057,tetrabromobisphenol A bisglycidyl ether,mz0
+181.9725,3.0122,4-Bromostyrene,mz0
+208.0051,4.3073,"cis/trans-3-(2,2-dichlorovinyl)-2,2-dimethylcylo",mz0
+208.0051,4.3073,"cis/trans-3-(2,2-dichlorovinyl)-2,2-dimethylcylo",mz0
+214.0624,7.1037,3-Phenoxybenzoic acid,mz0
+159.0602,6.9587,4-fluro-3-phenoxy-benzoic acid,mz0
+262.1566,7.1644,Homosalate,mz0
+277.2036,10.9181,Octyl-dimethyl-PABA,mz0
+290.1879,11.5232,Occtyl-Methoxycinnamate (OMC),mz0
+141.9866,23.4875,"O,O-Dimethyl Thiophosphate",mz0
+137.0363,5.5149,"O,O-Diethyl Phosphonate",mz0
+157.9621,6.637,"O,O-Dimethyl dithiophosphate",mz0
+131.9811,19.1132,"O,O-Diethylthiophosphoric Acid",mz0
+185.9932,7.3222,"O,O-Diethyl dithiophosphate",mz0
+144.8926,19.212,Malathion Diacid,mz0
+164.0832,3.7285,Carbofuran phenol,mz0
+292.1296,9.2039,Mono(2-ethyl-5-oxohexyl) phthalate,mz0
+294.1468,9.2106,Mono(2-ethyl-5-hydroxyhexyl) phthalate,mz0
+486.128,22.6349,Mono(5-carboxy-2-ethylpentyl) phthalate,mz0
+239.1795,18.1822,Tripentyl Phosphate,mz0
+228.1144,10.0232,Bisphenol A,mz0
+154.0616,4.8375,Mono(3-carboxypropyl) phthalate,mz0
+126.9785,19.2615,triclocarban,mz0
+161.9634,3.0122,"2,5-Dichlorophenol",mz0
+101.0387,4.8442,PROPYLENE THIOUREA,mz0
+140.0284,19.1268,Thifensulfuron-methyl,mz0
+206.1665,4.8447,4-Tert-Octylphenol,mz0
+287.9507,9.1355,Triclosan,mz0
+200.0831,8.8813,Bisphenol F,mz0
+102.0245,5.4026,ETHYLENE THIOUREA,mz0
+145.9682,9.4646,Bensulfuron-methyl,mz0
+452.1092,6.1528,Foramsulfuron,mz0
+154.0612,3.8688,Halosulfuron-methyl,mz0
+154.0611,4.0967,Mesosulfuron-methyl,mz0
+140.0692,19.3981,metsulfuron-methyl,mz0
+410.0984,22.4422,nicosulfuron,mz0
+123.0791,3.015,oxasulfuron,mz0
+419.0852,7.4606,prosulfuron,mz0
+155.0468,5.5172,rimsulfuron,mz0
+513.0717,17.5394,sulfosulfuron,mz0
+401.054,3.834,triasulfuron,mz0
+237.1853,9.4475,triflusulfuron-methyl,mz0
+195.9246,4.0477,"2,4,6-trichlorophenol-1",mz0
+152.0943,4.3747,2-isopropyl-6-methyl-4-pyrimidinol,mz0
+154.039,5.5122,diethyl phosphate (DEP),mz0
+126.009,7.4357,dimethyl phosphate (DMP),mz0
+93.0336,14.0455,mono-benzyl phthalate(MBzP),mz0
+222.0883,15.0911,mono-n-butyl phthalate(MnBP),mz0
+149.0961,19.1408,mono-cyclohexyl phthalate(MCHP),mz0
+194.0575,6.6115,mono-ethyl phthalate(MEP),mz0
+278.1527,9.8629,mono-n-octyl phthalate(MOP),mz0
+221.0844,11.8895,mono-2-ethylhexyl phthalate(MEHP),mz0
+292.1695,11.2188,mono-isononyl phthalate(MiNP),mz0
+180.0418,14.0518,mono-methyl phthalate(MMP),mz0
+154.0768,4.7862,Acenaphthene,mz0
+178.0775,6.4444,Anthracene,mz0
+182.0838,5.4818,Azobenzene,mz0
+228.0929,12.867,Benz(a)anthracene,mz0
+252.0932,16.316,Benz[a]pyrene,mz0
+276.0931,19.2571,"Benzo(g,h,i)perylene",mz0
+252.0932,17.2264,Benzo(k)fluoranthene,mz0
+312.1359,11.7779,Benzyl butyl phthalate,mz0
+247.9832,5.8632,4-Bromophenyl phenyl ether,mz0
+167.0729,6.8304,Carbazole,mz0
+128.0024,5.0026,2-Chlorophenol-1,mz0
+278.109,19.343,"Dibenz(a,h)anthracene",mz0
+168.0569,4.9555,Dibenzofuran,mz0
+278.1513,7.7083,Dibutyl phthalate,mz0
+145.9684,3.1623,"1,2-Dichlorobenzene-1",mz0
+145.9684,3.0289,"1,4-Dichlorobenzene-1",mz0
+222.0894,5.2516,Diethyl phthalate,mz0
+184.0112,4.8468,"2,4-Dinitrophenol",mz0
+182.032,4.9757,"2,4-Dinitrotoluene",mz0
+182.0322,5.3636,"2,6-Dinitrotoluene",mz0
+390.2761,13.8302,Di-n-octyl phthalate,mz0
+202.078,8.7375,Fluoranthene,mz0
+166.0767,5.2905,Fluorene,mz0
+276.0931,19.5753,"Indeno(1,2,3-cd)pyrene",mz0
+108.0571,9.5525,2-Methylphenol-1,mz0
+108.057,9.6378,4-Methylphenol-1,mz0
+138.0415,5.322,3-Nitroaniline-1,mz0
+138.0424,6.5531,4-Nitroaniline-1,mz0
+123.0328,5.2494,Nitrobenzene,mz0
+123.0327,14.058,Nitrobenzene-2,mz0
+139.0264,5.026,2-Nitrophenol-1,mz0
+263.8466,6.1694,Pentachlorophenol,mz0
+178.0775,6.4444,Phenanthrene,mz0
+94.0413,5.8677,Phenol-1,mz0
+195.9244,4.0548,"2,4,5-Trichlorophenol-1",mz0
+252.0933,16.3338,Benzo(b)fluoranthene,mz0
+141.996,14.7176,bis(2-Chloroethyl)ether-1,mz0
+170.0271,6.3826,bis(2-Chloro-1-methylethyl)ether,mz0
+228.0931,12.8792,Chrysene,mz0
+145.9686,3.6622,"1,3-Dichlorobenzene-1",mz0
+145.9685,6.156,"1,4-Dichlorobenzene-2",mz0
+194.0571,4.5639,Dimethyl phthalate,mz0
+119.0364,4.6066,"2,6-Dinitrotoluene-1",mz0
+390.276,7.8711,bis(2-Ethylhexyl)phthalate-1,mz0
+281.8124,5.8818,Hexachlorobenzene,mz0
+269.8125,3.9211,Hexachlorocyclopentadiene,mz0
+233.8125,20.5846,Hexachloroethane,mz0
+138.104,9.6522,Isophorone,mz0
+123.0327,7.7184,Nitrobenzene-1,mz0
+198.0787,6.8229,N-Nitrosodiphenylamine-1,mz0
+202.0778,9.2624,Pyrene,mz0
+118.9451,3.2345,Bromobenzene,mz0
+127.9036,12.2624,Bromochloromethane,mz0
+161.8643,19.0212,Bromodichloromethane,mz0
+249.7614,19.7777,Bromoform,mz0
+134.1091,11.3193,n-Butylbenzene,mz0
+134.1091,19.1335,sec-Butylbenzene,mz0
+134.1091,19.367,tert-Butylbenzene,mz0
+116.9061,3.2345,Carbon tetrachloride,mz0
+112.0076,4.3949,Chlorobenzene,mz0
+95.0649,9.5262,Chloroform,mz0
+126.0231,4.7715,2-Chlorotoluene,mz0
+126.0228,5.5875,4-Chlorotoluene,mz0
+205.8119,3.2727,Dibromochloromethane,mz0
+156.8428,19.2143,"1,2-Dibromo-3-chloropropane",mz0
+106.8693,19.7135,"1,2-Dibromoethane",mz0
+106.9451,3.2322,Dibromomethane,mz0
+145.9687,3.2075,"1,3-Dichlorobenzene-2",mz0
+145.9686,3.239,"1,4-Dichlorobenzene-3",mz0
+95.9528,3.2929,"1,1-Dichloroethene",mz0
+95.9528,3.0234,"cis-1,2-Dichloroethene",mz0
+95.9528,3.0346,"trans-1,2-Dichloroethene",mz0
+111.9844,3.0324,"1,2-Dichloropropane",mz0
+111.9845,3.2075,"1,3-Dichloropropane",mz0
+111.9845,3.239,"2,2-Dichloropropane",mz0
+109.9684,4.329,"1,1-Dichloropropene",mz0
+106.0778,9.5194,Ethylbenzene,mz0
+257.813,3.2325,Hexachlorobutadiene,mz0
+120.0935,9.5262,Isopropylbenzene,mz0
+134.1093,9.6312,p-Isopropyltoluene,mz0
+128.0619,3.0933,Naphthalene,mz0
+120.0934,9.6205,n-Propylbenzene,mz0
+104.0621,9.5324,Styrene,mz0
+130.9033,3.2367,"1,1,1,2-Tetrachloroethane",mz0
+167.8692,3.2322,"1,1,2,2-Tetrachloroethane",mz0
+163.8751,3.2345,Tetrachloroethene,mz0
+92.0621,9.6182,Toluene,mz0
+179.9294,3.0282,"1,2,3-Trichlorobenzene",mz0
+179.9297,3.2348,"1,2,4-Trichlorobenzene-1",mz0
+96.9841,3.2345,"1,1,1-Trichloroethane",mz0
+96.9607,4.1795,"1,1,2-Trichloroethane",mz0
+129.9138,3.026,Trichloroethene,mz0
+120.0934,9.5279,"1,2,4-Trimethylbenzene",mz0
+120.0935,9.6357,"1,3,5-Trimethylbenzene",mz0
+106.0777,9.5346,o-Xylene,mz0
+106.0778,9.6289,m-Xylene,mz0
+106.0776,9.9032,p-Xylene,mz0
+201.9775,5.0548,"1-Chloro-2,4-dinitrobenzene",mz0
+201.9775,5.1693,"1-Chloro-3,4-dinitrobenzene",mz0
+156.9927,3.4313,1-Chloro-2-nitrobenzene,mz0
+156.9927,3.456,1-Chloro-4-nitrobenzene,mz0
+171.0082,3.7785,2-Chloro-6-nitrotoluene,mz0
+171.0082,3.8189,4-Chloro-2-nitrotoluene,mz0
+171.0081,4.1109,4-Chloro-3-nitrotoluene,mz0
+190.9537,3.938,"2,3-Dichloronitrobenzene",mz0
+190.9537,4.167,"2,4-Dichloronitrobenzene",mz0
+190.9535,4.1827,"3,5-Dichloronitrobenzene",mz0
+190.9536,4.2828,"3,4-Dichloronitrobenzene",mz0
+190.9538,4.3367,"2,5-Dichloronitrobenzene",mz0
+258.8752,5.2714,"2,3,5,6-Tetrachloronitrobenzene",mz0
+258.8757,5.6125,"2,3,4,5-Tetrachloronitrobenzene",mz0
+224.9147,4.4977,"1,2,3-Trichloro-4-nitrobenzene",mz0
+224.9145,4.8328,"1,2,4-Trichloro-5-nitrobenzene",mz0
+224.9145,5.0683,"2,4,6-Trichloronitrobenzene",mz0
+249.0185,8.6363,2-Chlorophenyl-4'-nitrophenyl ether,mz0
+249.0189,8.8331,3-Chlorophenyl-4'-nitrophenyl ether,mz0
+249.0189,9.0769,4-Chlorophenyl-4'-nitrophenyl ether,mz0
+296.9953,10.9663,"2,4-Dichlorophenyl-3'-methyl-4'-nitrophenyl ether",mz0
+282.9799,10.0271,"2,6-Dichlorophenyl-4'-nitrophenyl ether",mz0
+282.9799,10.3024,"3,5-Dichlorophenyl-4'-nitrophenyl ether",mz0
+282.9798,10.4169,"2,5-Dichlorophenyl-4'-nitrophenyl ether",mz0
+282.9799,10.8575,"2,3-Dichlorophenyl-4'-nitrophenyl ether",mz0
+282.9796,11.1331,"3,4-Dichlorophenyl-4'-nitrophenyl ether",mz0
+215.0574,7.1368,4-Nitrophenyl phenyl ether,mz0
+316.9406,11.4817,"2,4,6-Trichlorophenyl-4'-nitrophenyl ether",mz0
+316.9409,12.0485,"2,3,6-Trichlorophenyl-4'-nitrophenyl ether",mz0
+316.9407,12.1787,"2,3,5-Trichlorophenyl-4'-nitrophenyl ether",mz0
+316.9409,12.3224,"2,4,5-Trichlorophenyl-4'-nitrophenyl ether",mz0
+316.9409,12.9921,"3,4,5-Trichlorophenyl-4'-nitrophenyl ether",mz0
+316.9409,13.0999,"2,3,4-Trichlorophenyl-4'-nitrophenyl ether",mz0
+215.0933,6.1563,Atrazine,mz0
+239.1306,8.2815,Diphenamid,mz0
+189.1182,4.0653,EPTC,mz0
+242.056,5.4969,Ethoprop,mz0
+224.0443,4.433,Mevinphos,mz0
+241.1357,7.3882,Prometryne,mz0
+229.109,6.2038,Propazine,mz0
+241.136,7.5946,Terbutryn,mz0
+269.1171,12.2901,Alachlor-1,mz0
+211.1427,6.5363,Atraton,mz0
+260.0177,6.1918,Bromacil,mz0
+187.1026,5.0375,Molinate,mz0
+172.9556,9.12,Pronamide,mz0
+162.0311,14.0523,Tricyclazole,mz0
+184.9763,3.403,Dichlorvos,mz0
+330.0322,14.6434,Fenarimol,mz0
+271.157,9.5631,Napropamide,mz0
+213.1042,7.2609,Simetryn,mz0
+228.1037,4.8702,Tebuthiuron,mz0
+216.0683,14.6502,Terbacil,mz0
+225.1262,10.8558,o-aminoazotoluene,mz0
+169.0885,9.1121,4-aminobiphenyl,mz0
+127.0184,3.1684,4-chloroaniline-1,mz0
+137.0836,5.1719,p-cresidine,mz0
+138.0789,5.317,"2,4-diaminoanisole (as sulfate hydrate)",mz0
+198.1153,10.8535,"4,4'-diaminodiphenylmethane",mz0
+122.0838,5.3193,"2,4-diaminotoluene",mz0
+365.058,12.7145,Benzoylprop ethyl,mz0
+194.0794,6.8158,Caffeine,mz0
+201.0789,7.2984,Carbaryl,mz0
+123.995,3.799,o-Chlorophenyl thiourea,mz0
+252.022,13.1413,"3,3'-Dichlorobenzidine",mz0
+244.1206,17.1748,"3,3'-Dimethoxybenzidine",mz0
+212.1309,18.4252,"3,3'-Dimethylbenzidine-1",mz0
+232.0164,8.723,Diuron,mz0
+198.0553,6.8271,Monuron,mz0
+394.1407,19.935,Rotenone,mz0
+364.141,20.2518,Rotenone-1,mz0
+394.141,20.7395,Rotenone-2,mz0
+232.157,9.7827,Siduron,mz0
+208.1207,6.2743,Aminocarb,mz0
+257.0005,10.1412,Barban,mz0
+213.055,5.6311,Chlorpropham,mz0
+164.0944,5.5435,Fenuron,mz0
+232.0819,5.5031,Fluometuron,mz0
+248.0115,7.7461,Linuron,mz0
+162.0479,9.8184,Methomyl,mz0
+222.1361,6.6197,Mexacarbate,mz0
+359.9615,7.7393,Monuron TCA,mz0
+274.0629,7.8,Neburon,mz0
+219.0683,9.0452,Oxamyl,mz0
+179.094,4.6306,Propham,mz0
+209.1056,6.8452,baygon-1,mz0
+218.9849,6.1881,Swep,mz0
+260.0157,7.6574,Bromacil-1,mz0
+191.1302,5.1873,Deet,mz0
+252.1582,11.9023,Hexazinone,mz0
+214.0883,7.0768,Metribuzin,mz0
+293.0927,8.0794,Triadimefon,mz0
+217.1496,4.44,Butylate,mz0
+215.1338,5.5024,Cycloate,mz0
+203.1339,4.5448,Pebulate,mz0
+203.1338,4.6224,Vernolate,mz0
+88.0519,3.1862,Ethyl acetate,mz0
+102.0675,4.8461,Ethyl propionate,mz0
+116.0832,5.3623,Ethyl butyrate,mz0
+130.0989,6.5436,Ethyl valerate,mz0
+144.1144,8.0479,Ethyl caproate,mz0
+158.13,8.0457,Ethyl heptanoate,mz0
+172.1459,8.2353,Ethyl caprylate,mz0
+186.1615,3.7686,Ethyl pelargonate,mz0
+200.1771,4.3275,Ethyl caprate,mz0
+214.1929,4.8461,Ethyl undecanoate,mz0
+228.2084,5.3465,Ethyl laurate,mz0
+256.2398,6.5369,Ethyl myristate,mz0
+284.2712,8.2286,Ethyl palmitate,mz0
+312.3023,10.3603,Ethyl stearate,mz0
+206.0724,19.1182,Aldicarb sulfoxide,mz0
+89.0417,18.666,Aldicarb sulfone,mz0
+219.0667,23.6237,Oxamyl-1,mz0
+162.0466,4.8198,methomyl-1,mz0
+152.0833,19.2978,3-hydroxycarbofuran,mz0
+190.0775,4.8939,aldicarb,mz0
+152.0833,5.3426,baygon,mz0
+221.1045,6.0763,carbofuran,mz0
+144.0571,7.2546,1-naphthol,mz0
+225.0817,7.6154,methiocarb,mz0
+307.8099,8.7423,OCTACHLOROSTYRENE,mz0
+114.9943,8.8981,oxychlordane,mz0
+409.6806,8.2004,"2,3,4,6-tetrabromophenol",mz0
+487.5915,11.8565,pentabromophenol,mz0
+719.4324,22.2426,BDE-206,mz0
+340.88,10.6038,Parlar 26,mz0
+278.8878,12.7118,Parlar 50,mz0
+338.8644,14.1634,Parlar 62,mz0
+128.0621,3.2714,"4-Hydroxy-2,5-dimethyl-3(2H)-furanone",mz0
+95.0856,17.4333,(-)-Menthol,mz0
+126.0311,2.9422,Maltol,mz0
+133.076,4.5732,(+-)-Nicotine,mz0
+137.0232,4.8138,Ethyl vanillin,mz0
+139.039,3.3286,Ethyl maltol,mz0
+147.1168,18.1496,Glycerin ,mz0
+117.0697,17.9981,Propylene glycol,mz0
+139.1118,17.4356,Menthone ,mz0
+321.868,12.3149,"2,3,7,8-TCDD",mz0
+306.7871,12.1824,"2,3,7,8-TCDF-1",mz0
+355.8549,14.1604,"1,2,3,7,8-Pentachlorodibenzo-p-dioxin",mz0
+337.8621,13.4761,"1,2,3,7,8-Pentachlorodibenzofuran",mz0
+337.8621,14.0122,"2,3,4,7,8-Pentachlorodibenzofuran",mz0
+387.8182,16.2231,"1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin",mz0
+389.8154,16.277,"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin",mz0
+389.8154,16.4194,"1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin",mz0
+373.82,15.6354,"1,2,3,4,7,8-Hexachlorodibenzofuran",mz0
+371.8231,15.7059,"1,2,3,6,7,8-Hexachlorodibenzofuran",mz0
+371.8234,16.0986,"1,2,3,7,8,9-Hexachlorodibenzofuran",mz0
+371.8232,16.5597,"2,3,4,6,7,8-Hexachlorodibenzofuran",mz0
+423.7771,18.0625,"1,2,3,4,6,7,8-HepCDD",mz0
+407.7815,17.4894,"1,2,3,4,6,7,8-Heptachlorodibenzofuran",mz0
+407.7816,18.2498,"1,2,3,4,7,8,9-Heptachlorodibenzofuran",mz0
+457.7359,19.187,OCDD,mz0
+462.0531,19.1825,"1,2,3,4,6,7,8,9-Octachlorodibenzofuran",mz0
+252.0219,13.9086,"3,3'-Dichlorobenzidine-1",mz0
+244.1208,14.0772,"3,3'-Dimethoxybenzidine-1",mz0
+212.1308,6.3176,"3,3'-Dimethylbenzidine",mz0
+226.1488,19.6965,"3,3'-Dimethyl-4,4'-diaminodiphenylmethane",mz0
+13.9735,8.0592,"4,4'-Methylenebis(2-chloroaniline)",mz0
+143.073,5.2866,2-Naphthylamine,mz0
+200.0942,19.5034,"4,4'-Oxydianiline",mz0
+216.0736,9.2267,"4,4'-Thiodianiline",mz0
+107.0729,3.7968,o-Toluidine,mz0
+135.1044,9.0753,"2,4,5-Trimethylaniline",mz0
+197.0962,19.6763,p-Aminoazobenzene,mz0
+169.0886,5.5242,2-Aminobiphenyl,mz0
+123.0679,6.6594,o-Anisidine,mz0
+141.0341,5.318,3-Chloro-o-toluidine,mz0
+170.2029,3.2147,n-dodecane,mz0
+184.2186,3.8101,n-tridecane,mz0
+198.2344,4.367,n-tetradecane,mz0
+212.2498,4.8841,n-pentadecane,mz0
+226.2654,5.3758,n-hexadecane,mz0
+240.2815,5.9298,n-heptadecane,mz0
+254.2971,6.5925,n-octadecane,mz0
+268.3124,7.3889,n-nonadecane,mz0
+282.3284,8.303,n-icosane,mz0
+296.3444,10.1147,n-henicosane,mz0
+310.3596,10.4443,n-docosane,mz0
+324.3788,11.5222,n-tricosane,mz0
+338.3908,12.7727,n-tetracosane,mz0
+352.4056,13.9694,n-pentacosane,mz0
+366.4211,15.1458,n-hexacosane,mz0
+380.4348,16.7187,n-heptacosane,mz0
+394.4509,15.1377,n-octacosane,mz0
+422.4857,21.2457,n-triacontane,mz0
+158.0362,6.35,"1,4-Naphthoquinone",mz0
+191.0453,11.6834,4-Nitroquinoline-1-oxide,mz0
+108.0682,11.7898,p-Phenylenediamine,mz0
+120.0572,11.5422,Acetophenone,mz0
+223.0991,12.409,2-Acetylaminofluorene,mz0
+169.0886,9.2923,4-Aminobiphenyl-1,mz0
+334.0998,10.3927,Aramite,mz0
+334.1001,10.6394,Aramite-1,mz0
+240.0742,6.6207,"2-sec-Butyl-4,6-dinitrophenol",mz0
+108.0569,3.8216,m-Cresol,mz0
+161.9634,3.2503,"2,6-Dichlorophenol",mz0
+225.1261,10.6147,p-Dimethylaminoazobenzene,mz0
+256.1247,16.661,"7,12-Dimethylbenz(a)anthracene",mz0
+168.0166,4.633,m-Dinitrobenzene,mz0
+114.0677,9.8866,Ethyl methacrylate,mz0
+403.8523,16.6094,Hexachlorophene,mz0
+245.8126,3.2571,Hexachloropropene,mz0
+162.0675,4.2807,Isosafrole,mz0
+162.0676,3.7812,Isosafrole-1,mz0
+261.1304,17.8421,Methapyrilene,mz0
+268.1246,18.3072,3-Methylcholanthrene,mz0
+100.0519,9.8888,Methyl methacrylate,mz0
+111.0078,19.5245,Methyl methanesulfonate,mz0
+143.0731,5.3314,1-Naphthylamine,mz0
+143.073,5.9728,2-Naphthylamine-1,mz0
+158.1414,3.5915,N-Nitrosodi-n-butylamine,mz0
+101.071,3.5915,N-Nitrosodiethylamine,mz0
+89.0597,4.1406,N-Nitrosoethylmethylamine,mz0
+116.0599,4.9606,N-Nitrosomorpholine,mz0
+104.0621,4.2829,N-Nitrosopyrrolidine,mz0
+104.0621,3.7857,N-Nitrosopyrrolidine-1,mz0
+152.0581,5.401,5-Nitro-o-toluidine,mz0
+247.8517,4.9875,Pentachlorobenzene,mz0
+116.906,6.2822,Pentachloroethane,mz0
+292.8364,6.2822,Pentachloronitrobenzene,mz0
+179.0941,5.9413,Phenacetin,mz0
+93.0574,9.0749,2-Picoline,mz0
+225.022,6.4784,Pronamide-1,mz0
+162.0675,4.2807,Safrole,mz0
+162.0676,3.7812,Safrole-1,mz0
+213.8905,3.9976,"1,2,4,5-Tetrachlorobenzene",mz0
+229.8854,5.1755,"2,3,4,6-Tetrachlorophenol",mz0
+122.0361,3.1785,Benzoic acid-1,mz0
+228.078,7.2986,Benzyl salicylate,mz0
+154.1353,5.1553,"1,8-Cineole",mz0
+132.0567,3.6887,trans Cinnamaldehyde,mz0
+176.0828,4.6286,Cinnamyl acetate,mz0
+134.0724,4.6263,Cinnamyl alcohol,mz0
+116.0832,8.0705,Ethyl butyrate-1,mz0
+116.0832,10.1085,Ethyl butyrate-2,mz0
+154.1353,5.1553,Geraniol,mz0
+172.1458,9.8808,Hydroxycitronellal,mz0
+136.1245,3.8189,d-Limonene ,mz0
+150.1038,3.8167,Thymol ,mz0
+152.0463,4.373,Vanillin,mz0
+441.9964,7.358,DFTPP,mz0
+87.0441,8.1198,Butyric acid,mz0
+129.0911,8.1342,Hexanoic acid,mz0
+85.0648,3.8385,Valeric acid,mz0
+172.9763,7.22,Tetraethyl ethylenediphosphate,mz0
+264.2448,10.7415,Ethyl oleate,mz0
+329.9718,7.7336,HFPO-DA,mz0
+584.9883,22.9185,NEtFOSAA,mz0
+218.9851,18.5241,PFBS,mz0
+268.9785,3.7855,PFHxA,mz0
+363.9769,16.2087,PFHpA,mz0
+398.8184,19.5026,PFHxS,mz0
+413.9749,13.8348,PFOA,mz0
+499.941,21.4859,PFOS,mz0
+463.9662,14.8518,PFNA,mz0
+513.9667,20.8482,PFDA,mz0
+562.8679,18.3975,PFUnA,mz0
+570.2255,19.579,NMeFOSAA,mz0
+612.974,22.3167,PFDoA,mz0
+662.4484,22.0271,PFTrDA,mz0
+669.0708,23.2757,PFTA,mz0
+631.9019,21.2321,11Cl-PF3OUdS,mz0
+532.9913,7.5552,9Cl-PF3ONS,mz0
+378.8988,11.6446,ADONA,mz0
+191.1429,4.851,Glyphosate,mz0
+430.2699,20.6285,"Cholic acid sodium (5b-cholanic acid-3a,7a,12a-triol, CA),",mz0
+408.2847,20.8846,"a-muricholic acid (5b-cholanic acid-3a,6b,7a-triol, aMCA),",mz0
+408.2838,22.2993,"b-muricholic acid (5b-cholanic acid-3a,6b,7b-triol, bMCA),",mz0
+408.2864,22.5665,omega-muricholic acid,mz0
+408.2846,21.4932,"Hyocholic acid (3alpha,6alpha,7alpha-Trihydroxy-5beta-cholan-24-oic acid)",mz0
+414.29,20.8592,deoxycholate sodium,mz0
+414.29,22.016,deoxycholate sodium-1,mz0
+377.282,20.5621," hyodeoxycholic acid (5b-cholanic acid3a,6a-diol, HDCA),",mz0
+393.2902,21.2713,"ursodeoxycholic acid (5b-cholanic acid-3a, 7b-diol, UDCA),",mz0
+514.3295,20.666,sodium taurocholate hydrate,mz0
+537.2758,14.0057,tauro-b-muricholic acid sodium,mz0
+521.2781,12.6104,sodium taurochenodeoxycholate,mz0
+521.2798,15.6066,sodium taurohyodeoxycholate hedrate,mz0
+505.353,20.6897,taurolithocholic sodium salt,mz0
+483.3162,22.8836,glycocholic acid hydrate,mz0
+465.3068,20.6974,glycocholic acid,mz0
+471.2984,21.5503,sodium glycochenodeoxycholate,mz0
+448.3055,22.3055,glycodeoxycholic acid sodium salt,mz0
+449.3539,22.3075,"glycohyodeoxycholic acid [5b-cholanic acid-3a,6a-diol-N-(carboxymethyl)-amide],",mz0
+449.311,18.3626,"glycoursodeoxycholic acid [5b-cholanic acid-3a,7b-diol-N- (carboxymethyl)-amide],",mz0
+433.3149,19.2536,glycolithocholic acid [5b-cholanic acid3a-ol-N-(carboxymethyl)-amide],mz0
+361.8377,14.3588,PCB-169,mz1
+291.919,7.2785,PCB-52,mz1
+395.7989,13.7861,PCB-180,mz1
+257.9579,6.3416,PCB-18,mz1
+257.9579,7.033,PCB-31,mz1
+257.9579,7.033,PCB-28,mz1
+291.919,7.8958,PCB-44,mz1
+395.7989,14.0807,PCB-170,mz1
+627.5352,18.5067,PBB-153,mz1
+481.6968,18.9047,PBDE-153,mz1
+247.9655,11.0445,PBDE-28,mz1
+405.7843,16.9587,PBDE-99,mz1
+357.8508,14.309,"1,2,3,7,8-PCDD",mz1
+391.8121,16.4268,"1,2,3,4,7,8-HxCDD",mz1
+303.9012,11.6624,"2,3,7,8-TCDF",mz1
+375.8169,15.8109,"1,2,3,4,7,8-HxCDF",mz1
+409.7782,16.541,"1,2,3,4,6,7,8-HepCDF",mz1
+441.7423,19.3345,OCDF,mz1
+119.0368,15.0708,Azinphos ethyl ,mz1
+105.0335,14.2336,Azinphos methyl ,mz1
+257.8945,7.9857,Chlorpyrifos ,mz1
+285.9254,7.1657,Chlorpyrifos methyl ,mz1
+179.1178,6.5063,Diazinon ,mz1
+156.9872,13.2171,EPN ,mz1
+290.0731,7.6952,Fenitrothion ,mz1
+118.9883,6.6711,Isazophos ,mz1
+121.0285,14.0922,Phosalone ,mz1
+160.0393,13.0636,Phosmet ,mz1
+318.1034,8.446,Pirimiphos ethyl ,mz1
+290.0731,7.6795,Pirimiphos methyl ,mz1
+194.0242,15.4356,Pyraclofos ,mz1
+221.0796,15.0461,Pyrazophos ,mz1
+199.0868,13.0164,Pyridaphenthion ,mz1
+156.0382,8.9472,Quinalphos ,mz1
+292.9268,8.3798,Aldrin ,mz1
+182.9343,5.8529,a-BHC,mz1
+182.9343,6.1403,b-BHC,mz1
+182.9343,6.2469,g-BHC,mz1
+182.9343,6.625,d-BHC,mz1
+125.015,9.0867,Chlorbenside ,mz1
+372.826,9.0598,cis-Chlordane ,mz1
+372.826,9.3191,trans-Chlordane ,mz1
+174.9614,9.6434,Chlorfenson (Ovex) ,mz1
+190.9658,4.8457,Chloroneb ,mz1
+235.0079,10.0159,"2,4'-DDD ",mz1
+235.0079,10.8567,"4,4'-DDD ",mz1
+246.0008,9.1641,"2,4'-DDE ",mz1
+246.0008,9.8847,"4,4'-DDE ",mz1
+237.0046,10.8544,"2,4'-DDT ",mz1
+237.0046,11.7615,"4,4'-DDT ",mz1
+138.9945,8.1241,"4,4'-Dichlorobenzophenone ",mz1
+140.9914,9.3973,"4,4'-Dichlorobenzophenone-1",mz1
+140.9914,10.1407,"4,4'-Dichlorobenzophenone-2",mz1
+262.8563,9.9071,Dieldrin ,mz1
+240.8956,6.8605,Endosulfan ether ,mz1
+249.8488,10.3481,Endrin aldehyde ,mz1
+318.9004,12.6611,Endrin ketone ,mz1
+223.0518,21.83,Ethylan (Perthane) ,mz1
+141.0004,8.2116,Fenson ,mz1
+352.8441,8.5869,Heptachlor epoxide (isomer B) ,mz1
+192.9375,8.3835,Isodrin ,mz1
+121.0648,11.994,"2,4'-Methoxychlor ",mz1
+238.0991,11.5709,"4,4'-Methoxychlor olefin ",mz1
+273.8069,14.2467,Mirex ,mz1
+408.7842,9.3874,cis-Nonachlor ,mz1
+408.7842,10.7455,trans-Nonachlor ,mz1
+236.8409,5.9472,Pentachloroanisole ,mz1
+295.8367,7.6003,Pentachlorothioanisole ,mz1
+158.9665,13.7214,Tetradifon ,mz1
+264.022,5.7433,Benfluralin ,mz1
+153.0697,4.2886,Biphenyl ,mz1
+265.8778,6.5359,Chlorothalonil,mz1
+123.0138,7.8132,Dichlofluanid ,mz1
+123.9949,6.0773,Dichloran ,mz1
+162.9765,6.2347,"3,4-Dichloroaniline ",mz1
+172.9609,4.0274,Dichlobenil,mz1
+168.0807,5.5202,Diphenylamine ,mz1
+276.0587,5.6243,Ethalfluralin ,mz1
+326.0142,6.5269,Fluchloralin ,mz1
+238.0822,8.5319,Isopropalin ,mz1
+274.0129,12.6644,Nitralin ,mz1
+202.0179,10.5717,Nitrofen ,mz1
+252.0391,10.2983,Oxyfluorfen ,mz1
+252.0979,8.6136,Pendimethalin ,mz1
+264.8596,6.9352,Pentachloroaniline ,mz1
+274.8439,6.3088,Pentachlorobenzonitrile ,mz1
+279.0334,7.7346,Prodiamine ,mz1
+318.0692,6.365,Profluralin ,mz1
+230.8985,5.5112,"2,3,5,6-Tetrachloroaniline ",mz1
+122.0601,4.8512,THPI (Tetrahydrophthalimide) ,mz1
+344.9763,5.4977,Tolylfluanid ,mz1
+264.0219,5.7119,Trifluralin ,mz1
+146.0965,7.1622,Acetochlor ,mz1
+160.112,7.2979,Alachlor ,mz1
+138.0914,3.7143,Allidochlor ,mz1
+238.0632,7.2732,Clomazone (Command) ,mz1
+236.0401,11.7356,Diallate_cis,mz1
+236.0401,11.7356,Diallate_trans,mz1
+134.0965,7.0769,Dimethachlor ,mz1
+181.0648,13.6411,Fenpropathrin ,mz1
+340.0392,16.0282,Fluquinconazole ,mz1
+173.0206,9.8644,Flutolanil ,mz1
+132.081,8.6439,Metazachlor ,mz1
+227.1065,13.465,Methoxychlor ,mz1
+162.0912,7.3765,Metolachlor ,mz1
+121.0883,4.8117,"N-(2,4-Dimethylphenyl)formamide ",mz1
+302.0305,11.7401,Norflurazon ,mz1
+174.9589,10.1653,Oxadiazon ,mz1
+176.1071,9.9564,Pretilachlor,mz1
+376.0342,4.3749,Prochloraz ,mz1
+162.1277,7.9383,Propachlor ,mz1
+160.9795,7.1084,Propanil ,mz1
+162.0912,7.3765,Propisochlor ,mz1
+147.1168,16.1315,Pyridaben ,mz1
+171.032,13.7677,Tebufenpyrad ,mz1
+128.1071,6.7837,Triallate ,mz1
+208.1443,10.3161,Bupirimate ,mz1
+275.9648,12.5452,Captafol ,mz1
+149.0449,4.6918,Captan ,mz1
+247.048,10.49,Chlorfenapyr ,mz1
+224.1182,8.6561,Cyprodinil ,mz1
+163.1116,17.7026,Etofenprox ,mz1
+182.9175,4.6267,Etridiazole ,mz1
+366.9276,10.5596,Fipronil ,mz1
+127.0416,9.8722,Fludioxonil ,mz1
+301.0582,18.0406,Fluridone (Sonar) ,mz1
+233.0593,10.2503,Flusilazole ,mz1
+328.0942,17.8443,Flutriafol ,mz1
+112.0502,9.0587,Folpet ,mz1
+314.0097,13.0907,Iprodione ,mz1
+153.0659,11.8523,Lenacil ,mz1
+164.0704,8.4464,MGK-264 ,mz1
+164.0705,8.6975,MGK_264_1,mz1
+179.0245,10.1875,Myclobutanil ,mz1
+236.0586,9.4776,Paclobutrazol ,mz1
+249.9884,5.4871,Penconazole ,mz1
+96.057,9.0039,Procymidone ,mz1
+135.0803,12.4693,Propargite ,mz1
+198.1025,6.5663,Pyrimethanil ,mz1
+136.1203,19.3654,Pyriproxyfen ,mz1
+125.0152,12.3044,Tebuconazole ,mz1
+161.0112,6.6483,Terbacil-1,mz1
+214.0853,6.4285,Terbuthylazine ,mz1
+161.0167,9.7936,Tricyclazole (Beam)-1,mz1
+205.9983,9.1171,Triflumizole ,mz1
+212.0027,7.2467,Vinclozolin ,mz1
+181.0646,15.3521,Acrinathrin ,mz1
+152.0618,8.0321,Anthraquinone ,mz1
+181.101,13.4226,Bifenthrin ,mz1
+123.1169,8.993,Bioallethrin ,mz1
+206.06,16.9059,Cyfluthrin-1,mz1
+206.06,17.0775,Cyfluthrin-2,mz1
+206.06,17.1256,Cyfluthrin-3,mz1
+206.06,17.2154,Cyfluthrin-4,mz1
+181.0647,14.9158,lambda-Cyhalothrin ,mz1
+181.0647,14.6579,gama-Cyhalothrin ,mz1
+181.0648,17.3198,Cypermethrin_1,mz1
+181.0648,17.4801,Cypermethrin_2,mz1
+181.0648,17.5161,Cypermethrin_3,mz1
+181.0648,17.5789,Cypermethrin_4,mz1
+171.9881,18.7539,Deltamethrin_1,mz1
+173.9861,18.8233,Deltamethrin_2,mz1
+125.0152,18.2542,Fenvalerate_1,mz1
+125.0152,18.4512,Fenvalerate_2,mz1
+157.0459,17.5677,Flucythrinate_1,mz1
+157.0459,17.8076,Flucythrinate_2,mz1
+250.0609,18.4242,tau-Fluvalinate_1,mz1
+250.0609,18.5051,tau-Fluvalinate_2,mz1
+183.0804,16.0042,cis-Permethrin ,mz1
+183.0803,16.2281,trans-Permethrin ,mz1
+183.0805,14.0307,Phenothrin_cis,mz1
+183.0805,14.0554,Phenothrin_trans,mz1
+128.0618,12.7986,Resmethrin ,mz1
+141.0512,14.9203,Tefluthrin ,mz1
+164.1096,13.199,Tetramethrin ,mz1
+163.0154,7.4073,Transfluthrin ,mz1
+387.249,17.735,Acequinocyl ,mz1
+338.9014,13.2951,Bromopropylate ,mz1
+312.0595,11.7542,Carfentrazone ethyl ,mz1
+325.0211,12.0236,Chlorobenzilate,mz1
+258.98,8.8085,Chlozolinate ,mz1
+300.8799,8.0645,DCPA methyl ester (Chlorthal-dimethyl) ,mz1
+282.0746,10.8059,Fluazifop-p-butyl ,mz1
+160.1122,7.4271,Metalaxyl ,mz1
+169.0646,4.9876,2-Phenylphenol ,mz1
+374.9006,14.0963,Bromfenvinfos-methyl ,mz1
+344.8478,11.4796,Bromfenvinphos ( E ),mz1
+392.8299,20.4197,Bromophos ethyl ,mz1
+330.6098,21.3047,Bromophos methyl ,mz1
+156.9871,11.6878,Carbophenothion ,mz1
+324.8786,15.8107,Chlorfenvinphos ,mz1
+268.9264,11.1504,Chlorthiophos -1,mz1
+268.9265,10.8316,Chlorthiophos -2,mz1
+221.9127,10.6151,Chlorthiophos -3,mz1
+96.9506,16.035,Coumaphos ,mz1
+109.0105,11.7215,Edifenphos ,mz1
+230.9736,11.1099,Ethion ,mz1
+154.0445,9.8844,Fenamiphos ,mz1
+321.8962,8.6612,Fenchlorphos (Ronnel) ,mz1
+125.0421,8.0756,Fenthion ,mz1
+413.8318,11.2995,Iodofenphos ,mz1
+170.7278,22.2185,Leptophos ,mz1
+104.0256,3.8214,Malathion ,mz1
+180.0004,4.8706,Methacrifos ,mz1
+96.9057,9.9967,Profenofos ,mz1
+140.9593,9.874,Prothiofos ,mz1
+293.9909,5.7704,Sulfotepp ,mz1
+156.006,11.4646,Sulprofos ,mz1
+230.9735,6.4173,Terbufos ,mz1
+110.981,9.7071,Tetrachlorvinphos ,mz1
+268.9255,11.1459,Tolclofos-methyl ,mz1
+268.9255,10.8271,Tolclofos-methyl-1,mz1
+88.0341,6.6478,Disulfoton,mz1
+108.987,6.4618,Fonofos ,mz1
+127.0154,7.2792,Methyl parathion ,mz1
+109.0049,8.14,Parathion (ethyl parathion) ,mz1
+121.0411,5.8944,Phorate ,mz1
+176.083,12.7065,Piperonyl butoxide ,mz1
+162.066,11.4868,Triazophos ,mz1
+327.8768,10.0804,PCB-111,mz1
+359.8406,10.0804,PCB-116,mz1
+327.8768,9.0183,PCB-121,mz1
+327.8769,9.9996,PCB-125,mz1
+361.8377,9.9412,PCB-140,mz1
+289.9032,8.7596,PCB-142,mz1
+289.9033,10.8742,PCB-143,mz1
+359.8406,11.1191,PCB-148,mz1
+361.8377,10.9707,PCB-150,mz1
+361.8378,10.0804,PCB-155,mz1
+361.8377,9.7048,PCB-160,mz1
+361.8377,9.2547,PCB-162,mz1
+361.8377,12.0627,PCB-168,mz1
+395.7987,12.6946,PCB-188,mz1
+257.9579,11.4363,PCB-23,mz1
+257.9578,11.1774,PCB-39,mz1
+289.922,6.9511,PCB-62,mz1
+289.922,7.8126,PCB-68,mz1
+291.919,7.9773,PCB-80,mz1
+289.9219,8.4363,PCB-88,mz1
+253.9452,9.0789,PCB-94,mz1
+327.8767,10.1932,PCB-109,mz1
+327.877,9.734,PCB-112,mz1
+327.8769,9.7865,PCB-120,mz1
+361.8379,12.5446,PCB-159,mz1
+395.799,12.0505,PCB-186,mz1
+395.7988,13.5877,PCB-192,mz1
+357.8252,14.5922,PCB-198,mz1
+257.9579,6.3314,PCB-30,mz1
+291.919,7.8185,PCB-43,mz1
+289.922,9.1687,PCB-55,mz1
+289.922,8.7187,PCB-58,mz1
+289.922,8.9243,PCB-76,mz1
+359.8406,10.8918,PCB-106,mz1
+327.877,10.7728,PCB-108,mz1
+359.8408,9.8275,PCB-152,mz1
+361.8378,12.3733,PCB-166,mz1
+393.8014,12.7646,PCB-177,mz1
+395.7989,12.4316,PCB-182,mz1
+395.7987,11.3533,PCB-184,mz1
+427.7626,13.4639,PCB-204,mz1
+257.9579,7.6594,PCB-36,mz1
+289.9219,8.3748,PCB-72,mz1
+359.8408,9.9092,PCB-78,mz1
+289.922,9.7063,PCB-79,mz1
+253.9452,9.4423,PCB-89,mz1
+327.8769,8.4363,PCB-96,mz1
+253.9452,8.9024,PCB-98,mz1
+253.9451,8.9022,PCB-102,mz1
+152.062,6.4545,PCB-11,mz1
+327.8768,9.5181,PCB-113,mz1
+327.8767,12.3625,PCB-126,mz1
+327.8768,11.5973,PCB-127,mz1
+289.9033,11.1109,PCB-133,mz1
+361.8377,10.787,PCB-139,mz1
+361.8377,9.983,PCB-145,mz1
+361.8377,11.2547,PCB-161,mz1
+257.9579,7.3506,PCB-21,mz1
+257.9578,7.9326,PCB-38,mz1
+291.9189,7.1646,PCB-50,mz1
+289.9218,8.5889,PCB-57,mz1
+289.9219,8.8249,PCB-61,mz1
+291.9189,7.9415,PCB-65,mz1
+253.9452,9.9057,PCB-86,mz1
+327.8768,8.0337,PCB-104,mz1
+327.8768,11.1325,PCB-114,mz1
+152.062,6.5193,PCB-12,mz1
+325.8797,9.7347,PCB-123,mz1
+289.9033,12.203,PCB-129,mz1
+395.7986,11.8431,PCB-137,mz1
+359.8412,12.9834,PCB-156,mz1
+359.8412,12.4437,PCB-167,mz1
+395.7986,11.8521,PCB-176,mz1
+361.8378,12.8357,PCB-185,mz1
+393.8018,14.8918,PCB-189,mz1
+257.9579,7.3745,PCB-33,mz1
+219.9838,7.6298,PCB-49,mz1
+289.9218,8.1738,PCB-59,mz1
+289.9219,8.787,PCB-63,mz1
+289.9219,8.3921,PCB-64,mz1
+289.9219,10.3427,PCB-77,mz1
+253.9453,10.1264,PCB-85,mz1
+253.9451,9.1018,PCB-91,mz1
+253.9453,9.9084,PCB-97,mz1
+253.9451,8.634,PCB-100,mz1
+327.8768,10.0032,PCB-117,mz1
+327.8768,11.17,PCB-122,mz1
+327.8767,10.7413,PCB-124,mz1
+152.062,6.5496,PCB-13,mz1
+289.9033,11.9088,PCB-130,mz1
+152.062,6.1977,PCB-14,mz1
+361.8377,11.1791,PCB-154,mz1
+361.8377,12.0228,PCB-163,mz1
+359.8406,10.26,PCB-165,mz1
+395.7989,12.3472,PCB-175,mz1
+427.7629,13.1773,PCB-200,mz1
+427.7626,13.9974,PCB-201,mz1
+427.7629,13.3977,PCB-202,mz1
+257.9578,8.1487,PCB-35,mz1
+291.9189,7.444,PCB-51,mz1
+291.9189,7.359,PCB-53,mz1
+289.9218,6.9727,PCB-54,mz1
+289.9219,7.76,PCB-73,mz1
+289.9218,7.9313,PCB-75,mz1
+289.9219,10.1201,PCB-81,mz1
+253.9451,9.472,PCB-90,mz1
+325.8797,9.1906,PCB-101,mz1
+325.8797,10.5861,PCB-105,mz1
+325.8799,9.9342,PCB-118,mz1
+327.8769,9.43,PCB-119,mz1
+289.9035,12.65,PCB-128,mz1
+289.9033,10.86,PCB-134,mz1
+361.8379,9.96,PCB-136,mz1
+361.8379,10.45,PCB-144,mz1
+152.062,5.84,PCB-15,mz1
+359.8412,10.1844,PCB-151,mz1
+359.8412,13.0989,PCB-157,mz1
+361.8375,11.7337,PCB-158,mz1
+395.799,14.5096,PCB-190,mz1
+395.7987,13.9052,PCB-191,mz1
+257.9579,7.3754,PCB-20,mz1
+461.7243,15.7538,PCB-207,mz1
+461.7241,15.5146,PCB-208,mz1
+149.0234,17.7049,PCB-209,mz1
+257.9578,6.6608,PCB-27,mz1
+257.9579,7.0012,PCB-29,mz1
+257.9578,6.9339,PCB-34,mz1
+254.9531,8.5003,PCB-40,mz1
+291.919,8.1998,PCB-42,mz1
+219.9841,7.9265,PCB-47,mz1
+289.922,7.7362,PCB-69,mz1
+253.9452,9.37,PCB-92,mz1
+253.9452,8.9306,PCB-93,mz1
+221.9999,5.521,PCB-10,mz1
+253.9452,8.5165,PCB-103,mz1
+253.9451,10.7908,PCB-107,mz1
+359.8409,10.0401,PCB-115,mz1
+289.9033,11.0936,PCB-131,mz1
+289.9033,11.4114,PCB-132,mz1
+289.9033,10.5854,PCB-135,mz1
+361.8378,11.7177,PCB-141,mz1
+359.8409,10.63,PCB-149,mz1
+289.9034,11.31,PCB-164,mz1
+255.9609,5.77,PCB-17,mz1
+395.7989,13.24,PCB-171,mz1
+393.8011,13.2179,PCB-172,mz1
+393.8011,11.8425,PCB-178,mz1
+393.8011,12.197,PCB-183,mz1
+393.8011,13.3963,PCB-193,mz1
+429.7603,14.424,PCB-196,mz1
+427.763,13.6042,PCB-197,mz1
+427.7629,16.2832,PCB-205,mz1
+257.9579,6.6664,PCB-24,mz1
+257.9578,7.103,PCB-26,mz1
+257.9579,6.7993,PCB-32,mz1
+257.9579,8.2901,PCB-37,mz1
+291.919,8.3562,PCB-41,mz1
+291.919,7.548,PCB-45,mz1
+289.9219,7.6713,PCB-46,mz1
+291.919,7.9077,PCB-48,mz1
+152.062,5.9958,PCB-5,mz1
+289.9219,9.3499,PCB-60,mz1
+152.0621,5.8123,PCB-7,mz1
+291.9189,8.9679,PCB-70,mz1
+327.8768,9.7843,PCB-83,mz1
+253.9452,9.3836,PCB-84,mz1
+289.9219,8.9724,PCB-95,mz1
+152.062,4.9356,PCB-1,mz1
+325.8796,9.2971,PCB-110,mz1
+359.8404,11.7202,PCB-138,mz1
+359.8404,10.9259,PCB-146,mz1
+289.9033,10.6823,PCB-147,mz1
+359.8404,11.0718,PCB-153,mz1
+220.992,6.7801,PCB-16,mz1
+395.7989,13.3724,PCB-173,mz1
+395.7988,13.009,PCB-174,mz1
+395.799,11.6656,PCB-179,mz1
+395.7988,13.1257,PCB-181,mz1
+393.8011,12.041,PCB-187,mz1
+220.992,6.2186,PCB-19,mz1
+429.7603,15.7478,PCB-194,mz1
+427.7625,15.1622,PCB-195,mz1
+429.7603,14.2703,PCB-199,mz1
+152.062,5.3096,PCB-2,mz1
+429.7603,14.424,PCB-203,mz1
+461.7249,16.6465,PCB-206,mz1
+257.9579,7.5093,PCB-22,mz1
+257.9579,7.1275,PCB-25,mz1
+152.062,5.3537,PCB-3,mz1
+187.0309,5.5237,PCB-4,mz1
+289.922,9.3314,PCB-56,mz1
+152.062,5.9295,PCB-6,mz1
+219.984,8.7294,PCB-66,mz1
+289.922,8.6866,PCB-67,mz1
+289.9219,8.337,PCB-71,mz1
+219.984,8.5902,PCB-74,mz1
+152.062,6.0104,PCB-8,mz1
+253.9452,10.4802,PCB-82,mz1
+325.8796,9.2747,PCB-87,mz1
+152.062,5.8194,PCB-9,mz1
+325.8796,9.2063,PCB-99,mz1
+141.0699,5.7693,BDE-1,mz1
+247.9833,5.8698,BDE-2,mz1
+249.9812,5.9798,BDE-3,mz1
+327.8916,7.2398,BDE-10,mz1
+168.057,8.0249,BDE-11,mz1
+168.0569,8.2345,BDE-12,mz1
+168.057,8.2345,BDE-13,mz1
+325.8936,8.4575,BDE-15,mz1
+327.8915,7.7527,BDE-7,mz1
+327.8915,8.1806,BDE-8,mz1
+245.9677,10.2406,BDE-17,mz1
+247.9655,10.6579,BDE-25,mz1
+247.9655,10.7128,BDE-28,mz1
+247.9656,9.4895,BDE-30,mz1
+247.9655,10.3304,BDE-32,mz1
+247.9656,11.0328,BDE-33,mz1
+407.7998,11.3203,BDE-35,mz1
+407.7999,11.6498,BDE-37,mz1
+323.8779,13.5567,BDE-47,mz1
+323.878,13.4696,BDE-49,mz1
+323.8779,14.038,BDE-66,mz1
+485.7105,13.5656,BDE-71,mz1
+483.7124,13.2136,BDE-75,mz1
+323.878,15.1874,BDE-77,mz1
+405.7841,17.1966,BDE-99,mz1
+405.7844,16.4774,BDE-100,mz1
+403.7865,17.9316,BDE-114,mz1
+405.7842,16.958,BDE-115,mz1
+405.7844,17.1478,BDE-116,mz1
+565.6204,18.1556,BDE-126,mz1
+405.7839,18.1019,BDE-85,mz1
+481.6968,19.5035,BDE-138,mz1
+481.6966,19.0461,BDE-153,mz1
+481.6966,18.4855,BDE-154,mz1
+403.7865,17.9563,BDE-155,mz1
+481.6966,19.5552,BDE-166,mz1
+563.6043,21.1498,BDE-181,mz1
+563.6043,20.2356,BDE-183,mz1
+563.6042,21.3517,BDE-190,mz1
+173.0033,4.6453,bis(2-Chloroethoxy)methane,mz1
+95.0071,3.0167,bis(2-Chloroethyl)ether,mz1
+203.0198,5.4102,4-Chlorophenyl phenyl ether,mz1
+332.1604,16.1287,bis(2-Ethylhexyl)phthalate,mz1
+169.0886,5.5237,N-Nitrosodi-n-propylamine,mz1
+167.073,10.7675,N-Nitrosodiphenylamine,mz1
+164.02,4.2895,2-Chloronaphthalene,mz1
+144.9607,3.0644,"1,2-Dichlorobenzene",mz1
+144.9607,3.0945,"1,3-Dichlorobenzene",mz1
+144.9607,3.108,"1,4-Dichlorobenzene",mz1
+181.9264,3.0945,"1,2,4-Trichlorobenzene",mz1
+194.9343,9.8605,Endosulfan I ,mz1
+336.8754,11.2041,Endosulfan II ,mz1
+273.8075,12.1712,Endosulfan sulfate,mz1
+264.8544,10.4633,Endrin,mz1
+273.8069,7.6869,Heptachlor,mz1
+354.8405,9.0953,Heptachlor epoxide (Isomer B)-1,mz1
+149.0232,14.2502,Benzoic acid,mz1
+107.0491,4.9215,2-Methylphenol,mz1
+106.0652,3.7881,4-Methylphenol,mz1
+197.9214,4.1551,"2,4,5-Trichlorophenol",mz1
+94.0414,3.1257,Aniline,mz1
+135.0679,3.7811,Benzyl alcohol,mz1
+129.0155,5.0646,4-Chloroaniline,mz1
+141.0697,3.826,2-Methylnaphthalene,mz1
+138.0423,4.4072,2-Nitroaniline,mz1
+138.0423,4.8091,3-Nitroaniline,mz1
+108.0443,5.3955,4-Nitroaniline,mz1
+185.1026,5.3952,Benzidine,mz1
+254.0192,16.3889,"3,3'-Dichlorobenzidine-2",mz1
+150.0461,4.6836,Acenaphthylene,mz1
+277.0971,19.4652,"Benzo(g,h,i)perylene",mz1
+144.0151,3.7464,4-Chloro-3-methylphenol,mz1
+125.9866,3.1907,2-Chlorophenol,mz1
+163.9603,3.0347,"2,4-Dichlorophenol",mz1
+107.0491,9.6951,"2,4-Dimethylphenol",mz1
+121.0284,5.4362,"2-Methyl-4,6-dinitrophenol",mz1
+109.0283,3.0024,2-Nitrophenol,mz1
+109.0285,5.0262,4-Nitrophenol,mz1
+95.0492,3.7852,Phenol,mz1
+197.9211,4.1195,"2,4,6-Trichlorophenol",mz1
+162.1258,4.8246,Acenaphthene-d10,mz1
+236.1405,13.0783,Chrysene-d12,mz1
+150.8543,17.6591,"1,4-Dichlorobenzene-d4",mz1
+137.1155,3.1416,Naphthalene-d8,mz1
+260.1411,17.5581,Perylene-d12,mz1
+184.112,6.5174,Phenanthrene-d10,mz1
+112.0519,9.5196,potassium sorbate,mz1
+151.0389,8.4987,4-hydroxybenzoic acid,mz1
+121.0283,4.5711,methyl paraben,mz1
+193.0168,5.3222,protocatechuic acid,mz1
+121.0284,4.9384,ethyl paraben,mz1
+121.0284,5.0708,isopropyl paraben,mz1
+121.0286,4.9425,butyl paraben,mz1
+121.0284,9.5555,benzyl paraben,mz1
+121.0285,8.4291,heptyl paraben,mz1
+121.0283,5.4154,propyl paraben,mz1
+138.0313,4.9461,isobutyl paraben,mz1
+107.0494,4.8462,"Phenol, 2-octyl-",mz1
+135.0808,4.8417,Nonylphenol,mz1
+135.0806,8.3182,Nonylphenol monoethoxylate,mz1
+214.989,5.8491,"2-Bromo-4-(2,4,4-trimethylpentan-2-yl)phenol",mz1
+135.0805,11.4901,Nonylphenol diethoxylate,mz1
+206.9663,6.8733,Chloramben,mz1
+132.9608,6.0202,"2,4-Dichlorophenoxyacetic acid",mz1
+201.9583,5.5277,Dicamba,mz1
+201.9583,5.5277,Dichlorprop Acid,mz1
+161.9633,5.9966,Picloram,mz1
+197.9327,5.0024,Bentazon,mz1
+119.0367,8.2414,Fenoprop,mz1
+195.9244,7.1746,Acifluorfen,mz1
+172.9559,4.7008,"3,5-dichlorobenzoic acid",mz1
+142.0179,5.6099,MCPA,mz1
+142.0179,5.6324,MCPP,mz1
+161.9634,7.261,"2-(2,4-dichlorophenoxy)butanoic acid",mz1
+195.9244,7.2418,"2,4,5-trichlorophenoxyacetic acid",mz1
+94.9893,4.1743,Trimethyl Phosphate,mz1
+99.1168,7.88,Tripropyl Phosphate,mz1
+153.0312,5.5214,Tributyl Phosphate,mz1
+339.0789,13.301,(3-Methylphenyl) diphenyl phosphate (CDP),mz1
+339.0789,13.6331,(3-Methylphenyl) diphenyl phosphate (CDP),mz1
+251.0473,12.6579,2-Ethylhexyldiphenylphosphate,mz1
+165.0696,14.3757,Tri-O-cresyl phosphate,mz1
+252.1827,17.8425,Isodecyl Diphenyl Phosphate,mz1
+321.221,21.8235,Tris(2-ethylhexyl) phosphate,mz1
+259.1123,13.2953,Diisopropylphenylphosphate,mz1
+125.0387,18.0122,Triisopropyl Phosphate,mz1
+177.0311,18.867,Tris(2-carboxyethyl)phosphine,mz1
+292.9457,21.1561,"4,4'-Isopropylidenebis[2-(2,6-dibromophenoxy)ethanol]",mz1
+340.0047,19.4429,Tris(1-chloro-2-propyl) phosphate,mz1
+367.1093,16.288,Tri-P-cresyl phosphate,mz1
+190.9426,11.4456,"Tris(1,3-dichloro-2-propyl)phosphate",mz1
+492.4078,9.8206,"Bis(2,3-dibromopropyl) hydrogen phosphate",mz1
+528.8295,18.6414,Tetrabromobisphenol A,mz1
+556.7634,18.0077,Tetrabromobisphenol A Bismethyl Ether,mz1
+198.8755,18.766,"Tris(2,3-dibromopropyl) phosphate",mz1
+648.4283,21.8191,tris(tribromoneopentyl),mz1
+211.8833,5.4491,Pentaerythritol tribromide,mz1
+125.0057,7.4335,Tris(2-chloropropyl) phosphate,mz1
+209.9675,6.2455,"Allyl 2,4,6-tribromophenyl ether",mz1
+367.1094,15.2384,Tri-M-cresyl phosphate,mz1
+106.5386,19.195,"1,2,5,6-Tetrabromocyclooctane",mz1
+329.771,8.5803,"2-bromoallyl-2,4,6-tribromophenyl ether",mz1
+421.4066,17.5034,Tetrabromophthalic Acid,mz1
+555.4756,18.6242,Tetrabromobisphenol S,mz1
+681.9385,24.2075,Tetrabromobisphenol A Diallyl Ether,mz1
+357.1373,19.7405,"1,2-Bis(2,4,6-tribromophenoxy)ethane",mz1
+331.7686,5.5356,"2,4,6-tris(2,4,6-tribromophenoxy)-1,3,5-triazine",mz1
+183.9705,3.0132,3-Bromostyrene,mz1
+227.2006,9.76,Benzophenone-3,mz1
+255.1582,8.4945,4-Methyl-benzylidene camphor,mz1
+309.1521,23.4242,Avobenzone,mz1
+325.0044,5.4033,Tri(Chloropropyl) phosphate (TCPP),mz1
+329.7717,5.5325,"2,4,6-Tribromophenol",mz1
+313.2373,23.4242,Tetrachlorobisphenol A,mz1
+399.0748,23.119,tris(2-Butoxyethyl) phosphate (TBEP),mz1
+435.6768,12.2742,"2,3,4,5-Tetrabromobenzoic acid",mz1
+435.6768,16.5164,"2,3,4,5-Tetrabromobenzoic acid_1",mz1
+593.7022,19.5318,tetrabromobisphenol S bismethyl ether,mz1
+528.7297,23.3057,tetrabromobisphenol A bisglycidyl ether,mz1
+183.9705,3.0122,4-Bromostyrene,mz1
+173.0367,4.3073,"cis/trans-3-(2,2-dichlorovinyl)-2,2-dimethylcylo",mz1
+173.0367,4.3073,"cis/trans-3-(2,2-dichlorovinyl)-2,2-dimethylcylo",mz1
+196.0516,7.1037,3-Phenoxybenzoic acid,mz1
+186.0474,6.9587,4-fluro-3-phenoxy-benzoic acid,mz1
+120.0207,7.1644,Homosalate,mz1
+165.078,10.9181,Octyl-dimethyl-PABA,mz1
+178.0623,11.5232,Occtyl-Methoxycinnamate (OMC),mz1
+140.8843,23.4875,"O,O-Dimethyl Thiophosphate",mz1
+181.0648,5.5149,"O,O-Diethyl Phosphonate",mz1
+158.9688,6.637,"O,O-Dimethyl dithiophosphate",mz1
+134.8804,19.1132,"O,O-Diethylthiophosphoric Acid",mz1
+108.9873,7.3222,"O,O-Diethyl dithiophosphate",mz1
+124.9045,19.212,Malathion Diacid,mz1
+149.0598,3.7285,Carbofuran phenol,mz1
+391.1048,9.2039,Mono(2-ethyl-5-oxohexyl) phthalate,mz1
+365.8588,9.2106,Mono(2-ethyl-5-hydroxyhexyl) phthalate,mz1
+487.2403,22.6349,Mono(5-carboxy-2-ethylpentyl) phthalate,mz1
+169.1012,18.1822,Tripentyl Phosphate,mz1
+213.0908,10.0232,Bisphenol A,mz1
+152.0621,4.8375,Mono(3-carboxypropyl) phthalate,mz1
+162.8627,19.2615,triclocarban,mz1
+163.9605,3.0122,"2,5-Dichlorophenol",mz1
+117.0611,4.8442,PROPYLENE THIOUREA,mz1
+139.0542,19.1268,Thifensulfuron-methyl,mz1
+135.0799,4.8447,4-Tert-Octylphenol,mz1
+218.0126,9.1355,Triclosan,mz1
+181.0648,8.8813,Bisphenol F,mz1
+104.0203,5.4026,ETHYLENE THIOUREA,mz1
+147.9653,9.4646,Bensulfuron-methyl,mz1
+150.3535,6.1528,Foramsulfuron,mz1
+155.069,3.8688,Halosulfuron-methyl,mz1
+155.0686,4.0967,Mesosulfuron-methyl,mz1
+167.1799,19.3981,metsulfuron-methyl,mz1
+411.0017,22.4422,nicosulfuron,mz1
+96.0681,3.015,oxasulfuron,mz1
+416.0367,7.4606,prosulfuron,mz1
+156.0501,5.5172,rimsulfuron,mz1
+514.0733,17.5394,sulfosulfuron,mz1
+402.0533,3.834,triasulfuron,mz1
+264.0061,9.4475,triflusulfuron-methyl,mz1
+197.9215,4.0477,"2,4,6-trichlorophenol-1",mz1
+137.0708,4.3747,2-isopropyl-6-methyl-4-pyrimidinol,mz1
+98.9842,5.5122,diethyl phosphate (DEP),mz1
+125.0056,7.4357,dimethyl phosphate (DMP),mz1
+92.0258,14.0455,mono-benzyl phthalate(MBzP),mz1
+149.0448,15.0911,mono-n-butyl phthalate(MnBP),mz1
+167.0854,19.1408,mono-cyclohexyl phthalate(MCHP),mz1
+195.0607,6.6115,mono-ethyl phthalate(MEP),mz1
+149.1327,9.8629,mono-n-octyl phthalate(MOP),mz1
+149.0449,11.8895,mono-2-ethylhexyl phthalate(MEHP),mz1
+293.1081,11.2188,mono-isononyl phthalate(MiNP),mz1
+104.0257,14.0518,mono-methyl phthalate(MMP),mz1
+153.0695,4.7862,Acenaphthene,mz1
+176.0619,6.4444,Anthracene,mz1
+105.0447,5.4818,Azobenzene,mz1
+226.0779,12.867,Benz(a)anthracene,mz1
+250.0781,16.316,Benz[a]pyrene,mz1
+274.0782,19.2571,"Benzo(g,h,i)perylene",mz1
+250.0781,17.2264,Benzo(k)fluoranthene,mz1
+206.0939,11.7779,Benzyl butyl phthalate,mz1
+249.9813,5.8632,4-Bromophenyl phenyl ether,mz1
+166.0651,6.8304,Carbazole,mz1
+127.0184,5.0026,2-Chlorophenol-1,mz1
+279.1124,19.343,"Dibenz(a,h)anthracene",mz1
+139.0542,4.9555,Dibenzofuran,mz1
+205.0858,7.7083,Dibutyl phthalate,mz1
+144.9607,3.1623,"1,2-Dichlorobenzene-1",mz1
+144.9607,3.0289,"1,4-Dichlorobenzene-1",mz1
+149.0593,5.2516,Diethyl phthalate,mz1
+185.0372,4.8468,"2,4-Dinitrophenol",mz1
+165.0293,4.9757,"2,4-Dinitrotoluene",mz1
+119.0367,5.3636,"2,6-Dinitrotoluene",mz1
+279.2112,13.8302,Di-n-octyl phthalate,mz1
+200.0621,8.7375,Fluoranthene,mz1
+165.0699,5.2905,Fluorene,mz1
+274.0782,19.5753,"Indeno(1,2,3-cd)pyrene",mz1
+93.07,9.5525,2-Methylphenol-1,mz1
+93.07,9.6378,4-Methylphenol-1,mz1
+108.0444,5.322,3-Nitroaniline-1,mz1
+108.0444,6.5531,4-Nitroaniline-1,mz1
+121.0285,5.2494,Nitrobenzene,mz1
+121.0285,14.058,Nitrobenzene-2,mz1
+109.0285,5.026,2-Nitrophenol-1,mz1
+265.844,6.1694,Pentachlorophenol,mz1
+176.0619,6.4444,Phenanthrene,mz1
+92.0257,5.8677,Phenol-1,mz1
+197.9214,4.0548,"2,4,5-Trichlorophenol-1",mz1
+250.0781,16.3338,Benzo(b)fluoranthene,mz1
+93.0102,14.7176,bis(2-Chloroethyl)ether-1,mz1
+121.0283,6.3826,bis(2-Chloro-1-methylethyl)ether,mz1
+226.0779,12.8792,Chrysene,mz1
+144.9604,3.6622,"1,3-Dichlorobenzene-1",mz1
+144.9604,6.156,"1,4-Dichlorobenzene-2",mz1
+163.0388,4.5639,Dimethyl phthalate,mz1
+165.0295,4.6066,"2,6-Dinitrotoluene-1",mz1
+149.1326,7.8711,bis(2-Ethylhexyl)phthalate-1,mz1
+283.8102,5.8818,Hexachlorobenzene,mz1
+236.841,3.9211,Hexachlorocyclopentadiene,mz1
+116.4966,20.5846,Hexachloroethane,mz1
+95.0856,9.6522,Isophorone,mz1
+121.0285,7.7184,Nitrobenzene-1,mz1
+169.076,6.8229,N-Nitrosodiphenylamine-1,mz1
+200.0622,9.2624,Pyrene,mz1
+116.9061,3.2345,Bromobenzene,mz1
+86.1046,12.2624,Bromochloromethane,mz1
+128.7707,19.0212,Bromodichloromethane,mz1
+172.5827,19.7777,Bromoform,mz1
+91.0542,11.3193,n-Butylbenzene,mz1
+91.0542,19.1335,sec-Butylbenzene,mz1
+91.0542,19.367,tert-Butylbenzene,mz1
+118.9032,3.2345,Carbon tetrachloride,mz1
+113.0189,4.3949,Chlorobenzene,mz1
+97.0285,9.5262,Chloroform,mz1
+102.0465,4.7715,2-Chlorotoluene,mz1
+102.0465,5.5875,4-Chlorotoluene,mz1
+128.5961,3.2727,Dibromochloromethane,mz1
+158.8094,19.2143,"1,2-Dibromo-3-chloropropane",mz1
+108.8999,19.7135,"1,2-Dibromoethane",mz1
+108.9422,3.2322,Dibromomethane,mz1
+144.9607,3.2075,"1,3-Dichlorobenzene-2",mz1
+144.9607,3.239,"1,4-Dichlorobenzene-3",mz1
+94.9451,3.2929,"1,1-Dichloroethene",mz1
+94.9451,3.0234,"cis-1,2-Dichloroethene",mz1
+94.9451,3.0346,"trans-1,2-Dichloroethene",mz1
+86.9633,3.0324,"1,2-Dichloropropane",mz1
+86.9633,3.2075,"1,3-Dichloropropane",mz1
+86.9633,3.239,"2,2-Dichloropropane",mz1
+111.9657,4.329,"1,1-Dichloropropene",mz1
+91.0543,9.5194,Ethylbenzene,mz1
+224.8409,3.2325,Hexachlorobutadiene,mz1
+119.0856,9.5262,Isopropylbenzene,mz1
+95.0855,9.6312,p-Isopropyltoluene,mz1
+129.0652,3.0933,Naphthalene,mz1
+119.0856,9.6205,n-Propylbenzene,mz1
+91.0541,9.5324,Styrene,mz1
+132.9002,3.2367,"1,1,1,2-Tetrachloroethane",mz1
+165.872,3.2322,"1,1,2,2-Tetrachloroethane",mz1
+165.872,3.2345,Tetrachloroethene,mz1
+91.0543,9.6182,Toluene,mz1
+181.9268,3.0282,"1,2,3-Trichlorobenzene",mz1
+181.9268,3.2348,"1,2,4-Trichlorobenzene-1",mz1
+98.981,3.2345,"1,1,1-Trichloroethane",mz1
+98.9577,4.1795,"1,1,2-Trichloroethane",mz1
+130.9452,3.026,Trichloroethene,mz1
+105.0698,9.5279,"1,2,4-Trimethylbenzene",mz1
+105.0698,9.6357,"1,3,5-Trimethylbenzene",mz1
+91.0542,9.5346,o-Xylene,mz1
+91.0542,9.6289,m-Xylene,mz1
+91.0542,9.9032,p-Xylene,mz1
+203.9744,5.0548,"1-Chloro-2,4-dinitrobenzene",mz1
+203.9744,5.1693,"1-Chloro-3,4-dinitrobenzene",mz1
+98.9998,3.4313,1-Chloro-2-nitrobenzene,mz1
+98.9998,3.456,1-Chloro-4-nitrobenzene,mz1
+89.0387,3.7785,2-Chloro-6-nitrotoluene,mz1
+89.0387,3.8189,4-Chloro-2-nitrotoluene,mz1
+89.0387,4.1109,4-Chloro-3-nitrotoluene,mz1
+108.9842,3.938,"2,3-Dichloronitrobenzene",mz1
+108.9842,4.167,"2,4-Dichloronitrobenzene",mz1
+108.9842,4.1827,"3,5-Dichloronitrobenzene",mz1
+108.9842,4.2828,"3,4-Dichloronitrobenzene",mz1
+108.9842,4.3367,"2,5-Dichloronitrobenzene",mz1
+202.8792,5.2714,"2,3,5,6-Tetrachloronitrobenzene",mz1
+202.8792,5.6125,"2,3,4,5-Tetrachloronitrobenzene",mz1
+166.9216,4.4977,"1,2,3-Trichloro-4-nitrobenzene",mz1
+166.9216,4.8328,"1,2,4-Trichloro-5-nitrobenzene",mz1
+166.9216,5.0683,"2,4,6-Trichloronitrobenzene",mz1
+139.0545,8.6363,2-Chlorophenyl-4'-nitrophenyl ether,mz1
+139.0545,8.8331,3-Chlorophenyl-4'-nitrophenyl ether,mz1
+139.0545,9.0769,4-Chlorophenyl-4'-nitrophenyl ether,mz1
+279.9937,10.9663,"2,4-Dichlorophenyl-3'-methyl-4'-nitrophenyl ether",mz1
+252.9826,10.0271,"2,6-Dichlorophenyl-4'-nitrophenyl ether",mz1
+252.9826,10.3024,"3,5-Dichlorophenyl-4'-nitrophenyl ether",mz1
+252.9826,10.4169,"2,5-Dichlorophenyl-4'-nitrophenyl ether",mz1
+252.9826,10.8575,"2,3-Dichlorophenyl-4'-nitrophenyl ether",mz1
+252.9826,11.1331,"3,4-Dichlorophenyl-4'-nitrophenyl ether",mz1
+115.054,7.1368,4-Nitrophenyl phenyl ether,mz1
+318.9379,11.4817,"2,4,6-Trichlorophenyl-4'-nitrophenyl ether",mz1
+235.98,12.0485,"2,3,6-Trichlorophenyl-4'-nitrophenyl ether",mz1
+235.9799,12.1787,"2,3,5-Trichlorophenyl-4'-nitrophenyl ether",mz1
+235.9799,12.3224,"2,4,5-Trichlorophenyl-4'-nitrophenyl ether",mz1
+326.9419,12.9921,"3,4,5-Trichlorophenyl-4'-nitrophenyl ether",mz1
+235.9799,13.0999,"2,3,4-Trichlorophenyl-4'-nitrophenyl ether",mz1
+200.0695,6.1563,Atrazine,mz1
+167.0858,8.2815,Diphenamid,mz1
+128.1072,4.0653,EPTC,mz1
+96.9507,5.4969,Ethoprop,mz1
+127.0157,4.433,Mevinphos,mz1
+184.0656,7.3882,Prometryne,mz1
+214.0853,6.2038,Propazine,mz1
+170.0498,7.5946,Terbutryn,mz1
+163.1118,12.2901,Alachlor-1,mz1
+196.1195,6.5363,Atraton,mz1
+205.1009,6.1918,Bromacil,mz1
+126.0914,5.0375,Molinate,mz1
+174.9527,9.12,Pronamide,mz1
+148.0161,14.0523,Tricyclazole,mz1
+109.0048,3.403,Dichlorvos,mz1
+138.9941,14.6434,Fenarimol,mz1
+100.1122,9.5631,Napropamide,mz1
+170.049,7.2609,Simetryn,mz1
+171.0918,4.8702,Tebuthiuron,mz1
+161.0387,14.6502,Terbacil,mz1
+106.0646,10.8558,o-aminoazotoluene,mz1
+168.0804,9.1121,4-aminobiphenyl,mz1
+129.0155,3.1684,4-chloroaniline-1,mz1
+122.0601,5.1719,p-cresidine,mz1
+122.0601,5.317,"2,4-diaminoanisole (as sulfate hydrate)",mz1
+197.1074,10.8535,"4,4'-diaminodiphenylmethane",mz1
+121.0761,5.3193,"2,4-diaminotoluene",mz1
+105.0334,12.7145,Benzoylprop ethyl,mz1
+193.0721,6.8158,Caffeine,mz1
+115.0545,7.2984,Carbaryl,mz1
+186.959,3.799,o-Chlorophenyl thiourea,mz1
+254.0186,13.1413,"3,3'-Dichlorobenzidine",mz1
+201.1026,17.1748,"3,3'-Dimethoxybenzidine",mz1
+211.123,18.4252,"3,3'-Dimethylbenzidine-1",mz1
+234.0135,8.723,Diuron,mz1
+194.0799,6.8271,Monuron,mz1
+379.1181,19.935,Rotenone,mz1
+379.1181,20.2518,Rotenone-1,mz1
+379.1181,20.7395,Rotenone-2,mz1
+93.0572,9.7827,Siduron,mz1
+151.0992,6.2743,Aminocarb,mz1
+222.0314,10.1412,Barban,mz1
+127.018,5.6311,Chlorpropham,mz1
+118.0649,5.5435,Fenuron,mz1
+164.0944,5.5031,Fluometuron,mz1
+250.0085,7.7461,Linuron,mz1
+88.0475,9.8184,Methomyl,mz1
+165.1148,6.6197,Mexacarbate,mz1
+188.969,7.7393,Monuron TCA,mz1
+114.063,7.8,Neburon,mz1
+203.0249,9.0452,Oxamyl,mz1
+93.0573,4.6306,Propham,mz1
+152.0262,6.8452,baygon-1,mz1
+186.9582,6.1881,Swep,mz1
+205.0166,7.6574,Bromacil-1,mz1
+119.0492,5.1873,Deet,mz1
+171.0876,11.9023,Hexazinone,mz1
+198.0694,7.0768,Metribuzin,mz1
+208.0271,8.0794,Triadimefon,mz1
+146.1004,4.44,Butylate,mz1
+154.1222,5.5024,Cycloate,mz1
+128.1077,4.5448,Pebulate,mz1
+128.107,4.6224,Vernolate,mz1
+87.0441,3.1862,Ethyl acetate,mz1
+101.0598,4.8461,Ethyl propionate,mz1
+88.0474,5.3623,Ethyl butyrate,mz1
+101.0598,6.5436,Ethyl valerate,mz1
+88.0474,8.0479,Ethyl caproate,mz1
+88.0474,8.0457,Ethyl heptanoate,mz1
+88.052,8.2353,Ethyl caprylate,mz1
+101.0597,3.7686,Ethyl pelargonate,mz1
+101.0598,4.3275,Ethyl caprate,mz1
+101.0598,4.8461,Ethyl undecanoate,mz1
+101.0597,5.3465,Ethyl laurate,mz1
+211.2057,6.5369,Ethyl myristate,mz1
+101.0599,8.2286,Ethyl palmitate,mz1
+101.0597,10.3603,Ethyl stearate,mz1
+89.0417,19.1182,Aldicarb sulfoxide,mz1
+87.044,18.666,Aldicarb sulfone,mz1
+173.0917,23.6237,Oxamyl-1,mz1
+89.0385,4.8198,methomyl-1,mz1
+179.1067,19.2978,3-hydroxycarbofuran,mz1
+144.0569,4.8939,aldicarb,mz1
+109.0288,5.3426,baygon,mz1
+164.0834,6.0763,carbofuran,mz1
+115.054,7.2546,1-naphthol,mz1
+168.06,7.6154,methiocarb,mz1
+342.7789,8.7423,OCTACHLOROSTYRENE,mz1
+148.9553,8.8981,oxychlordane,mz1
+407.6828,8.2004,"2,3,4,6-tetrabromophenol",mz1
+489.5891,11.8565,pentabromophenol,mz1
+721.4304,22.2426,BDE-206,mz1
+158.9763,10.6038,Parlar 26,mz1
+158.9763,12.7118,Parlar 50,mz1
+336.8674,14.1634,Parlar 62,mz1
+97.0648,3.2714,"4-Hydroxy-2,5-dimethyl-3(2H)-furanone",mz1
+109.1012,17.4333,(-)-Menthol,mz1
+89.0232,2.9422,Maltol,mz1
+161.1074,4.5732,(+-)-Nicotine,mz1
+166.0624,4.8138,Ethyl vanillin,mz1
+140.0467,3.3286,Ethyl maltol,mz1
+145.0699,18.1496,Glycerin ,mz1
+129.0698,17.9981,Propylene glycol,mz1
+112.0882,17.4356,Menthone ,mz1
+256.6465,12.3149,"2,3,7,8-TCDD",mz1
+303.6931,12.1824,"2,3,7,8-TCDF-1",mz1
+351.7305,14.1604,"1,2,3,7,8-Pentachlorodibenzo-p-dioxin",mz1
+339.859,13.4761,"1,2,3,7,8-Pentachlorodibenzofuran",mz1
+339.859,14.0122,"2,3,4,7,8-Pentachlorodibenzofuran",mz1
+389.8154,16.2231,"1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin",mz1
+391.8121,16.277,"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin",mz1
+391.8121,16.4194,"1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin",mz1
+375.8168,15.6354,"1,2,3,4,7,8-Hexachlorodibenzofuran",mz1
+373.8203,15.7059,"1,2,3,6,7,8-Hexachlorodibenzofuran",mz1
+373.8203,16.0986,"1,2,3,7,8,9-Hexachlorodibenzofuran",mz1
+373.8203,16.5597,"2,3,4,6,7,8-Hexachlorodibenzofuran",mz1
+425.7735,18.0625,"1,2,3,4,6,7,8-HepCDD",mz1
+409.779,17.4894,"1,2,3,4,6,7,8-Heptachlorodibenzofuran",mz1
+409.779,18.2498,"1,2,3,4,7,8,9-Heptachlorodibenzofuran",mz1
+460.9503,19.187,OCDD,mz1
+457.7359,19.1825,"1,2,3,4,6,7,8,9-Octachlorodibenzofuran",mz1
+254.0188,13.9086,"3,3'-Dichlorobenzidine-1",mz1
+201.1022,14.0772,"3,3'-Dimethoxybenzidine-1",mz1
+197.1073,6.3176,"3,3'-Dimethylbenzidine",mz1
+211.1119,19.6965,"3,3'-Dimethyl-4,4'-diaminodiphenylmethane",mz1
+231.0685,8.0592,"4,4'-Methylenebis(2-chloroaniline)",mz1
+127.0391,5.2866,2-Naphthylamine,mz1
+108.0934,19.5034,"4,4'-Oxydianiline",mz1
+185.096,9.2267,"4,4'-Thiodianiline",mz1
+108.057,3.7968,o-Toluidine,mz1
+120.0808,9.0753,"2,4,5-Trimethylaniline",mz1
+92.0577,19.6763,p-Aminoazobenzene,mz1
+168.0808,5.5242,2-Aminobiphenyl,mz1
+122.0601,6.6594,o-Anisidine,mz1
+106.0369,5.318,3-Chloro-o-toluidine,mz1
+85.1012,3.2147,n-dodecane,mz1
+85.1012,3.8101,n-tridecane,mz1
+85.1012,4.367,n-tetradecane,mz1
+85.1012,4.8841,n-pentadecane,mz1
+85.1012,5.3758,n-hexadecane,mz1
+85.1012,5.9298,n-heptadecane,mz1
+85.1012,6.5925,n-octadecane,mz1
+85.1012,7.3889,n-nonadecane,mz1
+85.1012,8.303,n-icosane,mz1
+85.1012,10.1147,n-henicosane,mz1
+85.1012,10.4443,n-docosane,mz1
+85.1012,11.5222,n-tricosane,mz1
+85.1012,12.7727,n-tetracosane,mz1
+85.1012,13.9694,n-pentacosane,mz1
+85.1012,15.1458,n-hexacosane,mz1
+85.1012,16.7187,n-heptacosane,mz1
+85.1012,15.1377,n-octacosane,mz1
+113.2014,21.2457,n-triacontane,mz1
+102.0646,6.35,"1,4-Naphthoquinone",mz1
+192.0805,11.6834,4-Nitroquinoline-1-oxide,mz1
+107.0604,11.7898,p-Phenylenediamine,mz1
+91.0543,11.5422,Acetophenone,mz1
+180.0807,12.409,2-Acetylaminofluorene,mz1
+168.0808,9.2923,4-Aminobiphenyl-1,mz1
+185.0034,10.3927,Aramite,mz1
+185.0032,10.6394,Aramite-1,mz1
+163.0265,6.6207,"2-sec-Butyl-4,6-dinitrophenol",mz1
+106.0652,3.8216,m-Cresol,mz1
+163.9604,3.2503,"2,6-Dichlorophenol",mz1
+120.0809,10.6147,p-Dimethylaminoazobenzene,mz1
+241.1012,16.661,"7,12-Dimethylbenz(a)anthracene",mz1
+92.0257,4.633,m-Dinitrobenzene,mz1
+113.0598,9.8866,Ethyl methacrylate,mz1
+342.6182,16.6094,Hexachlorophene,mz1
+212.8408,3.2571,Hexachloropropene,mz1
+131.0492,4.2807,Isosafrole,mz1
+131.0492,3.7812,Isosafrole-1,mz1
+160.1247,17.8421,Methapyrilene,mz1
+252.0934,18.3072,3-Methylcholanthrene,mz1
+99.0441,9.8888,Methyl methacrylate,mz1
+89.0386,19.5245,Methyl methanesulfonate,mz1
+127.0391,5.3314,1-Naphthylamine,mz1
+127.0391,5.9728,2-Naphthylamine-1,mz1
+99.0917,3.5915,N-Nitrosodi-n-butylamine,mz1
+142.142,3.5915,N-Nitrosodiethylamine,mz1
+86.0682,4.1406,N-Nitrosoethylmethylamine,mz1
+115.0543,4.9606,N-Nitrosomorpholine,mz1
+103.0544,4.2829,N-Nitrosopyrrolidine,mz1
+103.0544,3.7857,N-Nitrosopyrrolidine-1,mz1
+106.0651,5.401,5-Nitro-o-toluidine,mz1
+249.8487,4.9875,Pentachlorobenzene,mz1
+118.903,6.2822,Pentachloroethane,mz1
+236.8411,6.2822,Pentachloronitrobenzene,mz1
+109.0522,5.9413,Phenacetin,mz1
+96.0808,9.0749,2-Picoline,mz1
+172.9558,6.4784,Pronamide-1,mz1
+131.0493,4.2807,Safrole,mz1
+131.0493,3.7812,Safrole-1,mz1
+215.8875,3.9976,"1,2,4,5-Tetrachlorobenzene",mz1
+231.8826,5.1755,"2,3,4,6-Tetrachlorophenol",mz1
+105.0337,3.1785,Benzoic acid-1,mz1
+91.0542,7.2986,Benzyl salicylate,mz1
+155.1385,5.1553,"1,8-Cineole",mz1
+131.0495,3.6887,trans Cinnamaldehyde,mz1
+115.0545,4.6286,Cinnamyl acetate,mz1
+115.0541,4.6263,Cinnamyl alcohol,mz1
+115.0754,8.0705,Ethyl butyrate-1,mz1
+115.0754,10.1085,Ethyl butyrate-2,mz1
+93.0699,5.1553,Geraniol,mz1
+96.057,9.8808,Hydroxycitronellal,mz1
+93.0699,3.8189,d-Limonene ,mz1
+135.0804,3.8167,Thymol ,mz1
+151.0395,4.373,Vanillin,mz1
+442.9996,7.358,DFTPP,mz1
+93.0699,8.1198,Butyric acid,mz1
+116.0833,8.1342,Hexanoic acid,mz1
+102.0676,3.8385,Valeric acid,mz1
+165.0675,7.22,Tetraethyl ethylenediphosphate,mz1
+97.1012,10.7415,Ethyl oleate,mz1
+346.9899,7.7336,HFPO-DA,mz1
+567.8307,22.9185,NEtFOSAA,mz1
+130.9916,18.5241,PFBS,mz1
+118.998,3.7855,PFHxA,mz1
+362.863,16.2087,PFHpA,mz1
+396.9379,19.5026,PFHxS,mz1
+369.0002,13.8348,PFOA,mz1
+498.8746,21.4859,PFOS,mz1
+462.7483,14.8518,PFNA,mz1
+218.8623,20.8482,PFDA,mz1
+518.7899,18.3975,PFUnA,mz1
+574.6703,19.579,NMeFOSAA,mz1
+568.9146,22.3167,PFDoA,mz1
+663.4518,22.0271,PFTrDA,mz1
+168.8807,23.2757,PFTA,mz1
+630.9357,21.2321,11Cl-PF3OUdS,mz1
+533.9728,7.5552,9Cl-PF3ONS,mz1
+379.9026,11.6446,ADONA,mz1
+102.0464,4.851,Glyphosate,mz1
+393.3015,20.6285,"Cholic acid sodium (5b-cholanic acid-3a,7a,12a-triol, CA),",mz1
+393.2616,20.8846,"a-muricholic acid (5b-cholanic acid-3a,6b,7a-triol, aMCA),",mz1
+393.2613,22.2993,"b-muricholic acid (5b-cholanic acid-3a,6b,7b-triol, bMCA),",mz1
+393.2613,22.5665,omega-muricholic acid,mz1
+393.2615,21.4932,"Hyocholic acid (3alpha,6alpha,7alpha-Trihydroxy-5beta-cholan-24-oic acid)",mz1
+413.2871,20.8592,deoxycholate sodium,mz1
+413.2871,22.016,deoxycholate sodium-1,mz1
+141.0911,20.5621," hyodeoxycholic acid (5b-cholanic acid3a,6a-diol, HDCA),",mz1
+375.2686,21.2713,"ursodeoxycholic acid (5b-cholanic acid-3a, 7b-diol, UDCA),",mz1
+515.335,20.666,sodium taurocholate hydrate,mz1
+535.2734,14.0057,tauro-b-muricholic acid sodium,mz1
+523.2502,12.6104,sodium taurochenodeoxycholate,mz1
+347.2405,15.6066,sodium taurohyodeoxycholate hedrate,mz1
+506.355,20.6897,taurolithocholic sodium salt,mz1
+452.4469,22.8836,glycocholic acid hydrate,mz1
+430.3269,20.6974,glycocholic acid,mz1
+343.2453,21.5503,sodium glycochenodeoxycholate,mz1
+414.3192,22.3055,glycodeoxycholic acid sodium salt,mz1
+428.335,22.3075,"glycohyodeoxycholic acid [5b-cholanic acid-3a,6a-diol-N-(carboxymethyl)-amide],",mz1
+450.309,18.3626,"glycoursodeoxycholic acid [5b-cholanic acid-3a,7b-diol-N- (carboxymethyl)-amide],",mz1
+430.3267,19.2536,glycolithocholic acid [5b-cholanic acid3a-ol-N-(carboxymethyl)-amide],mz1
+357.8438,14.3588,PCB-169,mz2
+221.9812,7.2785,PCB-52,mz2
+323.8643,13.7861,PCB-180,mz2
+186.0231,6.3416,PCB-18,mz2
+186.0231,7.033,PCB-31,mz2
+186.0231,7.033,PCB-28,mz2
+221.9811,7.8958,PCB-44,mz2
+323.8642,14.0807,PCB-170,mz2
+546.6187,18.5067,PBB-153,mz2
+485.6925,18.9047,PBDE-153,mz2
+405.8021,11.0445,PBDE-28,mz2
+563.6218,16.9587,PBDE-99,mz2
+353.8568,14.309,"1,2,3,7,8-PCDD",mz2
+387.8181,16.4268,"1,2,3,4,7,8-HxCDD",mz2
+307.8952,11.6624,"2,3,7,8-TCDF",mz2
+371.8230,15.8109,"1,2,3,4,7,8-HxCDF",mz2
+411.7754,16.541,"1,2,3,4,6,7,8-HepCDF",mz2
+445.7362,19.3345,OCDF,mz2
+120.0444,15.0708,Azinphos ethyl ,mz2
+132.0206,14.2336,Azinphos methyl ,mz2
+196.9198,7.9857,Chlorpyrifos ,mz2
+287.9223,7.1657,Chlorpyrifos methyl ,mz2
+137.071,6.5063,Diazinon ,mz2
+141.0101,13.2171,EPN ,mz2
+260.0143,7.6952,Fenitrothion ,mz2
+161.0352,6.6711,Isazophos ,mz2
+182.0003,14.0922,Phosalone ,mz2
+161.0426,13.0636,Phosmet ,mz2
+304.0878,8.446,Pirimiphos ethyl ,mz2
+276.0574,7.6795,Pirimiphos methyl ,mz2
+138.0106,15.4356,Pyraclofos ,mz2
+232.1082,15.0461,Pyrazophos ,mz2
+160.0393,13.0164,Pyridaphenthion ,mz2
+118.0526,8.9472,Quinalphos ,mz2
+290.9297,8.3798,Aldrin ,mz2
+218.9111,5.8529,a-BHC,mz2
+218.9111,6.1403,b-BHC,mz2
+218.9111,6.2469,g-BHC,mz2
+218.9111,6.625,d-BHC,mz2
+127.0120,9.0867,Chlorbenside ,mz2
+374.8233,9.0598,cis-Chlordane ,mz2
+374.8233,9.3191,trans-Chlordane ,mz2
+110.9995,9.6434,Chlorfenson (Ovex) ,mz2
+192.9628,4.8457,Chloroneb ,mz2
+237.0049,10.0159,"2,4'-DDD ",mz2
+237.0049,10.8567,"4,4'-DDD ",mz2
+247.9979,9.1641,"2,4'-DDE ",mz2
+247.9979,9.8847,"4,4'-DDE ",mz2
+165.0696,10.8544,"2,4'-DDT ",mz2
+165.0696,11.7615,"4,4'-DDT ",mz2
+140.9914,8.1241,"4,4'-Dichlorobenzophenone ",mz2
+215.0259,9.3973,"4,4'-Dichlorobenzophenone-1",mz2
+215.0259,10.1407,"4,4'-Dichlorobenzophenone-2",mz2
+276.8719,9.9071,Dieldrin ,mz2
+238.8985,6.8605,Endosulfan ether ,mz2
+344.8985,10.3481,Endrin aldehyde ,mz2
+146.9764,12.6611,Endrin ketone ,mz2
+179.0256,21.83,Ethylan (Perthane) ,mz2
+267.9963,8.2116,Fenson ,mz2
+354.8409,8.5869,Heptachlor epoxide (isomer B) ,mz2
+194.9345,8.3835,Isodrin ,mz2
+227.1071,11.994,"2,4'-Methoxychlor ",mz2
+310.0339,11.5709,"4,4'-Methoxychlor olefin ",mz2
+236.8408,14.2467,Mirex ,mz2
+406.7873,9.3874,cis-Nonachlor ,mz2
+406.7873,10.7455,trans-Nonachlor ,mz2
+264.8362,5.9472,Pentachloroanisole ,mz2
+297.8337,7.6003,Pentachlorothioanisole ,mz2
+228.8858,13.7214,Tetradifon ,mz2
+248.0272,5.7433,Benfluralin ,mz2
+152.0620,4.2886,Biphenyl ,mz2
+267.8747,6.5359,Chlorothalonil,mz2
+167.0638,7.8132,Dichlofluanid ,mz2
+175.9663,6.0773,Dichloran ,mz2
+163.9605,6.2347,"3,4-Dichloroaniline ",mz2
+100.0183,4.0274,Dichlobenil,mz2
+167.0730,5.5202,Diphenylamine ,mz2
+316.0898,5.6243,Ethalfluralin ,mz2
+328.0112,6.5269,Fluchloralin ,mz2
+280.1291,8.5319,Isopropalin ,mz2
+316.0597,12.6644,Nitralin ,mz2
+284.9769,10.5717,Nitrofen ,mz2
+300.0031,10.2983,Oxyfluorfen ,mz2
+162.0788,8.6136,Pendimethalin ,mz2
+266.8565,6.9352,Pentachloroaniline ,mz2
+276.8409,6.3088,Pentachlorobenzonitrile ,mz2
+275.0750,7.7346,Prodiamine ,mz2
+330.1057,6.365,Profluralin ,mz2
+232.8955,5.5112,"2,3,5,6-Tetrachloroaniline ",mz2
+123.0679,4.8512,THPI (Tetrahydrophthalimide) ,mz2
+137.8931,5.4977,Tolylfluanid ,mz2
+306.0686,5.7119,Trifluralin ,mz2
+132.0809,7.1622,Acetochlor ,mz2
+188.1069,7.2979,Alachlor ,mz2
+96.0809,3.7143,Allidochlor ,mz2
+204.0574,7.2732,Clomazone (Command) ,mz2
+85.9793,11.7356,Diallate_cis,mz2
+85.9793,11.7356,Diallate_trans,mz2
+148.0757,7.0769,Dimethachlor ,mz2
+265.0735,13.6411,Fenpropathrin ,mz2
+342.0361,16.0282,Fluquinconazole ,mz2
+281.0655,9.8644,Flutolanil ,mz2
+133.0887,8.6439,Metazachlor ,mz2
+228.1098,13.465,Methoxychlor ,mz2
+132.0808,7.3765,Metolachlor ,mz2
+106.0649,4.8117,"N-(2,4-Dimethylphenyl)formamide ",mz2
+145.0261,11.7401,Norflurazon ,mz2
+176.9559,10.1653,Oxadiazon ,mz2
+202.1228,9.9564,Pretilachlor,mz2
+377.0301,4.3749,Prochloraz ,mz2
+238.0994,7.9383,Propachlor ,mz2
+162.9764,7.1084,Propanil ,mz2
+132.0808,7.3765,Propisochlor ,mz2
+119.0856,16.1315,Pyridaben ,mz2
+318.1367,13.7677,Tebufenpyrad ,mz2
+176.8909,6.7837,Triallate ,mz2
+193.1447,10.3161,Bupirimate ,mz2
+312.9307,12.5452,Captafol ,mz2
+147.0656,4.6918,Captan ,mz2
+363.9406,10.49,Chlorfenapyr ,mz2
+208.0869,8.6561,Cyprodinil ,mz2
+135.0803,17.7026,Etofenprox ,mz2
+210.9488,4.6267,Etridiazole ,mz2
+213.0260,10.5596,Fipronil ,mz2
+182.0475,9.8722,Fludioxonil ,mz2
+309.0909,18.0406,Fluridone (Sonar) ,mz2
+251.07,10.2503,Flusilazole ,mz2
+329.0986,17.8443,Flutriafol ,mz2
+128.002,9.0587,Folpet ,mz2
+186.9586,13.0907,Iprodione ,mz2
+136.0394,11.8523,Lenacil ,mz2
+121.0646,8.4464,MGK-264 ,mz2
+248.0955,8.6975,MGK_264_1,mz2
+150.0105,10.1875,Myclobutanil ,mz2
+127.0124,9.4776,Paclobutrazol ,mz2
+282.0502,5.4871,Penconazole ,mz2
+285.0133,9.0039,Procymidone ,mz2
+173.0961,12.4693,Propargite ,mz2
+183.0791,6.5663,Pyrimethanil ,mz2
+96.0889,19.3654,Pyriproxyfen ,mz2
+250.0747,12.3044,Tebuconazole ,mz2
+160.0035,6.6483,Terbacil-1,mz2
+173.0587,6.4285,Terbuthylazine ,mz2
+180.0349,9.7936,Tricyclazole (Beam)-1,mz2
+218.0484,9.1171,Triflumizole ,mz2
+178.0415,7.2467,Vinclozolin ,mz2
+93.0697,15.3521,Acrinathrin ,mz2
+180.0568,8.0321,Anthraquinone ,mz2
+166.0774,13.4226,Bifenthrin ,mz2
+124.1203,8.993,Bioallethrin ,mz2
+199.0552,16.9059,Cyfluthrin-1,mz2
+199.0552,17.0775,Cyfluthrin-2,mz2
+199.0552,17.1256,Cyfluthrin-3,mz2
+199.0552,17.2154,Cyfluthrin-4,mz2
+141.0509,14.9158,lambda-Cyhalothrin ,mz2
+141.0509,14.6579,gama-Cyhalothrin ,mz2
+163.0075,17.3198,Cypermethrin_1,mz2
+163.0075,17.4801,Cypermethrin_2,mz2
+163.0075,17.5161,Cypermethrin_3,mz2
+163.0075,17.5789,Cypermethrin_4,mz2
+252.9047,18.7539,Deltamethrin_1,mz2
+171.9881,18.8233,Deltamethrin_2,mz2
+225.0786,18.2542,Fenvalerate_1,mz2
+225.0786,18.4512,Fenvalerate_2,mz2
+181.0647,17.5677,Flucythrinate_1,mz2
+199.0929,17.8076,Flucythrinate_2,mz2
+252.0579,18.4242,tau-Fluvalinate_1,mz2
+252.0578,18.5051,tau-Fluvalinate_2,mz2
+153.0697,16.0042,cis-Permethrin ,mz2
+127.0307,16.2281,trans-Permethrin ,mz2
+123.1169,14.0307,Phenothrin_cis,mz2
+123.1169,14.0554,Phenothrin_trans,mz2
+143.0853,12.7986,Resmethrin ,mz2
+197.0337,14.9203,Tefluthrin ,mz2
+123.0919,13.199,Tetramethrin ,mz2
+127.0301,7.4073,Transfluthrin ,mz2
+341.2112,17.735,Acequinocyl ,mz2
+339.9045,13.2951,Bromopropylate ,mz2
+310.0196,11.7542,Carfentrazone ethyl ,mz2
+253.0483,12.0236,Chlorobenzilate,mz2
+185.9869,8.8085,Chlozolinate ,mz2
+298.8829,8.0645,DCPA methyl ester (Chlorthal-dimethyl) ,mz2
+254.0432,10.8059,Fluazifop-p-butyl ,mz2
+132.0808,7.4271,Metalaxyl ,mz2
+170.0721,4.9876,2-Phenylphenol ,mz2
+378.895,14.0963,Bromfenvinfos-methyl ,mz2
+348.8427,11.4796,Bromfenvinphos ( E ),mz2
+393.7688,20.4197,Bromophos ethyl ,mz2
+285.8785,21.3047,Bromophos methyl ,mz2
+96.9506,11.6878,Carbophenothion ,mz2
+322.8266,15.8107,Chlorfenvinphos ,mz2
+324.9891,11.1504,Chlorthiophos -1,mz2
+324.9892,10.8316,Chlorthiophos -2,mz2
+256.8995,10.6151,Chlorthiophos -3,mz2
+109.0048,16.035,Coumaphos ,mz2
+108.0026,11.7215,Edifenphos ,mz2
+96.9508,11.1099,Ethion ,mz2
+217.0084,9.8844,Fenamiphos ,mz2
+284.9478,8.6612,Fenchlorphos (Ronnel) ,mz2
+169.0141,8.0756,Fenthion ,mz2
+415.8288,11.2995,Iodofenphos ,mz2
+376.7499,22.2185,Leptophos ,mz2
+171.0144,3.8214,Malathion ,mz2
+207.9955,4.8706,Methacrifos ,mz2
+336.9664,9.9967,Profenofos ,mz2
+266.9466,9.874,Prothiofos ,mz2
+145.9256,5.7704,Sulfotepp ,mz2
+322.0284,11.4646,Sulprofos ,mz2
+96.9507,6.4173,Terbufos ,mz2
+240.8817,9.7071,Tetrachlorvinphos ,mz2
+324.9883,11.1459,Tolclofos-methyl ,mz2
+324.9883,10.8271,Tolclofos-methyl-1,mz2
+89.0419,6.6478,Disulfoton,mz2
+137.0182,6.4618,Fonofos ,mz2
+124.982,7.2792,Methyl parathion ,mz2
+96.9508,8.14,Parathion (ethyl parathion) ,mz2
+261.0161,5.8944,Phorate ,mz2
+149.0595,12.7065,Piperonyl butoxide ,mz2
+161.0583,11.4868,Triazophos ,mz2
+323.8828,10.0804,PCB-111,mz2
+327.8768,10.0804,PCB-116,mz2
+253.9451,9.0183,PCB-121,mz2
+323.8829,9.9996,PCB-125,mz2
+289.9033,9.9412,PCB-140,mz2
+361.8376,8.7596,PCB-142,mz2
+361.8377,10.8742,PCB-143,mz2
+327.8768,11.1191,PCB-148,mz2
+289.9033,10.9707,PCB-150,mz2
+289.9034,10.0804,PCB-155,mz2
+289.9033,9.7048,PCB-160,mz2
+357.8439,9.2547,PCB-162,mz2
+289.9033,12.0627,PCB-168,mz2
+323.8641,12.6946,PCB-188,mz2
+186.0231,11.4363,PCB-23,mz2
+186.0230,11.1774,PCB-39,mz2
+219.9841,6.9511,PCB-62,mz2
+219.9841,7.8126,PCB-68,mz2
+253.9451,7.9773,PCB-80,mz2
+325.8798,8.4363,PCB-88,mz2
+255.9422,9.0789,PCB-94,mz2
+323.8827,10.1932,PCB-109,mz2
+323.8830,9.734,PCB-112,mz2
+323.8829,9.7865,PCB-120,mz2
+357.8439,12.5446,PCB-159,mz2
+323.8642,12.0505,PCB-186,mz2
+323.8642,13.5877,PCB-192,mz2
+427.7629,14.5922,PCB-198,mz2
+186.0230,6.3314,PCB-30,mz2
+221.9812,7.8185,PCB-43,mz2
+219.9841,9.1687,PCB-55,mz2
+219.9841,8.7187,PCB-58,mz2
+219.9841,8.9243,PCB-76,mz2
+361.8377,10.8918,PCB-106,mz2
+323.8829,10.7728,PCB-108,mz2
+289.9219,9.8275,PCB-152,mz2
+357.8439,12.3733,PCB-166,mz2
+395.7988,12.7646,PCB-177,mz2
+323.8641,12.4316,PCB-182,mz2
+323.8641,11.3533,PCB-184,mz2
+431.7566,13.4639,PCB-204,mz2
+186.0230,7.6594,PCB-36,mz2
+219.9841,8.3748,PCB-72,mz2
+289.9219,9.9092,PCB-78,mz2
+293.9160,9.7063,PCB-79,mz2
+255.9422,9.4423,PCB-89,mz2
+323.8828,8.4363,PCB-96,mz2
+255.9422,8.9024,PCB-98,mz2
+255.9422,8.9022,PCB-102,mz2
+223.9968,6.4545,PCB-11,mz2
+323.8828,9.5181,PCB-113,mz2
+323.8827,12.3625,PCB-126,mz2
+323.8828,11.5973,PCB-127,mz2
+361.8378,11.1109,PCB-133,mz2
+289.9032,10.787,PCB-139,mz2
+289.9032,9.983,PCB-145,mz2
+289.9033,11.2547,PCB-161,mz2
+186.0230,7.3506,PCB-21,mz2
+291.9189,7.9326,PCB-38,mz2
+289.9218,7.1646,PCB-50,mz2
+219.9840,8.5889,PCB-57,mz2
+219.9841,8.8249,PCB-61,mz2
+257.9578,7.9415,PCB-65,mz2
+255.9423,9.9057,PCB-86,mz2
+323.8828,8.0337,PCB-104,mz2
+323.8827,11.1325,PCB-114,mz2
+223.9968,6.5193,PCB-12,mz2
+327.8768,9.7347,PCB-123,mz2
+361.8378,12.203,PCB-129,mz2
+359.8408,11.8431,PCB-137,mz2
+361.8379,12.9834,PCB-156,mz2
+361.8379,12.4437,PCB-167,mz2
+359.8408,11.8521,PCB-176,mz2
+393.8019,12.8357,PCB-185,mz2
+395.7992,14.8918,PCB-189,mz2
+186.0230,7.3745,PCB-33,mz2
+221.9811,7.6298,PCB-49,mz2
+219.9840,8.1738,PCB-59,mz2
+219.9841,8.787,PCB-63,mz2
+325.8799,8.3921,PCB-64,mz2
+293.9159,10.3427,PCB-77,mz2
+255.9423,10.1264,PCB-85,mz2
+255.9422,9.1018,PCB-91,mz2
+255.9423,9.9084,PCB-97,mz2
+255.9421,8.634,PCB-100,mz2
+323.8827,10.0032,PCB-117,mz2
+323.8828,11.17,PCB-122,mz2
+323.8827,10.7413,PCB-124,mz2
+223.9968,6.5496,PCB-13,mz2
+361.8377,11.9088,PCB-130,mz2
+223.9968,6.1977,PCB-14,mz2
+289.9032,11.1791,PCB-154,mz2
+357.8436,12.0228,PCB-163,mz2
+361.8377,10.26,PCB-165,mz2
+323.8641,12.3472,PCB-175,mz2
+431.7569,13.1773,PCB-200,mz2
+431.7566,13.9974,PCB-201,mz2
+431.7569,13.3977,PCB-202,mz2
+186.0230,8.1487,PCB-35,mz2
+289.9218,7.444,PCB-51,mz2
+289.9219,7.359,PCB-53,mz2
+219.9841,6.9727,PCB-54,mz2
+219.9841,7.76,PCB-73,mz2
+219.9840,7.9313,PCB-75,mz2
+293.9159,10.1201,PCB-81,mz2
+255.9422,9.472,PCB-90,mz2
+253.945,9.1906,PCB-101,mz2
+253.945,10.5861,PCB-105,mz2
+327.8773,9.9342,PCB-118,mz2
+323.8828,9.43,PCB-119,mz2
+361.8379,12.65,PCB-128,mz2
+324.8721,10.86,PCB-134,mz2
+289.9035,9.96,PCB-136,mz2
+289.9035,10.45,PCB-144,mz2
+223.9969,5.84,PCB-15,mz2
+361.8382,10.1844,PCB-151,mz2
+361.8382,13.0989,PCB-157,mz2
+287.9063,11.7337,PCB-158,mz2
+323.8642,14.5096,PCB-190,mz2
+323.8643,13.9052,PCB-191,mz2
+186.0230,7.3754,PCB-20,mz2
+465.7179,15.7538,PCB-207,mz2
+465.7178,15.5146,PCB-208,mz2
+209.0116,17.7049,PCB-209,mz2
+186.0230,6.6608,PCB-27,mz2
+186.0230,7.0012,PCB-29,mz2
+186.0230,6.9339,PCB-34,mz2
+291.9191,8.5003,PCB-40,mz2
+289.9218,8.1998,PCB-42,mz2
+289.9219,7.9265,PCB-47,mz2
+219.9842,7.7362,PCB-69,mz2
+255.9423,9.37,PCB-92,mz2
+255.9422,8.9306,PCB-93,mz2
+223.9969,5.521,PCB-10,mz2
+255.9423,8.5165,PCB-103,mz2
+255.9423,10.7908,PCB-107,mz2
+327.8770,10.0401,PCB-115,mz2
+361.8378,11.0936,PCB-131,mz2
+361.8378,11.4114,PCB-132,mz2
+361.8378,10.5854,PCB-135,mz2
+289.9033,11.7177,PCB-141,mz2
+327.8770,10.63,PCB-149,mz2
+361.8378,11.31,PCB-164,mz2
+257.9579,5.77,PCB-17,mz2
+323.8642,13.24,PCB-171,mz2
+395.7985,13.2179,PCB-172,mz2
+395.7985,11.8425,PCB-178,mz2
+395.7985,12.197,PCB-183,mz2
+395.7982,13.3963,PCB-193,mz2
+427.7625,14.424,PCB-196,mz2
+393.8019,13.6042,PCB-197,mz2
+431.7569,16.2832,PCB-205,mz2
+186.0230,6.6664,PCB-24,mz2
+186.0230,7.103,PCB-26,mz2
+186.0230,6.7993,PCB-32,mz2
+186.0230,8.2901,PCB-37,mz2
+289.9219,8.3562,PCB-41,mz2
+289.9219,7.548,PCB-45,mz2
+325.8799,7.6713,PCB-46,mz2
+221.9812,7.9077,PCB-48,mz2
+223.9968,5.9958,PCB-5,mz2
+219.9841,9.3499,PCB-60,mz2
+223.9968,5.8123,PCB-7,mz2
+289.9219,8.9679,PCB-70,mz2
+323.8828,9.7843,PCB-83,mz2
+255.9423,9.3836,PCB-84,mz2
+325.8799,8.9724,PCB-95,mz2
+190.0357,4.9356,PCB-1,mz2
+253.9452,9.2971,PCB-110,mz2
+361.8382,11.7202,PCB-138,mz2
+361.8382,10.9259,PCB-146,mz2
+361.8378,10.6823,PCB-147,mz2
+361.8382,11.0718,PCB-153,mz2
+255.9609,6.7801,PCB-16,mz2
+323.8642,13.3724,PCB-173,mz2
+323.8643,13.009,PCB-174,mz2
+323.8642,11.6656,PCB-179,mz2
+323.8643,13.1257,PCB-181,mz2
+395.7982,12.041,PCB-187,mz2
+255.9609,6.2186,PCB-19,mz2
+427.7625,15.7478,PCB-194,mz2
+357.8249,15.1622,PCB-195,mz2
+427.7625,14.2703,PCB-199,mz2
+190.0357,5.3096,PCB-2,mz2
+427.7625,14.424,PCB-203,mz2
+465.7175,16.6465,PCB-206,mz2
+186.0230,7.5093,PCB-22,mz2
+186.0231,7.1275,PCB-25,mz2
+190.0357,5.3537,PCB-3,mz2
+221.9997,5.5237,PCB-4,mz2
+219.9841,9.3314,PCB-56,mz2
+223.9968,5.9295,PCB-6,mz2
+221.9812,8.7294,PCB-66,mz2
+219.9841,8.6866,PCB-67,mz2
+219.9841,8.337,PCB-71,mz2
+221.9812,8.5902,PCB-74,mz2
+223.9968,6.0104,PCB-8,mz2
+255.9423,10.4802,PCB-82,mz2
+253.9451,9.2747,PCB-87,mz2
+223.9968,5.8194,PCB-9,mz2
+253.9451,9.2063,PCB-99,mz2
+115.0543,5.7693,BDE-1,mz2
+249.9812,5.8698,BDE-2,mz2
+141.0699,5.9798,BDE-3,mz2
+139.0542,7.2398,BDE-10,mz2
+325.8937,8.0249,BDE-11,mz2
+325.8936,8.2345,BDE-12,mz2
+325.8936,8.2345,BDE-13,mz2
+329.8894,8.4575,BDE-15,mz2
+139.0542,7.7527,BDE-7,mz2
+325.8936,8.1806,BDE-8,mz2
+247.9655,10.2406,BDE-17,mz2
+405.8020,10.6579,BDE-25,mz2
+407.8004,10.7128,BDE-28,mz2
+405.8022,9.4895,BDE-30,mz2
+405.8021,10.3304,BDE-32,mz2
+405.8023,11.0328,BDE-33,mz2
+139.0542,11.3203,BDE-35,mz2
+139.0542,11.6498,BDE-37,mz2
+485.7109,13.5567,BDE-47,mz2
+327.8738,13.4696,BDE-49,mz2
+485.7109,14.038,BDE-66,mz2
+323.8781,13.5656,BDE-71,mz2
+487.7083,13.2136,BDE-75,mz2
+327.8738,15.1874,BDE-77,mz2
+563.6220,17.1966,BDE-99,mz2
+563.6220,16.4774,BDE-100,mz2
+405.7843,17.9316,BDE-114,mz2
+563.6222,16.958,BDE-115,mz2
+401.7886,17.1478,BDE-116,mz2
+561.6241,18.1556,BDE-126,mz2
+563.6215,18.1019,BDE-85,mz2
+485.6926,19.5035,BDE-138,mz2
+485.6937,19.0461,BDE-153,mz2
+485.6937,18.4855,BDE-154,mz2
+405.7843,17.9563,BDE-155,mz2
+485.6924,19.5552,BDE-166,mz2
+559.6081,21.1498,BDE-181,mz2
+559.6085,20.2356,BDE-183,mz2
+559.6085,21.3517,BDE-190,mz2
+171.0145,4.6453,bis(2-Chloroethoxy)methane,mz2
+94.0135,3.0167,bis(2-Chloroethyl)ether,mz2
+207.0644,5.4102,4-Chlorophenyl phenyl ether,mz2
+333.1638,16.1287,bis(2-Ethylhexyl)phthalate,mz2
+167.0732,5.5237,N-Nitrosodi-n-propylamine,mz2
+166.0651,10.7675,N-Nitrosodiphenylamine,mz2
+155.0603,4.2895,2-Chloronaphthalene,mz2
+146.9577,3.0644,"1,2-Dichlorobenzene",mz2
+146.9577,3.0945,"1,3-Dichlorobenzene",mz2
+146.9577,3.108,"1,4-Dichlorobenzene",mz2
+183.9235,3.0945,"1,2,4-Trichlorobenzene",mz2
+338.8723,9.8605,Endosulfan I ,mz2
+340.8693,11.2041,Endosulfan II ,mz2
+269.8133,12.1712,Endosulfan sulfate,mz2
+260.8601,10.4633,Endrin,mz2
+100.0072,7.6869,Heptachlor,mz2
+350.8464,9.0953,Heptachlor epoxide (Isomer B)-1,mz2
+105.0335,14.2502,Benzoic acid,mz2
+91.0542,4.9215,2-Methylphenol,mz2
+105.053,3.7881,4-Methylphenol,mz2
+199.9186,4.1551,"2,4,5-Trichlorophenol",mz2
+92.0495,3.1257,Aniline,mz2
+136.0713,3.7811,Benzyl alcohol,mz2
+100.0075,5.0646,4-Chloroaniline,mz2
+138.0464,3.826,2-Methylnaphthalene,mz2
+108.0443,4.4072,2-Nitroaniline,mz2
+92.0494,4.8091,3-Nitroaniline,mz2
+138.0423,5.3955,4-Nitroaniline,mz2
+183.0917,5.3952,Benzidine,mz2
+256.0163,16.3889,"3,3'-Dichlorobenzidine-2",mz2
+151.0539,4.6836,Acenaphthylene,mz2
+274.0784,19.4652,"Benzo(g,h,i)perylene",mz2
+141.0103,3.7464,4-Chloro-3-methylphenol,mz2
+127.9836,3.1907,2-Chlorophenol,mz2
+165.9575,3.0347,"2,4-Dichlorophenol",mz2
+121.0648,9.6951,"2,4-Dimethylphenol",mz2
+168.0291,5.4362,"2-Methyl-4,6-dinitrophenol",mz2
+140.0295,3.0024,2-Nitrophenol,mz2
+140.0297,5.0262,4-Nitrophenol,mz2
+93.0655,3.7852,Phenol,mz2
+199.9182,4.1195,"2,4,6-Trichlorophenol",mz2
+160.1118,4.8246,Acenaphthene-d10,mz2
+241.1719,13.0783,Chrysene-d12,mz2
+152.8028,17.6591,"1,4-Dichlorobenzene-d4",mz2
+132.0841,3.1416,Naphthalene-d8,mz2
+265.1725,17.5581,Perylene-d12,mz2
+189.1434,6.5174,Phenanthrene-d10,mz2
+111.0441,9.5196,potassium sorbate,mz2
+139.0344,8.4987,4-hydroxybenzoic acid,mz2
+122.0321,4.5711,methyl paraben,mz2
+194.0162,5.3222,protocatechuic acid,mz2
+93.0335,4.9384,ethyl paraben,mz2
+138.0311,5.0708,isopropyl paraben,mz2
+138.0313,4.9425,butyl paraben,mz2
+183.0805,9.5555,benzyl paraben,mz2
+138.0312,8.4291,heptyl paraben,mz2
+122.0321,5.4154,propyl paraben,mz2
+122.0317,4.9461,isobutyl paraben,mz2
+121.0651,4.8462,"Phenol, 2-octyl-",mz2
+107.0494,4.8417,Nonylphenol,mz2
+179.1066,8.3182,Nonylphenol monoethoxylate,mz2
+212.9911,5.8491,"2-Bromo-4-(2,4,4-trimethylpentan-2-yl)phenol",mz2
+107.0492,11.4901,Nonylphenol diethoxylate,mz2
+187.9665,6.8733,Chloramben,mz2
+184.9999,6.0202,"2,4-Dichlorophenoxyacetic acid",mz2
+221.9658,5.5277,Dicamba,mz2
+221.9658,5.5277,Dichlorprop Acid,mz2
+163.9603,5.9966,Picloram,mz2
+170.9217,5.0024,Bentazon,mz2
+161.071,8.2414,Fenoprop,mz2
+197.9214,7.1746,Acifluorfen,mz2
+174.9529,4.7008,"3,5-dichlorobenzoic acid",mz2
+107.0491,5.6099,MCPA,mz2
+107.0491,5.6324,MCPP,mz2
+163.9604,7.261,"2-(2,4-dichlorophenoxy)butanoic acid",mz2
+197.9215,7.2418,"2,4,5-trichlorophenoxyacetic acid",mz2
+123.0207,4.1743,Trimethyl Phosphate,mz2
+141.1275,7.88,Tripropyl Phosphate,mz2
+209.0938,5.5214,Tributyl Phosphate,mz2
+341.0899,13.301,(3-Methylphenyl) diphenyl phosphate (CDP),mz2
+341.0899,13.6331,(3-Methylphenyl) diphenyl phosphate (CDP),mz2
+249.0318,12.6579,2-Ethylhexyldiphenylphosphate,mz2
+179.0852,14.3757,Tri-O-cresyl phosphate,mz2
+249.164,17.8425,Isodecyl Diphenyl Phosphate,mz2
+323.2369,21.8235,Tris(2-ethylhexyl) phosphate,mz2
+260.1199,13.2953,Diisopropylphenylphosphate,mz2
+123.0229,18.0122,Triisopropyl Phosphate,mz2
+178.0347,18.867,Tris(2-carboxyethyl)phosphine,mz2
+621.7505,21.1561,"4,4'-Isopropylidenebis[2-(2,6-dibromophenoxy)ethanol]",mz2
+338.9969,19.4429,Tris(1-chloro-2-propyl) phosphate,mz2
+369.1201,16.288,Tri-P-cresyl phosphate,mz2
+158.9608,11.4456,"Tris(1,3-dichloro-2-propyl)phosphate",mz2
+494.807,9.8206,"Bis(2,3-dibromopropyl) hydrogen phosphate",mz2
+526.7316,18.6414,Tetrabromobisphenol A,mz2
+554.7653,18.0077,Tetrabromobisphenol A Bismethyl Ether,mz2
+202.8714,18.766,"Tris(2,3-dibromopropyl) phosphate",mz2
+662.4487,21.8191,tris(tribromoneopentyl),mz2
+215.8793,5.4491,Pentaerythritol tribromide,mz2
+326.9657,7.4335,Tris(2-chloropropyl) phosphate,mz2
+211.9654,6.2455,"Allyl 2,4,6-tribromophenyl ether",mz2
+165.0699,15.2384,Tri-M-cresyl phosphate,mz2
+422.6598,19.195,"1,2,5,6-Tetrabromocyclooctane",mz2
+331.7689,8.5803,"2-bromoallyl-2,4,6-tribromophenyl ether",mz2
+462.4491,17.5034,Tetrabromophthalic Acid,mz2
+599.6194,18.6242,Tetrabromobisphenol S,mz2
+780.8558,24.2075,Tetrabromobisphenol A Diallyl Ether,mz2
+359.2856,19.7405,"1,2-Bis(2,4,6-tribromophenoxy)ethane",mz2
+333.7664,5.5356,"2,4,6-tris(2,4,6-tribromophenoxy)-1,3,5-triazine",mz2
+103.003,3.0132,3-Bromostyrene,mz2
+151.1482,9.76,Benzophenone-3,mz2
+248.2454,8.4945,4-Methyl-benzylidene camphor,mz2
+135.136,23.4242,Avobenzone,mz2
+324.0078,5.4033,Tri(Chloropropyl) phosphate (TCPP),mz2
+331.7696,5.5325,"2,4,6-Tribromophenol",mz2
+314.2394,23.4242,Tetrachlorobisphenol A,mz2
+395.3295,23.119,tris(2-Butoxyethyl) phosphate (TBEP),mz2
+439.6723,12.2742,"2,3,4,5-Tetrabromobenzoic acid",mz2
+439.6723,16.5164,"2,3,4,5-Tetrabromobenzoic acid_1",mz2
+591.7043,19.5318,tetrabromobisphenol S bismethyl ether,mz2
+584.7568,23.3057,tetrabromobisphenol A bisglycidyl ether,mz2
+103.0417,3.0122,4-Bromostyrene,mz2
+127.031,4.3073,"cis/trans-3-(2,2-dichlorovinyl)-2,2-dimethylcylo",mz2
+127.031,4.3073,"cis/trans-3-(2,2-dichlorovinyl)-2,2-dimethylcylo",mz2
+168.0567,7.1037,3-Phenoxybenzoic acid,mz2
+214.0423,6.9587,4-fluro-3-phenoxy-benzoic acid,mz2
+138.0313,7.1644,Homosalate,mz2
+164.0706,10.9181,Octyl-dimethyl-PABA,mz2
+161.0595,11.5232,Occtyl-Methoxycinnamate (OMC),mz2
+142.9593,23.4875,"O,O-Dimethyl Thiophosphate",mz2
+182.0725,5.5149,"O,O-Diethyl Phosphonate",mz2
+159.9577,6.637,"O,O-Dimethyl dithiophosphate",mz2
+130.8761,19.1132,"O,O-Diethylthiophosphoric Acid",mz2
+187.989,7.3222,"O,O-Diethyl dithiophosphate",mz2
+143.9751,19.212,Malathion Diacid,mz2
+165.0866,3.7285,Carbofuran phenol,mz2
+293.1147,9.2039,Mono(2-ethyl-5-oxohexyl) phthalate,mz2
+366.7191,9.2106,Mono(2-ethyl-5-hydroxyhexyl) phthalate,mz2
+310.2175,22.6349,Mono(5-carboxy-2-ethylpentyl) phthalate,mz2
+99.1167,18.1822,Tripentyl Phosphate,mz2
+119.049,10.0232,Bisphenol A,mz2
+150.0995,4.8375,Mono(3-carboxypropyl) phthalate,mz2
+160.977,19.2615,triclocarban,mz2
+98.9997,3.0122,"2,5-Dichlorophenol",mz2
+118.0412,4.8442,PROPYLENE THIOUREA,mz2
+141.0653,19.1268,Thifensulfuron-methyl,mz2
+107.0488,4.8447,4-Tert-Octylphenol,mz2
+289.9475,9.1355,Triclosan,mz2
+199.0754,8.8813,Bisphenol F,mz2
+103.0278,5.4026,ETHYLENE THIOUREA,mz2
+172.9666,9.4646,Bensulfuron-methyl,mz2
+415.1188,6.1528,Foramsulfuron,mz2
+156.0722,3.8688,Halosulfuron-methyl,mz2
+126.0662,4.0967,Mesosulfuron-methyl,mz2
+139.1486,19.3981,metsulfuron-methyl,mz2
+408.8741,22.4422,nicosulfuron,mz2
+95.0604,3.015,oxasulfuron,mz2
+418.0327,7.4606,prosulfuron,mz2
+154.0391,5.5172,rimsulfuron,mz2
+515.0694,17.5394,sulfosulfuron,mz2
+110.0588,3.834,triasulfuron,mz2
+213.0261,9.4475,triflusulfuron-methyl,mz2
+96.984,4.0477,"2,4,6-trichlorophenol-1",mz2
+124.0631,4.3747,2-isopropyl-6-methyl-4-pyrimidinol,mz2
+124.9999,5.5122,diethyl phosphate (DEP),mz2
+127.0014,7.4357,dimethyl phosphate (DMP),mz2
+94.037,14.0455,mono-benzyl phthalate(MBzP),mz2
+167.0551,15.0911,mono-n-butyl phthalate(MnBP),mz2
+150.0995,19.1408,mono-cyclohexyl phthalate(MCHP),mz2
+196.0758,6.6115,mono-ethyl phthalate(MEP),mz2
+167.1432,9.8629,mono-n-octyl phthalate(MOP),mz2
+223.0812,11.8895,mono-2-ethylhexyl phthalate(MEHP),mz2
+295.1482,11.2188,mono-isononyl phthalate(MiNP),mz2
+179.0339,14.0518,mono-methyl phthalate(MMP),mz2
+152.0618,4.7862,Acenaphthene,mz2
+179.0807,6.4444,Anthracene,mz2
+152.062,5.4818,Azobenzene,mz2
+229.0968,12.867,Benz(a)anthracene,mz2
+253.0969,16.316,Benz[a]pyrene,mz2
+277.0969,19.2571,"Benzo(g,h,i)perylene",mz2
+253.0969,17.2264,Benzo(k)fluoranthene,mz2
+123.0441,11.7779,Benzyl butyl phthalate,mz2
+141.0697,5.8632,4-Bromophenyl phenyl ether,mz2
+139.0542,6.8304,Carbazole,mz2
+92.0256,5.0026,2-Chlorophenol-1,mz2
+276.0931,19.343,"Dibenz(a,h)anthracene",mz2
+165.0294,4.9555,Dibenzofuran,mz2
+206.0891,7.7083,Dibutyl phthalate,mz2
+146.9576,3.1623,"1,2-Dichlorobenzene-1",mz2
+146.9576,3.0289,"1,4-Dichlorobenzene-1",mz2
+147.0081,5.2516,Diethyl phthalate,mz2
+183.0259,4.8468,"2,4-Dinitrophenol",mz2
+89.0385,4.9757,"2,4-Dinitrotoluene",mz2
+90.0413,5.3636,"2,6-Dinitrotoluene",mz2
+395.2941,13.8302,Di-n-octyl phthalate,mz2
+203.0809,8.7375,Fluoranthene,mz2
+163.0543,5.2905,Fluorene,mz2
+277.0969,19.5753,"Indeno(1,2,3-cd)pyrene",mz2
+91.0544,9.5525,2-Methylphenol-1,mz2
+91.0544,9.6378,4-Methylphenol-1,mz2
+92.0495,5.322,3-Nitroaniline-1,mz2
+92.0495,6.5531,4-Nitroaniline-1,mz2
+122.0363,5.2494,Nitrobenzene,mz2
+122.0363,14.058,Nitrobenzene-2,mz2
+110.0318,5.026,2-Nitrophenol-1,mz2
+267.841,6.1694,Pentachlorophenol,mz2
+179.0807,6.4444,Phenanthrene,mz2
+93.0335,5.8677,Phenol-1,mz2
+96.9839,4.0548,"2,4,5-Trichlorophenol-1",mz2
+253.0969,16.3338,Benzo(b)fluoranthene,mz2
+95.0073,14.7176,bis(2-Chloroethyl)ether-1,mz2
+105.0334,6.3826,bis(2-Chloro-1-methylethyl)ether,mz2
+229.0968,12.8792,Chrysene,mz2
+146.9876,3.6622,"1,3-Dichlorobenzene-1",mz2
+146.9876,6.156,"1,4-Dichlorobenzene-2",mz2
+133.0284,4.5639,Dimethyl phthalate,mz2
+89.0385,4.6066,"2,6-Dinitrotoluene-1",mz2
+167.1431,7.8711,bis(2-Ethylhexyl)phthalate-1,mz2
+285.8703,5.8818,Hexachlorobenzene,mz2
+238.838,3.9211,Hexachlorocyclopentadiene,mz2
+200.7474,20.5846,Hexachloroethane,mz2
+123.0804,9.6522,Isophorone,mz2
+122.0363,7.7184,Nitrobenzene-1,mz2
+168.0762,6.8229,N-Nitrosodiphenylamine-1,mz2
+203.081,9.2624,Pyrene,mz2
+92.9602,3.2345,Bromobenzene,mz2
+85.0522,12.2624,Bromochloromethane,mz2
+130.6574,19.0212,Bromodichloromethane,mz2
+251.878,19.7777,Bromoform,mz2
+105.0699,11.3193,n-Butylbenzene,mz2
+105.0699,19.1335,sec-Butylbenzene,mz2
+105.0699,19.367,tert-Butylbenzene,mz2
+120.9002,3.2345,Carbon tetrachloride,mz2
+114.0403,4.3949,Chlorobenzene,mz2
+116.9944,9.5262,Chloroform,mz2
+103.0498,4.7715,2-Chlorotoluene,mz2
+103.0498,5.5875,4-Chlorotoluene,mz2
+126.8479,3.2727,Dibromochloromethane,mz2
+159.6889,19.2143,"1,2-Dibromo-3-chloropropane",mz2
+109.6269,19.7135,"1,2-Dibromoethane",mz2
+107.9343,3.2322,Dibromomethane,mz2
+146.9577,3.2075,"1,3-Dichlorobenzene-2",mz2
+146.9577,3.239,"1,4-Dichlorobenzene-3",mz2
+96.9422,3.2929,"1,1-Dichloroethene",mz2
+96.9422,3.0234,"cis-1,2-Dichloroethene",mz2
+96.9422,3.0346,"trans-1,2-Dichloroethene",mz2
+96.984,3.0324,"1,2-Dichloropropane",mz2
+96.984,3.2075,"1,3-Dichloropropane",mz2
+96.984,3.239,"2,2-Dichloropropane",mz2
+110.9575,4.329,"1,1-Dichloropropene",mz2
+92.0621,9.5194,Ethylbenzene,mz2
+222.8438,3.2325,Hexachlorobutadiene,mz2
+121.1013,9.5262,Isopropylbenzene,mz2
+87.044,9.6312,p-Isopropyltoluene,mz2
+126.0464,3.0933,Naphthalene,mz2
+121.1013,9.6205,n-Propylbenzene,mz2
+95.0854,9.5324,Styrene,mz2
+94.9358,3.2367,"1,1,1,2-Tetrachloroethane",mz2
+130.9033,3.2322,"1,1,2,2-Tetrachloroethane",mz2
+167.8692,3.2345,Tetrachloroethene,mz2
+93.07,9.6182,Toluene,mz2
+183.927,3.0282,"1,2,3-Trichlorobenzene",mz2
+183.927,3.2348,"1,2,4-Trichlorobenzene-1",mz2
+116.9061,3.2345,"1,1,1-Trichloroethane",mz2
+107.9435,4.1795,"1,1,2-Trichloroethane",mz2
+132.9419,3.026,Trichloroethene,mz2
+119.0854,9.5279,"1,2,4-Trimethylbenzene",mz2
+119.0854,9.6357,"1,3,5-Trimethylbenzene",mz2
+107.0855,9.5346,o-Xylene,mz2
+107.0855,9.6289,m-Xylene,mz2
+107.0855,9.9032,p-Xylene,mz2
+202.9805,5.0548,"1-Chloro-2,4-dinitrobenzene",mz2
+202.9805,5.1693,"1-Chloro-3,4-dinitrobenzene",mz2
+110.9999,3.4313,1-Chloro-2-nitrobenzene,mz2
+110.9999,3.456,1-Chloro-4-nitrobenzene,mz2
+90.034,3.7785,2-Chloro-6-nitrotoluene,mz2
+90.034,3.8189,4-Chloro-2-nitrotoluene,mz2
+90.034,4.1109,4-Chloro-3-nitrotoluene,mz2
+190.954,3.938,"2,3-Dichloronitrobenzene",mz2
+190.954,4.167,"2,4-Dichloronitrobenzene",mz2
+190.954,4.1827,"3,5-Dichloronitrobenzene",mz2
+190.954,4.2828,"3,4-Dichloronitrobenzene",mz2
+190.954,4.3367,"2,5-Dichloronitrobenzene",mz2
+200.8823,5.2714,"2,3,5,6-Tetrachloronitrobenzene",mz2
+200.8823,5.6125,"2,3,4,5-Tetrachloronitrobenzene",mz2
+168.9186,4.4977,"1,2,3-Trichloro-4-nitrobenzene",mz2
+168.9186,4.8328,"1,2,4-Trichloro-5-nitrobenzene",mz2
+168.9186,5.0683,"2,4,6-Trichloronitrobenzene",mz2
+249.0197,8.6363,2-Chlorophenyl-4'-nitrophenyl ether,mz2
+128.0623,8.8331,3-Chlorophenyl-4'-nitrophenyl ether,mz2
+168.0573,9.0769,4-Chlorophenyl-4'-nitrophenyl ether,mz2
+281.9906,10.9663,"2,4-Dichlorophenyl-3'-methyl-4'-nitrophenyl ether",mz2
+254.9796,10.0271,"2,6-Dichlorophenyl-4'-nitrophenyl ether",mz2
+254.9796,10.3024,"3,5-Dichlorophenyl-4'-nitrophenyl ether",mz2
+254.9796,10.4169,"2,5-Dichlorophenyl-4'-nitrophenyl ether",mz2
+254.9796,10.8575,"2,3-Dichlorophenyl-4'-nitrophenyl ether",mz2
+254.9796,11.1331,"3,4-Dichlorophenyl-4'-nitrophenyl ether",mz2
+129.0701,7.1368,4-Nitrophenyl phenyl ether,mz2
+235.979,11.4817,"2,4,6-Trichlorophenyl-4'-nitrophenyl ether",mz2
+237.977,12.0485,"2,3,6-Trichlorophenyl-4'-nitrophenyl ether",mz2
+237.9769,12.1787,"2,3,5-Trichlorophenyl-4'-nitrophenyl ether",mz2
+237.9769,12.3224,"2,4,5-Trichlorophenyl-4'-nitrophenyl ether",mz2
+195.9846,12.9921,"3,4,5-Trichlorophenyl-4'-nitrophenyl ether",mz2
+237.9769,13.0999,"2,3,4-Trichlorophenyl-4'-nitrophenyl ether",mz2
+202.0665,6.1563,Atrazine,mz2
+165.0702,8.2815,Diphenamid,mz2
+132.0844,4.0653,EPTC,mz2
+157.9619,5.4969,Ethoprop,mz2
+164.0236,4.433,Mevinphos,mz2
+226.1127,7.3882,Prometryne,mz2
+172.0383,6.2038,Propazine,mz2
+185.0734,7.5946,Terbutryn,mz2
+237.1273,12.2901,Alachlor-1,mz2
+154.0849,6.5363,Atraton,mz2
+207.1019,6.1918,Bromacil,mz2
+98.0966,5.0375,Molinate,mz2
+108.984,9.12,Pronamide,mz2
+161.0234,14.0523,Tricyclazole,mz2
+127.0153,3.403,Dichlorvos,mz2
+140.9912,14.6434,Fenarimol,mz2
+128.1071,9.5631,Napropamide,mz2
+185.0725,7.2609,Simetryn,mz2
+129.123,4.8702,Tebuthiuron,mz2
+160.0077,14.6502,Terbacil,mz2
+224.1173,10.8558,o-aminoazotoluene,mz2
+167.0726,9.1121,4-aminobiphenyl,mz2
+100.0075,3.1684,4-chloroaniline-1,mz2
+138.0869,5.1719,p-cresidine,mz2
+94.0652,5.317,"2,4-diaminoanisole (as sulfate hydrate)",mz2
+180.0808,10.8535,"4,4'-diaminodiphenylmethane",mz2
+94.0652,5.3193,"2,4-diaminotoluene",mz2
+171.9713,12.7145,Benzoylprop ethyl,mz2
+165.0771,6.8158,Caffeine,mz2
+114.0573,7.2984,Carbaryl,mz2
+188.9561,3.799,o-Chlorophenyl thiourea,mz2
+253.0249,13.1413,"3,3'-Dichlorobenzidine",mz2
+158.0841,17.1748,"3,3'-Dimethoxybenzidine",mz2
+169.0889,18.4252,"3,3'-Dimethylbenzidine-1",mz2
+233.0198,8.723,Diuron,mz2
+193.072,6.8271,Monuron,mz2
+191.07,19.935,Rotenone,mz2
+191.07,20.2518,Rotenone-1,mz2
+191.07,20.7395,Rotenone-2,mz2
+95.0854,9.7827,Siduron,mz2
+150.0915,6.2743,Aminocarb,mz2
+224.0287,10.1412,Barban,mz2
+129.015,5.6311,Chlorpropham,mz2
+147.0675,5.5435,Fenuron,mz2
+165.0977,5.5031,Fluometuron,mz2
+249.0147,7.7461,Linuron,mz2
+105.0448,9.8184,Methomyl,mz2
+164.1071,6.6197,Mexacarbate,mz2
+186.9825,7.7393,Monuron TCA,mz2
+276.0609,7.8,Neburon,mz2
+204.0182,9.0452,Oxamyl,mz2
+137.0471,4.6306,Propham,mz2
+109.076,6.8452,baygon-1,mz2
+173.9868,6.1881,Swep,mz2
+207.0125,7.6574,Bromacil-1,mz2
+190.1226,5.1873,Deet,mz2
+128.0818,11.9023,Hexazinone,mz2
+110.0599,7.0768,Metribuzin,mz2
+210.024,8.0794,Triadimefon,mz2
+156.139,4.44,Butylate,mz2
+126.1274,5.5024,Cycloate,mz2
+160.0799,4.5448,Pebulate,mz2
+132.0842,4.6224,Vernolate,mz2
+89.0597,3.1862,Ethyl acetate,mz2
+99.0806,4.8461,Ethyl propionate,mz2
+101.0598,5.3623,Ethyl butyrate,mz2
+89.0597,6.5436,Ethyl valerate,mz2
+99.076,8.0479,Ethyl caproate,mz2
+113.0597,8.0457,Ethyl heptanoate,mz2
+125.1327,8.2353,Ethyl caprylate,mz2
+88.0518,3.7686,Ethyl pelargonate,mz2
+88.0519,4.3275,Ethyl caprate,mz2
+88.0519,4.8461,Ethyl undecanoate,mz2
+88.0519,5.3465,Ethyl laurate,mz2
+88.0519,6.5369,Ethyl myristate,mz2
+199.1694,8.2286,Ethyl palmitate,mz2
+199.1693,10.3603,Ethyl stearate,mz2
+87.044,19.1182,Aldicarb sulfoxide,mz2
+117.0574,18.666,Aldicarb sulfone,mz2
+218.0837,23.6237,Oxamyl-1,mz2
+147.0803,4.8198,methomyl-1,mz2
+177.0909,19.2978,3-hydroxycarbofuran,mz2
+142.0732,4.8939,aldicarb,mz2
+110.0363,5.3426,baygon,mz2
+131.0494,6.0763,carbofuran,mz2
+144.0568,7.2546,1-naphthol,mz2
+153.0365,7.6154,methiocarb,mz2
+344.776,8.7423,OCTACHLOROSTYRENE,mz2
+236.8406,8.8981,oxychlordane,mz2
+411.6786,8.2004,"2,3,4,6-tetrabromophenol",mz2
+485.5934,11.8565,pentabromophenol,mz2
+717.4348,22.2426,BDE-206,mz2
+328.8801,10.6038,Parlar 26,mz2
+338.8643,12.7118,Parlar 50,mz2
+374.841,14.1634,Parlar 62,mz2
+119.0492,3.2714,"4-Hydroxy-2,5-dimethyl-3(2H)-furanone",mz2
+93.0697,17.4333,(-)-Menthol,mz2
+151.024,2.9422,Maltol,mz2
+162.1149,4.5732,(+-)-Nicotine,mz2
+138.0309,4.8138,Ethyl vanillin,mz2
+97.0284,3.3286,Ethyl maltol,mz2
+105.0699,18.1496,Glycerin ,mz2
+105.0699,17.9981,Propylene glycol,mz2
+129.0911,17.4356,Menthone ,mz2
+258.5585,12.3149,"2,3,7,8-TCDD",mz2
+309.7,12.1824,"2,3,7,8-TCDF-1",mz2
+352.7572,14.1604,"1,2,3,7,8-Pentachlorodibenzo-p-dioxin",mz2
+341.8558,13.4761,"1,2,3,7,8-Pentachlorodibenzofuran",mz2
+341.8558,14.0122,"2,3,4,7,8-Pentachlorodibenzofuran",mz2
+391.8121,16.2231,"1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin",mz2
+393.8097,16.277,"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin",mz2
+393.8097,16.4194,"1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin",mz2
+377.8149,15.6354,"1,2,3,4,7,8-Hexachlorodibenzofuran",mz2
+375.8168,15.7059,"1,2,3,6,7,8-Hexachlorodibenzofuran",mz2
+375.8168,16.0986,"1,2,3,7,8,9-Hexachlorodibenzofuran",mz2
+375.8168,16.5597,"2,3,4,6,7,8-Hexachlorodibenzofuran",mz2
+427.7708,18.0625,"1,2,3,4,6,7,8-HepCDD",mz2
+411.7754,17.4894,"1,2,3,4,6,7,8-Heptachlorodibenzofuran",mz2
+411.7754,18.2498,"1,2,3,4,7,8,9-Heptachlorodibenzofuran",mz2
+444.4695,19.187,OCDD,mz2
+444.4695,19.1825,"1,2,3,4,6,7,8,9-Octachlorodibenzofuran",mz2
+253.025,13.9086,"3,3'-Dichlorobenzidine-1",mz2
+115.0543,14.0772,"3,3'-Dimethoxybenzidine-1",mz2
+211.1229,6.3176,"3,3'-Dimethylbenzidine",mz2
+212.1197,19.6965,"3,3'-Dimethyl-4,4'-diaminodiphenylmethane",mz2
+266.0374,8.0592,"4,4'-Methylenebis(2-chloroaniline)",mz2
+128.0495,5.2866,2-Naphthylamine,mz2
+107.0856,19.5034,"4,4'-Oxydianiline",mz2
+186.0994,9.2267,"4,4'-Thiodianiline",mz2
+106.0652,3.7968,o-Toluidine,mz2
+134.0965,9.0753,"2,4,5-Trimethylaniline",mz2
+159.0805,19.6763,p-Aminoazobenzene,mz2
+167.073,5.5242,2-Aminobiphenyl,mz2
+123.0679,6.6594,o-Anisidine,mz2
+121.0397,5.318,3-Chloro-o-toluidine,mz2
+97.1012,3.2147,n-dodecane,mz2
+97.1012,3.8101,n-tridecane,mz2
+97.1012,4.367,n-tetradecane,mz2
+97.1012,4.8841,n-pentadecane,mz2
+97.1012,5.3758,n-hexadecane,mz2
+97.1012,5.9298,n-heptadecane,mz2
+97.1012,6.5925,n-octadecane,mz2
+97.1013,7.3889,n-nonadecane,mz2
+97.1013,8.303,n-icosane,mz2
+97.1013,10.1147,n-henicosane,mz2
+97.1013,10.4443,n-docosane,mz2
+97.1013,11.5222,n-tricosane,mz2
+97.1013,12.7727,n-tetracosane,mz2
+97.1013,13.9694,n-pentacosane,mz2
+97.1013,15.1458,n-hexacosane,mz2
+97.1013,16.7187,n-heptacosane,mz2
+99.1169,15.1377,n-octacosane,mz2
+127.4571,21.2457,n-triacontane,mz2
+130.0413,6.35,"1,4-Naphthoquinone",mz2
+193.0885,11.6834,4-Nitroquinoline-1-oxide,mz2
+109.1012,11.7898,p-Phenylenediamine,mz2
+105.0659,11.5422,Acetophenone,mz2
+181.0885,12.409,2-Acetylaminofluorene,mz2
+167.0732,9.2923,4-Aminobiphenyl-1,mz2
+135.0806,10.3927,Aramite,mz2
+135.0804,10.6394,Aramite-1,mz2
+147.0316,6.6207,"2-sec-Butyl-4,6-dinitrophenol",mz2
+107.049,3.8216,m-Cresol,mz2
+125.9868,3.2503,"2,6-Dichlorophenol",mz2
+148.0871,10.6147,p-Dimethylaminoazobenzene,mz2
+239.0857,16.661,"7,12-Dimethylbenz(a)anthracene",mz2
+150.0299,4.633,m-Dinitrobenzene,mz2
+112.0883,9.8866,Ethyl methacrylate,mz2
+372.953,16.6094,Hexachlorophene,mz2
+214.8378,3.2571,Hexachloropropene,mz2
+103.0543,4.2807,Isosafrole,mz2
+103.0543,3.7812,Isosafrole-1,mz2
+260.2502,17.8421,Methapyrilene,mz2
+253.1014,18.3072,3-Methylcholanthrene,mz2
+101.0598,9.8888,Methyl methacrylate,mz2
+101.0386,19.5245,Methyl methanesulfonate,mz2
+128.0495,5.3314,1-Naphthylamine,mz2
+128.0495,5.9728,2-Naphthylamine-1,mz2
+141.1387,3.5915,N-Nitrosodi-n-butylamine,mz2
+103.0866,3.5915,N-Nitrosodiethylamine,mz2
+87.0441,4.1406,N-Nitrosoethylmethylamine,mz2
+114.0465,4.9606,N-Nitrosomorpholine,mz2
+102.0466,4.2829,N-Nitrosopyrrolidine,mz2
+102.0466,3.7857,N-Nitrosopyrrolidine-1,mz2
+94.0651,5.401,5-Nitro-o-toluidine,mz2
+251.8458,4.9875,Pentachlorobenzene,mz2
+201.8717,6.2822,Pentachloroethane,mz2
+238.9381,6.2822,Pentachloronitrobenzene,mz2
+108.0444,5.9413,Phenacetin,mz2
+94.0652,9.0749,2-Picoline,mz2
+174.9527,6.4784,Pronamide-1,mz2
+103.0543,4.2807,Safrole,mz2
+103.0543,3.7812,Safrole-1,mz2
+216.8909,3.9976,"1,2,4,5-Tetrachlorobenzene",mz2
+233.8796,5.1755,"2,3,4,6-Tetrachlorophenol",mz2
+106.037,3.1785,Benzoic acid-1,mz2
+92.0576,7.2986,Benzyl salicylate,mz2
+153.1275,5.1553,"1,8-Cineole",mz2
+103.0546,3.6887,trans Cinnamaldehyde,mz2
+133.0652,4.6286,Cinnamyl acetate,mz2
+133.0646,4.6263,Cinnamyl alcohol,mz2
+101.0597,8.0705,Ethyl butyrate-1,mz2
+101.0597,10.1085,Ethyl butyrate-2,mz2
+121.101,5.1553,Geraniol,mz2
+97.0649,9.8808,Hydroxycitronellal,mz2
+107.0855,3.8189,d-Limonene ,mz2
+136.0837,3.8167,Thymol ,mz2
+123.0444,4.373,Vanillin,mz2
+800.006,7.358,DFTPP,mz2
+95.0492,8.1198,Butyric acid,mz2
+132.0809,8.1342,Hexanoic acid,mz2
+87.0441,3.8385,Valeric acid,mz2
+166.0753,7.22,Tetraethyl ethylenediphosphate,mz2
+88.0519,10.7415,Ethyl oleate,mz2
+327.6128,7.7336,HFPO-DA,mz2
+594.8143,22.9185,NEtFOSAA,mz2
+118.9917,18.5241,PFBS,mz2
+269.9776,3.7855,PFHxA,mz2
+319.9756,16.2087,PFHpA,mz2
+180.92,19.5026,PFHxS,mz2
+414.9424,13.8348,PFOA,mz2
+501.9401,21.4859,PFOS,mz2
+180.793,14.8518,PFNA,mz2
+560.9453,20.8482,PFDA,mz2
+563.8817,18.3975,PFUnA,mz2
+511.9351,19.579,NMeFOSAA,mz2
+168.9237,22.3167,PFDoA,mz2
+169.0049,22.0271,PFTrDA,mz2
+593.9434,23.2757,PFTA,mz2
+652.8137,21.2321,11Cl-PF3OUdS,mz2
+410.9796,7.5552,9Cl-PF3ONS,mz2
+118.9474,11.6446,ADONA,mz2
+88.0308,4.851,Glyphosate,mz2
+391.2853,20.6285,"Cholic acid sodium (5b-cholanic acid-3a,7a,12a-triol, CA),",mz2
+391.2487,20.8846,"a-muricholic acid (5b-cholanic acid-3a,6b,7a-triol, aMCA),",mz2
+391.249,22.2993,"b-muricholic acid (5b-cholanic acid-3a,6b,7b-triol, bMCA),",mz2
+391.249,22.5665,omega-muricholic acid,mz2
+394.265,21.4932,"Hyocholic acid (3alpha,6alpha,7alpha-Trihydroxy-5beta-cholan-24-oic acid)",mz2
+254.2031,20.8592,deoxycholate sodium,mz2
+254.2031,22.016,deoxycholate sodium-1,mz2
+263.2007,20.5621," hyodeoxycholic acid (5b-cholanic acid3a,6a-diol, HDCA),",mz2
+373.2924,21.2713,"ursodeoxycholic acid (5b-cholanic acid-3a, 7b-diol, UDCA),",mz2
+520.3265,20.666,sodium taurocholate hydrate,mz2
+536.277,14.0057,tauro-b-muricholic acid sodium,mz2
+522.2798,12.6104,sodium taurochenodeoxycholate,mz2
+348.2433,15.6066,sodium taurohyodeoxycholate hedrate,mz2
+490.3253,20.6897,taurolithocholic sodium salt,mz2
+423.4202,22.8836,glycocholic acid hydrate,mz2
+325.253,20.6974,glycocholic acid,mz2
+468.2927,21.5503,sodium glycochenodeoxycholate,mz2
+324.2686,22.3055,glycodeoxycholic acid sodium salt,mz2
+433.3325,22.3075,"glycohyodeoxycholic acid [5b-cholanic acid-3a,6a-diol-N-(carboxymethyl)-amide],",mz2
+433.3325,18.3626,"glycoursodeoxycholic acid [5b-cholanic acid-3a,7b-diol-N- (carboxymethyl)-amide],",mz2
+431.3294,19.2536,glycolithocholic acid [5b-cholanic acid3a-ol-N-(carboxymethyl)-amide],mz2
+289.9033,14.3588,PCB-169,mz3
+289.9219,7.2785,PCB-52,mz3
+325.8612,13.7861,PCB-180,mz3
+220.9919,6.3416,PCB-18,mz3
+259.9547,7.033,PCB-31,mz3
+259.9547,7.033,PCB-28,mz3
+289.9219,7.8958,PCB-44,mz3
+325.8612,14.0807,PCB-170,mz3
+548.6178,18.5067,PBB-153,mz3
+643.532,18.9047,PBDE-153,mz3
+407.8,11.0445,PBDE-28,mz3
+565.62,16.9587,PBDE-99,mz3
+292.8903,14.309,"1,2,3,7,8-PCDD",mz3
+326.8515,16.4268,"1,2,3,4,7,8-HxCDD",mz3
+170.9996,11.6624,"2,3,7,8-TCDF",mz3
+377.8139,15.8109,"1,2,3,4,7,8-HxCDF",mz3
+405.7844,16.541,"1,2,3,4,6,7,8-HepCDF",mz3
+439.7451,19.3345,OCDF,mz3
+132.0319,15.0708,Azinphos ethyl ,mz3
+160.0506,14.2336,Azinphos methyl ,mz3
+198.9168,7.9857,Chlorpyrifos ,mz3
+289.9191,7.1657,Chlorpyrifos methyl ,mz3
+199.063,6.5063,Diazinon ,mz3
+159.0205,13.2171,EPN ,mz3
+276.0574,7.6952,Fenitrothion ,mz3
+120.9853,6.6711,Isazophos ,mz3
+183.9974,14.0922,Phosalone ,mz3
+93.01,13.0636,Phosmet ,mz3
+168.059,8.446,Pirimiphos ethyl ,mz3
+180.1131,7.6795,Pirimiphos methyl ,mz3
+362.0428,15.4356,Pyraclofos ,mz3
+237.0568,15.0461,Pyrazophos ,mz3
+96.9509,13.0164,Pyridaphenthion ,mz3
+157.076,8.9472,Quinalphos ,mz3
+328.9036,8.3798,Aldrin ,mz3
+184.9314,5.8529,a-BHC,mz3
+184.9314,6.1403,b-BHC,mz3
+184.9314,6.2469,g-BHC,mz3
+184.9314,6.625,d-BHC,mz3
+126.0183,9.0867,Chlorbenside ,mz3
+376.8192,9.0598,cis-Chlordane ,mz3
+376.8192,9.3191,trans-Chlordane ,mz3
+176.9583,9.6434,Chlorfenson (Ovex) ,mz3
+207.9864,4.8457,Chloroneb ,mz3
+165.0697,10.0159,"2,4'-DDD ",mz3
+165.0697,10.8567,"4,4'-DDD ",mz3
+317.9357,9.1641,"2,4'-DDE ",mz3
+317.9357,9.8847,"4,4'-DDE ",mz3
+236.0108,10.8544,"2,4'-DDT ",mz3
+236.0108,11.7615,"4,4'-DDT ",mz3
+215.0259,8.1241,"4,4'-Dichlorobenzophenone ",mz3
+249.995,9.3973,"4,4'-Dichlorobenzophenone-1",mz3
+249.995,10.1407,"4,4'-Dichlorobenzophenone-2",mz3
+278.9111,9.9071,Dieldrin ,mz3
+236.8409,6.8605,Endosulfan ether ,mz3
+346.8951,10.3481,Endrin aldehyde ,mz3
+346.8953,12.6611,Endrin ketone ,mz3
+224.0554,21.83,Ethylan (Perthane) ,mz3
+98.9995,8.2116,Fenson ,mz3
+350.8469,8.5869,Heptachlor epoxide (isomer B) ,mz3
+262.8571,8.3835,Isodrin ,mz3
+181.0649,11.994,"2,4'-Methoxychlor ",mz3
+311.0371,11.5709,"4,4'-Methoxychlor olefin ",mz3
+269.8128,14.2467,Mirex ,mz3
+410.7812,9.3874,cis-Nonachlor ,mz3
+410.7812,10.7455,trans-Nonachlor ,mz3
+279.8595,5.9472,Pentachloroanisole ,mz3
+245.8444,7.6003,Pentachlorothioanisole ,mz3
+226.8888,13.7214,Tetradifon ,mz3
+265.0255,5.7433,Benfluralin ,mz3
+155.081,4.2886,Biphenyl ,mz3
+269.8717,6.5359,Chlorothalonil,mz3
+154.0121,7.8132,Dichlofluanid ,mz3
+205.9643,6.0773,Dichloran ,mz3
+164.9736,6.2347,"3,4-Dichloroaniline ",mz3
+164.0011,4.0274,Dichlobenil,mz3
+170.0919,5.5202,Diphenylamine ,mz3
+292.0536,5.6243,Ethalfluralin ,mz3
+263.8806,6.5269,Fluchloralin ,mz3
+264.1343,8.5319,Isopropalin ,mz3
+258.018,12.6644,Nitralin ,mz3
+204.0151,10.5717,Nitrofen ,mz3
+253.0424,10.2983,Oxyfluorfen ,mz3
+191.0687,8.6136,Pendimethalin ,mz3
+268.8536,6.9352,Pentachloroaniline ,mz3
+278.8379,6.3088,Pentachlorobenzonitrile ,mz3
+333.1166,7.7346,Prodiamine ,mz3
+331.109,6.365,Profluralin ,mz3
+234.8926,5.5112,"2,3,5,6-Tetrachloroaniline ",mz3
+124.0714,4.8512,THPI (Tetrahydrophthalimide) ,mz3
+181.9324,5.4977,Tolylfluanid ,mz3
+248.0271,5.7119,Trifluralin ,mz3
+174.0914,7.1622,Acetochlor ,mz3
+237.0915,7.2979,Alachlor ,mz3
+132.0389,3.7143,Allidochlor ,mz3
+89.0386,7.2732,Clomazone (Command) ,mz3
+109.0324,11.7356,Diallate_cis,mz3
+109.0324,11.7356,Diallate_trans,mz3
+197.0602,7.0769,Dimethachlor ,mz3
+180.0807,13.6411,Fenpropathrin ,mz3
+341.0429,16.0282,Fluquinconazole ,mz3
+145.0258,9.8644,Flutolanil ,mz3
+117.0575,8.6439,Metazachlor ,mz3
+152.0621,13.465,Methoxychlor ,mz3
+146.06,7.3765,Metolachlor ,mz3
+149.0833,4.8117,"N-(2,4-Dimethylphenyl)formamide ",mz3
+173.0323,11.7401,Norflurazon ,mz3
+258.0325,10.1653,Oxadiazon ,mz3
+162.1279,9.9564,Pretilachlor,mz3
+308.0371,4.3749,Prochloraz ,mz3
+163.1311,7.9383,Propachlor ,mz3
+161.9828,7.1084,Propanil ,mz3
+146.0964,7.3765,Propisochlor ,mz3
+105.0699,16.1315,Pyridaben ,mz3
+276.0898,13.7677,Tebufenpyrad ,mz3
+174.8938,6.7837,Triallate ,mz3
+273.1018,10.3161,Bupirimate ,mz3
+310.9336,12.5452,Captafol ,mz3
+150.0445,4.6918,Captan ,mz3
+361.9428,10.49,Chlorfenapyr ,mz3
+226.1293,8.6561,Cyprodinil ,mz3
+107.049,17.7026,Etofenprox ,mz3
+184.9145,4.6267,Etridiazole ,mz3
+361.9428,10.5596,Fipronil ,mz3
+249.0427,9.8722,Fludioxonil ,mz3
+310.0935,18.0406,Fluridone (Sonar) ,mz3
+206.0543,10.2503,Flusilazole ,mz3
+330.1035,17.8443,Flutriafol ,mz3
+168.1128,9.0587,Folpet ,mz3
+316.0065,13.0907,Iprodione ,mz3
+154.0692,11.8523,Lenacil ,mz3
+98.0235,8.4464,MGK-264 ,mz3
+98.0236,8.6975,MGK_264_1,mz3
+152.0386,10.1875,Myclobutanil ,mz3
+238.0556,9.4776,Paclobutrazol ,mz3
+281.0512,5.4871,Penconazole ,mz3
+95.0492,9.0039,Procymidone ,mz3
+201.058,12.4693,Propargite ,mz3
+197.0949,6.5663,Pyrimethanil ,mz3
+137.1326,19.3654,Pyriproxyfen ,mz3
+127.0122,12.3044,Tebuconazole ,mz3
+158.0367,6.6483,Terbacil-1,mz3
+138.0775,6.4285,Terbuthylazine ,mz3
+248.0395,9.7936,Tricyclazole (Beam)-1,mz3
+178.9872,9.1171,Triflumizole ,mz3
+213.9997,7.2467,Vinclozolin ,mz3
+180.0807,15.3521,Acrinathrin ,mz3
+209.0548,8.0321,Anthraquinone ,mz3
+165.0697,13.4226,Bifenthrin ,mz3
+125.1598,8.993,Bioallethrin ,mz3
+215.0505,16.9059,Cyfluthrin-1,mz3
+215.0505,17.0775,Cyfluthrin-2,mz3
+215.0505,17.1256,Cyfluthrin-3,mz3
+215.0505,17.2154,Cyfluthrin-4,mz3
+197.034,14.9158,lambda-Cyhalothrin ,mz3
+197.034,14.6579,gama-Cyhalothrin ,mz3
+165.0046,17.3198,Cypermethrin_1,mz3
+165.0046,17.4801,Cypermethrin_2,mz3
+165.0046,17.5161,Cypermethrin_3,mz3
+165.0046,17.5789,Cypermethrin_4,mz3
+254.9028,18.7539,Deltamethrin_1,mz3
+252.9047,18.8233,Deltamethrin_2,mz3
+181.0647,18.2542,Fenvalerate_1,mz3
+181.0647,18.4512,Fenvalerate_2,mz3
+199.0929,17.5677,Flucythrinate_1,mz3
+181.0647,17.8076,Flucythrinate_2,mz3
+181.0647,18.4242,tau-Fluvalinate_1,mz3
+181.0647,18.5051,tau-Fluvalinate_2,mz3
+168.0568,16.0042,cis-Permethrin ,mz3
+168.0568,16.2281,trans-Permethrin ,mz3
+165.0699,14.0307,Phenothrin_cis,mz3
+165.0699,14.0554,Phenothrin_trans,mz3
+123.1166,12.7986,Resmethrin ,mz3
+175.0122,14.9203,Tefluthrin ,mz3
+107.0855,13.199,Tetramethrin ,mz3
+129.0271,7.4073,Transfluthrin ,mz3
+342.2112,17.735,Acequinocyl ,mz3
+341.9024,13.2951,Bromopropylate ,mz3
+330.0258,11.7542,Carfentrazone ethyl ,mz3
+251.0266,12.0236,Chlorobenzilate,mz3
+189.9583,8.8085,Chlozolinate ,mz3
+302.8769,8.0645,DCPA methyl ester (Chlorthal-dimethyl) ,mz3
+383.1352,10.8059,Fluazifop-p-butyl ,mz3
+206.1179,7.4271,Metalaxyl ,mz3
+141.0696,4.9876,2-Phenylphenol ,mz3
+377.9014,14.0963,Bromfenvinfos-methyl ,mz3
+347.8494,11.4796,Bromfenvinphos ( E ),mz3
+358.7125,20.4197,Bromophos ethyl ,mz3
+315.8007,21.3047,Bromophos methyl ,mz3
+295.9855,11.6878,Carbophenothion ,mz3
+268.9125,15.8107,Chlorfenvinphos ,mz3
+96.9507,11.1504,Chlorthiophos -1,mz3
+270.9233,10.8316,Chlorthiophos -2,mz3
+223.9096,10.6151,Chlorthiophos -3,mz3
+364.011,16.035,Coumaphos ,mz3
+218.0217,11.7215,Edifenphos ,mz3
+153.0133,11.1099,Ethion ,mz3
+260.0509,9.8844,Fenamiphos ,mz3
+318.9069,8.6612,Fenchlorphos (Ronnel) ,mz3
+245.0396,8.0756,Fenthion ,mz3
+398.808,11.2995,Iodofenphos ,mz3
+373.8977,22.2185,Leptophos ,mz3
+371.0408,3.8214,Malathion ,mz3
+124.9818,4.8706,Methacrifos ,mz3
+338.964,9.9967,Profenofos ,mz3
+232.0191,9.874,Prothiofos ,mz3
+96.9508,5.7704,Sulfotepp ,mz3
+140.0289,11.4646,Sulprofos ,mz3
+174.9106,6.4173,Terbufos ,mz3
+326.994,9.7071,Tetrachlorvinphos ,mz3
+270.9225,11.1459,Tolclofos-methyl ,mz3
+270.9225,10.8271,Tolclofos-methyl-1,mz3
+90.0299,6.6478,Disulfoton,mz3
+110.0182,6.4618,Fonofos ,mz3
+109.0048,7.2792,Methyl parathion ,mz3
+292.0357,8.14,Parathion (ethyl parathion) ,mz3
+123.0026,5.8944,Phorate ,mz3
+177.0906,12.7065,Piperonyl butoxide ,mz3
+172.0868,11.4868,Triazophos ,mz3
+253.9451,10.0804,PCB-111,mz3
+323.8828,10.0804,PCB-116,mz3
+323.8827,9.0183,PCB-121,mz3
+253.9451,9.9996,PCB-125,mz3
+287.9063,9.9412,PCB-140,mz3
+287.9061,8.7596,PCB-142,mz3
+287.9063,10.8742,PCB-143,mz3
+323.8828,11.1191,PCB-148,mz3
+357.8436,10.9707,PCB-150,mz3
+357.8439,10.0804,PCB-155,mz3
+357.8438,9.7048,PCB-160,mz3
+289.9032,9.2547,PCB-162,mz3
+357.8438,12.0627,PCB-168,mz3
+397.7958,12.6946,PCB-188,mz3
+150.0464,11.4363,PCB-23,mz3
+259.9549,11.1774,PCB-39,mz3
+293.916,6.9511,PCB-62,mz3
+293.916,7.8126,PCB-68,mz3
+255.9422,7.9773,PCB-80,mz3
+253.9451,8.4363,PCB-88,mz3
+290.9112,9.0789,PCB-94,mz3
+253.9452,10.1932,PCB-109,mz3
+253.9452,9.734,PCB-112,mz3
+253.9451,9.7865,PCB-120,mz3
+289.9034,12.5446,PCB-159,mz3
+397.796,12.0505,PCB-186,mz3
+397.796,13.5877,PCB-192,mz3
+359.8221,14.5922,PCB-198,mz3
+150.0464,6.3314,PCB-30,mz3
+289.9219,7.8185,PCB-43,mz3
+293.916,9.1687,PCB-55,mz3
+293.916,8.7187,PCB-58,mz3
+293.916,8.9243,PCB-76,mz3
+327.8767,10.8918,PCB-106,mz3
+253.9452,10.7728,PCB-108,mz3
+361.8377,9.8275,PCB-152,mz3
+289.9033,12.3733,PCB-166,mz3
+397.7971,12.7646,PCB-177,mz3
+325.8612,12.4316,PCB-182,mz3
+397.7959,11.3533,PCB-184,mz3
+357.825,13.4639,PCB-204,mz3
+259.9549,7.6594,PCB-36,mz3
+293.916,8.3748,PCB-72,mz3
+361.8377,9.9092,PCB-78,mz3
+219.9841,9.7063,PCB-79,mz3
+327.8768,9.4423,PCB-89,mz3
+253.9451,8.4363,PCB-96,mz3
+327.8769,8.9024,PCB-98,mz3
+327.8768,8.9022,PCB-102,mz3
+150.0464,6.4545,PCB-11,mz3
+253.9451,9.5181,PCB-113,mz3
+253.9451,12.3625,PCB-126,mz3
+253.9451,11.5973,PCB-127,mz3
+324.8721,11.1109,PCB-133,mz3
+287.9062,10.787,PCB-139,mz3
+357.8438,9.983,PCB-145,mz3
+357.8436,11.2547,PCB-161,mz3
+150.0463,7.3506,PCB-21,mz3
+186.023,7.9326,PCB-38,mz3
+221.9811,7.1646,PCB-50,mz3
+293.9159,8.5889,PCB-57,mz3
+293.9159,8.8249,PCB-61,mz3
+289.9219,7.9415,PCB-65,mz3
+327.8769,9.9057,PCB-86,mz3
+253.9452,8.0337,PCB-104,mz3
+253.9451,11.1325,PCB-114,mz3
+150.0464,6.5193,PCB-12,mz3
+253.9448,9.7347,PCB-123,mz3
+287.9063,12.203,PCB-129,mz3
+361.8377,11.8431,PCB-137,mz3
+287.9064,12.9834,PCB-156,mz3
+287.9064,12.4437,PCB-167,mz3
+361.8377,11.8521,PCB-176,mz3
+395.7988,12.8357,PCB-185,mz3
+323.864,14.8918,PCB-189,mz3
+259.955,7.3745,PCB-33,mz3
+291.9189,7.6298,PCB-49,mz3
+293.9158,8.1738,PCB-59,mz3
+293.9159,8.787,PCB-63,mz3
+219.9841,8.3921,PCB-64,mz3
+219.9841,10.3427,PCB-77,mz3
+327.8769,10.1264,PCB-85,mz3
+327.8769,9.1018,PCB-91,mz3
+327.8769,9.9084,PCB-97,mz3
+327.8767,8.634,PCB-100,mz3
+253.9451,10.0032,PCB-117,mz3
+253.9451,11.17,PCB-122,mz3
+253.9451,10.7413,PCB-124,mz3
+150.0464,6.5496,PCB-13,mz3
+287.9063,11.9088,PCB-130,mz3
+150.0464,6.1977,PCB-14,mz3
+287.9062,11.1791,PCB-154,mz3
+289.9032,12.0228,PCB-163,mz3
+327.8767,10.26,PCB-165,mz3
+358.8327,12.3472,PCB-175,mz3
+357.825,13.1773,PCB-200,mz3
+357.8249,13.9974,PCB-201,mz3
+357.825,13.3977,PCB-202,mz3
+259.9549,8.1487,PCB-35,mz3
+221.9811,7.444,PCB-51,mz3
+221.9811,7.359,PCB-53,mz3
+221.9812,6.9727,PCB-54,mz3
+293.9159,7.76,PCB-73,mz3
+293.9159,7.9313,PCB-75,mz3
+219.9841,10.1201,PCB-81,mz3
+327.8768,9.472,PCB-90,mz3
+327.8767,9.1906,PCB-101,mz3
+327.8767,10.5861,PCB-105,mz3
+253.9451,9.9342,PCB-118,mz3
+253.9452,9.43,PCB-119,mz3
+287.9064,12.65,PCB-128,mz3
+361.8379,10.86,PCB-134,mz3
+357.8438,9.96,PCB-136,mz3
+287.9064,10.45,PCB-144,mz3
+225.043,5.84,PCB-15,mz3
+287.9063,10.1844,PCB-151,mz3
+287.9063,13.0989,PCB-157,mz3
+357.8437,11.7337,PCB-158,mz3
+397.7961,14.5096,PCB-190,mz3
+397.7959,13.9052,PCB-191,mz3
+259.9549,7.3754,PCB-20,mz3
+391.7863,15.7538,PCB-207,mz3
+391.7863,15.5146,PCB-208,mz3
+91.0543,17.7049,PCB-209,mz3
+150.0464,6.6608,PCB-27,mz3
+259.955,7.0012,PCB-29,mz3
+150.0464,6.9339,PCB-34,mz3
+256.9501,8.5003,PCB-40,mz3
+221.9812,8.1998,PCB-42,mz3
+221.9812,7.9265,PCB-47,mz3
+293.916,7.7362,PCB-69,mz3
+327.877,9.37,PCB-92,mz3
+290.9112,8.9306,PCB-93,mz3
+150.0464,5.521,PCB-10,mz3
+327.8769,8.5165,PCB-103,mz3
+290.9111,10.7908,PCB-107,mz3
+323.883,10.0401,PCB-115,mz3
+287.9063,11.0936,PCB-131,mz3
+287.9063,11.4114,PCB-132,mz3
+287.9063,10.5854,PCB-135,mz3
+357.8438,11.7177,PCB-141,mz3
+323.883,10.63,PCB-149,mz3
+287.9063,11.31,PCB-164,mz3
+220.992,5.77,PCB-17,mz3
+325.8613,13.24,PCB-171,mz3
+323.8644,13.2179,PCB-172,mz3
+323.8644,11.8425,PCB-178,mz3
+323.8644,12.197,PCB-183,mz3
+395.7987,13.3963,PCB-193,mz3
+357.8249,14.424,PCB-196,mz3
+395.7989,13.6042,PCB-197,mz3
+357.8252,16.2832,PCB-205,mz3
+150.0464,6.6664,PCB-24,mz3
+259.955,7.103,PCB-26,mz3
+259.9549,6.7993,PCB-32,mz3
+259.955,8.2901,PCB-37,mz3
+221.9811,8.3562,PCB-41,mz3
+221.9812,7.548,PCB-45,mz3
+219.9841,7.6713,PCB-46,mz3
+254.953,7.9077,PCB-48,mz3
+150.0464,5.9958,PCB-5,mz3
+293.9159,9.3499,PCB-60,mz3
+150.0464,5.8123,PCB-7,mz3
+221.9811,8.9679,PCB-70,mz3
+253.9452,9.7843,PCB-83,mz3
+290.9111,9.3836,PCB-84,mz3
+219.9841,8.9724,PCB-95,mz3
+153.0698,4.9356,PCB-1,mz3
+327.8773,9.2971,PCB-110,mz3
+287.9056,11.7202,PCB-138,mz3
+287.9056,10.9259,PCB-146,mz3
+287.9063,10.6823,PCB-147,mz3
+287.9056,11.0718,PCB-153,mz3
+257.9579,6.7801,PCB-16,mz3
+358.8329,13.3724,PCB-173,mz3
+325.8613,13.009,PCB-174,mz3
+397.796,11.6656,PCB-179,mz3
+325.8613,13.1257,PCB-181,mz3
+323.8639,12.041,PCB-187,mz3
+257.9579,6.2186,PCB-19,mz3
+357.8249,15.7478,PCB-194,mz3
+359.8222,15.1622,PCB-195,mz3
+357.8249,14.2703,PCB-199,mz3
+153.0698,5.3096,PCB-2,mz3
+357.8249,14.424,PCB-203,mz3
+391.786,16.6465,PCB-206,mz3
+259.955,7.5093,PCB-22,mz3
+259.955,7.1275,PCB-25,mz3
+153.0698,5.3537,PCB-3,mz3
+223.9967,5.5237,PCB-4,mz3
+293.916,9.3314,PCB-56,mz3
+150.0464,5.9295,PCB-6,mz3
+293.916,8.7294,PCB-66,mz3
+293.916,8.6866,PCB-67,mz3
+293.9159,8.337,PCB-71,mz3
+293.9159,8.5902,PCB-74,mz3
+150.0464,6.0104,PCB-8,mz3
+290.9112,10.4802,PCB-82,mz3
+327.8766,9.2747,PCB-87,mz3
+150.0464,5.8194,PCB-9,mz3
+327.8766,9.2063,PCB-99,mz3
+247.9833,5.7693,BDE-1,mz3
+115.0543,5.8698,BDE-2,mz3
+115.0543,5.9798,BDE-3,mz3
+169.0602,7.2398,BDE-10,mz3
+329.8895,8.0249,BDE-11,mz3
+329.8894,8.2345,BDE-12,mz3
+329.8894,8.2345,BDE-13,mz3
+168.0569,8.4575,BDE-15,mz3
+325.8936,7.7527,BDE-7,mz3
+329.8894,8.1806,BDE-8,mz3
+407.8004,10.2406,BDE-17,mz3
+139.0542,10.6579,BDE-25,mz3
+405.8025,10.7128,BDE-28,mz3
+407.8001,9.4895,BDE-30,mz3
+407.8,10.3304,BDE-32,mz3
+407.8002,11.0328,BDE-33,mz3
+403.8042,11.3203,BDE-35,mz3
+403.8042,11.6498,BDE-37,mz3
+327.8737,13.5567,BDE-47,mz3
+485.7103,13.4696,BDE-49,mz3
+483.7125,14.038,BDE-66,mz3
+327.8738,13.5656,BDE-71,mz3
+162.9377,13.2136,BDE-75,mz3
+485.7104,15.1874,BDE-77,mz3
+565.62,17.1966,BDE-99,mz3
+565.6198,16.4774,BDE-100,mz3
+643.5322,17.9316,BDE-114,mz3
+565.6201,16.958,BDE-115,mz3
+407.7823,17.1478,BDE-116,mz3
+567.6179,18.1556,BDE-126,mz3
+565.6199,18.1019,BDE-85,mz3
+643.5317,19.5035,BDE-138,mz3
+643.5322,19.0461,BDE-153,mz3
+643.53,18.4855,BDE-154,mz3
+643.5322,17.9563,BDE-155,mz3
+643.5317,19.5552,BDE-166,mz3
+565.6019,21.1498,BDE-181,mz3
+565.6023,20.2356,BDE-183,mz3
+565.6022,21.3517,BDE-190,mz3
+180.9534,4.6453,bis(2-Chloroethoxy)methane,mz3
+96.0105,3.0167,bis(2-Chloroethyl)ether,mz3
+205.0213,5.4102,4-Chlorophenyl phenyl ether,mz3
+347.1836,16.1287,bis(2-Ethylhexyl)phthalate,mz3
+166.0654,5.5237,N-Nitrosodi-n-propylamine,mz3
+168.0764,10.7675,N-Nitrosodiphenylamine,mz3
+163.0262,4.2895,2-Chloronaphthalene,mz3
+147.947,3.0644,"1,2-Dichlorobenzene",mz3
+147.947,3.0945,"1,3-Dichlorobenzene",mz3
+147.947,3.108,"1,4-Dichlorobenzene",mz3
+172.9668,3.0945,"1,2,4-Trichlorobenzene",mz3
+195.9421,9.8605,Endosulfan I ,mz3
+342.8666,11.2041,Endosulfan II ,mz3
+386.8402,12.1712,Endosulfan sulfate,mz3
+266.8515,10.4633,Endrin,mz3
+269.8127,7.6869,Heptachlor,mz3
+356.8376,9.0953,Heptachlor epoxide (Isomer B)-1,mz3
+121.0284,14.2502,Benzoic acid,mz3
+109.0558,4.9215,2-Methylphenol,mz3
+109.0605,3.7881,4-Methylphenol,mz3
+196.928,4.1551,"2,4,5-Trichlorophenol",mz3
+85.0648,3.1257,Aniline,mz3
+92.0496,3.7811,Benzyl alcohol,mz3
+126.0106,5.0646,4-Chloroaniline,mz3
+139.054,3.826,2-Methylnaphthalene,mz3
+92.0494,4.4072,2-Nitroaniline,mz3
+108.0443,4.8091,3-Nitroaniline,mz3
+92.0494,5.3955,4-Nitroaniline,mz3
+182.0838,5.3952,Benzidine,mz3
+253.0254,16.3889,"3,3'-Dichlorobenzidine-2",mz3
+153.065,4.6836,Acenaphthylene,mz3
+272.0627,19.4652,"Benzo(g,h,i)perylene",mz3
+143.0073,3.7464,4-Chloro-3-methylphenol,mz3
+97.9918,3.1907,2-Chlorophenol,mz3
+162.9666,3.0347,"2,4-Dichlorophenol",mz3
+123.0759,9.6951,"2,4-Dimethylphenol",mz3
+199.0305,5.4362,"2-Methyl-4,6-dinitrophenol",mz3
+105.0697,3.0024,2-Nitrophenol,mz3
+141.0307,5.0262,4-Nitrophenol,mz3
+96.0525,3.7852,Phenol,mz3
+198.9248,4.1195,"2,4,6-Trichlorophenol",mz3
+165.1436,4.8246,Acenaphthene-d10,mz3
+238.1547,13.0783,Chrysene-d12,mz3
+146.9901,17.6591,"1,4-Dichlorobenzene-d4",mz3
+138.119,3.1416,Naphthalene-d8,mz3
+263.163,17.5581,Perylene-d12,mz3
+187.1339,6.5174,Phenanthrene-d10,mz3
+97.0285,9.5196,potassium sorbate,mz3
+138.0308,8.4987,4-hydroxybenzoic acid,mz3
+93.0334,4.5711,methyl paraben,mz3
+137.0234,5.3222,protocatechuic acid,mz3
+122.0316,4.9384,ethyl paraben,mz3
+93.0335,5.0708,isopropyl paraben,mz3
+93.0336,4.9425,butyl paraben,mz3
+93.0335,9.5555,benzyl paraben,mz3
+139.0389,8.4291,heptyl paraben,mz3
+93.0334,5.4154,propyl paraben,mz3
+121.0284,4.9461,isobutyl paraben,mz3
+163.1121,4.8462,"Phenol, 2-octyl-",mz3
+220.1826,4.8417,Nonylphenol,mz3
+193.1224,8.3182,Nonylphenol monoethoxylate,mz3
+134.0726,5.8491,"2-Bromo-4-(2,4,4-trimethylpentan-2-yl)phenol",mz3
+161.096,11.4901,Nonylphenol diethoxylate,mz3
+123.995,6.8733,Chloramben,mz3
+145.9685,6.0202,"2,4-Dichlorophenoxyacetic acid",mz3
+203.9695,5.5277,Dicamba,mz3
+203.9695,5.5277,Dichlorprop Acid,mz3
+165.9574,5.9966,Picloram,mz3
+168.9248,5.0024,Bentazon,mz3
+198.0094,8.2414,Fenoprop,mz3
+199.9185,7.1746,Acifluorfen,mz3
+191.9555,4.7008,"3,5-dichlorobenzoic acid",mz3
+141.0101,5.6099,MCPA,mz3
+141.0101,5.6324,MCPP,mz3
+162.9668,7.261,"2-(2,4-dichlorophenoxy)butanoic acid",mz3
+199.9185,7.2418,"2,4,5-trichlorophenoxyacetic acid",mz3
+86.9995,4.1743,Trimethyl Phosphate,mz3
+111.1169,7.88,Tripropyl Phosphate,mz3
+237.1248,5.5214,Tributyl Phosphate,mz3
+342.0927,13.301,(3-Methylphenyl) diphenyl phosphate (CDP),mz3
+342.0927,13.6331,(3-Methylphenyl) diphenyl phosphate (CDP),mz3
+252.0505,12.6579,2-Ethylhexyldiphenylphosphate,mz3
+178.0775,14.3757,Tri-O-cresyl phosphate,mz3
+250.1718,17.8425,Isodecyl Diphenyl Phosphate,mz3
+404.2072,21.8235,Tris(2-ethylhexyl) phosphate,mz3
+257.096,13.2953,Diisopropylphenylphosphate,mz3
+222.9577,18.0122,Triisopropyl Phosphate,mz3
+175.0153,18.867,Tris(2-carboxyethyl)phosphine,mz3
+614.8548,21.1561,"4,4'-Isopropylidenebis[2-(2,6-dibromophenoxy)ethanol]",mz3
+326.9926,19.4429,Tris(1-chloro-2-propyl) phosphate,mz3
+371.1258,16.288,Tri-P-cresyl phosphate,mz3
+192.9396,11.4456,"Tris(1,3-dichloro-2-propyl)phosphate",mz3
+530.7274,18.6414,Tetrabromobisphenol A,mz3
+558.7611,18.0077,Tetrabromobisphenol A Bismethyl Ether,mz3
+203.8746,18.766,"Tris(2,3-dibromopropyl) phosphate",mz3
+649.4314,21.8191,tris(tribromoneopentyl),mz3
+214.8838,5.4491,Pentaerythritol tribromide,mz3
+203.0011,7.4335,Tris(2-chloropropyl) phosphate,mz3
+290.8835,6.2455,"Allyl 2,4,6-tribromophenyl ether",mz3
+261.0684,15.2384,Tri-M-cresyl phosphate,mz3
+420.5565,19.195,"1,2,5,6-Tetrabromocyclooctane",mz3
+300.7682,8.5803,"2-bromoallyl-2,4,6-tribromophenyl ether",mz3
+420.5818,17.5034,Tetrabromophthalic Acid,mz3
+558.3992,18.6242,Tetrabromobisphenol S,mz3
+781.9781,24.2075,Tetrabromobisphenol A Diallyl Ether,mz3
+684.6185,19.7405,"1,2-Bis(2,4,6-tribromophenoxy)ethane",mz3
+327.773,5.5356,"2,4,6-tris(2,4,6-tribromophenoxy)-1,3,5-triazine",mz3
+104.946,3.0132,3-Bromostyrene,mz3
+95.0493,9.76,Benzophenone-3,mz3
+124.9941,5.4033,Tri(Chloropropyl) phosphate (TCPP),mz3
+333.7675,5.5325,"2,4,6-Tribromophenol",mz3
+311.1656,23.4242,Tetrachlorobisphenol A,mz3
+433.6789,12.2742,"2,3,4,5-Tetrabromobenzoic acid",mz3
+433.6789,16.5164,"2,3,4,5-Tetrabromobenzoic acid_1",mz3
+595.7001,19.5318,tetrabromobisphenol S bismethyl ether,mz3
+526.7316,23.3057,tetrabromobisphenol A bisglycidyl ether,mz3
+102.0338,3.0122,4-Bromostyrene,mz3
+175.0337,4.3073,"cis/trans-3-(2,2-dichlorovinyl)-2,2-dimethylcylo",mz3
+175.0337,4.3073,"cis/trans-3-(2,2-dichlorovinyl)-2,2-dimethylcylo",mz3
+141.0696,7.1037,3-Phenoxybenzoic acid,mz3
+232.053,6.9587,4-fluro-3-phenoxy-benzoic acid,mz3
+121.0281,7.1644,Homosalate,mz3
+148.0757,10.9181,Octyl-dimethyl-PABA,mz3
+133.0646,11.5232,Occtyl-Methoxycinnamate (OMC),mz3
+125.9996,23.4875,"O,O-Dimethyl Thiophosphate",mz3
+105.0331,5.5149,"O,O-Diethyl Phosphonate",mz3
+156.9539,6.637,"O,O-Dimethyl dithiophosphate",mz3
+96.9507,7.3222,"O,O-Diethyl dithiophosphate",mz3
+146.8496,19.212,Malathion Diacid,mz3
+103.0542,3.7285,Carbofuran phenol,mz3
+296.3651,9.2106,Mono(2-ethyl-5-hydroxyhexyl) phthalate,mz3
+170.109,18.1822,Tripentyl Phosphate,mz3
+214.094,10.0232,Bisphenol A,mz3
+105.07,4.8375,Mono(3-carboxypropyl) phthalate,mz3
+165.9576,3.0122,"2,5-Dichlorophenol",mz3
+116.0402,4.8442,PROPYLENE THIOUREA,mz3
+127.0376,19.1268,Thifensulfuron-methyl,mz3
+136.0833,4.8447,4-Tert-Octylphenol,mz3
+291.9444,9.1355,Triclosan,mz3
+107.0491,8.8813,Bisphenol F,mz3
+101.0168,5.4026,ETHYLENE THIOUREA,mz3
+174.9637,9.4646,Bensulfuron-methyl,mz3
+455.2014,6.1528,Foramsulfuron,mz3
+140.0454,4.0967,Mesosulfuron-methyl,mz3
+105.1416,19.3981,metsulfuron-methyl,mz3
+124.0824,3.015,oxasulfuron,mz3
+231.0877,5.5172,rimsulfuron,mz3
+528.0956,17.5394,sulfosulfuron,mz3
+139.0615,3.834,triasulfuron,mz3
+492.1032,9.4475,triflusulfuron-methyl,mz3
+199.9186,4.0477,"2,4,6-trichlorophenol-1",mz3
+151.0865,4.3747,2-isopropyl-6-methyl-4-pyrimidinol,mz3
+126.0077,5.5122,diethyl phosphate (DEP),mz3
+99.0065,7.4357,dimethyl phosphate (DMP),mz3
+104.0257,14.0455,mono-benzyl phthalate(MBzP),mz3
+147.0652,15.0911,mono-n-butyl phthalate(MnBP),mz3
+168.0892,19.1408,mono-cyclohexyl phthalate(MCHP),mz3
+147.0655,6.6115,mono-ethyl phthalate(MEP),mz3
+150.1361,9.8629,mono-n-octyl phthalate(MOP),mz3
+163.1481,11.8895,mono-2-ethylhexyl phthalate(MEHP),mz3
+151.054,4.7862,Acenaphthene,mz3
+177.054,6.4444,Anthracene,mz3
+183.0872,5.4818,Azobenzene,mz3
+113.0385,12.867,Benz(a)anthracene,mz3
+126.0463,16.316,Benz[a]pyrene,mz3
+137.0385,19.2571,"Benzo(g,h,i)perylene",mz3
+126.0463,17.2264,Benzo(k)fluoranthene,mz3
+207.0971,11.7779,Benzyl butyl phthalate,mz3
+115.0541,5.8632,4-Bromophenyl phenyl ether,mz3
+168.0761,6.8304,Carbazole,mz3
+130.019,5.0026,2-Chlorophenol-1,mz3
+281.0511,19.343,"Dibenz(a,h)anthracene",mz3
+169.0599,4.9555,Dibenzofuran,mz3
+149.1523,7.7083,Dibutyl phthalate,mz3
+143.9529,3.1623,"1,2-Dichlorobenzene-1",mz3
+143.9529,3.0289,"1,4-Dichlorobenzene-1",mz3
+165.0181,5.2516,Diethyl phthalate,mz3
+186.0296,4.8468,"2,4-Dinitrophenol",mz3
+90.0338,4.9757,"2,4-Dinitrotoluene",mz3
+165.0292,5.3636,"2,6-Dinitrotoluene",mz3
+280.2183,13.8302,Di-n-octyl phthalate,mz3
+201.0697,8.7375,Fluoranthene,mz3
+164.062,5.2905,Fluorene,mz3
+137.0385,19.5753,"Indeno(1,2,3-cd)pyrene",mz3
+111.0804,9.5525,2-Methylphenol-1,mz3
+111.0804,9.6378,4-Methylphenol-1,mz3
+109.0478,5.322,3-Nitroaniline-1,mz3
+109.0478,6.5531,4-Nitroaniline-1,mz3
+120.0207,5.2494,Nitrobenzene,mz3
+120.0207,14.058,Nitrobenzene-2,mz3
+140.0299,5.026,2-Nitrophenol-1,mz3
+269.838,6.1694,Pentachlorophenol,mz3
+152.0617,6.4444,Phenanthrene,mz3
+95.0447,5.8677,Phenol-1,mz3
+199.9184,4.0548,"2,4,5-Trichlorophenol-1",mz3
+126.0463,16.3338,Benzo(b)fluoranthene,mz3
+94.0135,14.7176,bis(2-Chloroethyl)ether-1,mz3
+93.0334,6.3826,bis(2-Chloro-1-methylethyl)ether,mz3
+227.0809,12.8792,Chrysene,mz3
+143.9527,3.6622,"1,3-Dichlorobenzene-1",mz3
+143.9527,6.156,"1,4-Dichlorobenzene-2",mz3
+164.0421,4.5639,Dimethyl phthalate,mz3
+92.0255,4.6066,"2,6-Dinitrotoluene-1",mz3
+186.157,7.8711,bis(2-Ethylhexyl)phthalate-1,mz3
+287.8042,5.8818,Hexachlorobenzene,mz3
+234.8439,3.9211,Hexachlorocyclopentadiene,mz3
+117.8313,20.5846,Hexachloroethane,mz3
+96.0933,9.6522,Isophorone,mz3
+120.0207,7.7184,Nitrobenzene-1,mz3
+170.0792,6.8229,N-Nitrosodiphenylamine-1,mz3
+201.0701,9.2624,Pyrene,mz3
+85.9312,3.2345,Bromobenzene,mz3
+126.9505,12.2624,Bromochloromethane,mz3
+126.6474,19.0212,Bromodichloromethane,mz3
+253.5541,19.7777,Bromoform,mz3
+92.0621,11.3193,n-Butylbenzene,mz3
+92.0621,19.1335,sec-Butylbenzene,mz3
+92.0621,19.367,tert-Butylbenzene,mz3
+122.8973,3.2345,Carbon tetrachloride,mz3
+111.0099,4.3949,Chlorobenzene,mz3
+118.7836,9.5262,Chloroform,mz3
+125.0385,4.7715,2-Chlorotoluene,mz3
+125.0385,5.5875,4-Chlorotoluene,mz3
+127.666,3.2727,Dibromochloromethane,mz3
+160.6582,19.2143,"1,2-Dibromo-3-chloropropane",mz3
+107.7949,19.7135,"1,2-Dibromoethane",mz3
+105.9373,3.2322,Dibromomethane,mz3
+143.9529,3.2075,"1,3-Dichlorobenzene-2",mz3
+143.9529,3.239,"1,4-Dichlorobenzene-3",mz3
+97.9498,3.2929,"1,1-Dichloroethene",mz3
+97.9498,3.0234,"cis-1,2-Dichloroethene",mz3
+97.9498,3.0346,"trans-1,2-Dichloroethene",mz3
+95.9762,3.0324,"1,2-Dichloropropane",mz3
+95.9762,3.2075,"1,3-Dichloropropane",mz3
+95.9762,3.239,"2,2-Dichloropropane",mz3
+105.0658,9.5194,Ethylbenzene,mz3
+226.8379,3.2325,Hexachlorobutadiene,mz3
+93.07,9.5262,Isopropylbenzene,mz3
+93.0698,9.6312,p-Isopropyltoluene,mz3
+127.0543,3.0933,Naphthalene,mz3
+93.07,9.6205,n-Propylbenzene,mz3
+117.07,9.5324,Styrene,mz3
+116.9061,3.2367,"1,1,1,2-Tetrachloroethane",mz3
+132.9002,3.2322,"1,1,2,2-Tetrachloroethane",mz3
+128.9062,3.2345,Tetrachloroethene,mz3
+97.1012,9.6182,Toluene,mz3
+185.9211,3.0282,"1,2,3-Trichlorobenzene",mz3
+185.9211,3.2348,"1,2,4-Trichlorobenzene-1",mz3
+118.9032,3.2345,"1,1,1-Trichloroethane",mz3
+129.7753,4.1795,"1,1,2-Trichloroethane",mz3
+128.9914,3.026,Trichloroethene,mz3
+120.0934,9.5279,"1,2,4-Trimethylbenzene",mz3
+120.0934,9.6357,"1,3,5-Trimethylbenzene",mz3
+105.0699,9.5346,o-Xylene,mz3
+105.0699,9.6289,m-Xylene,mz3
+105.0699,9.9032,p-Xylene,mz3
+204.9778,5.0548,"1-Chloro-2,4-dinitrobenzene",mz3
+204.9778,5.1693,"1-Chloro-3,4-dinitrobenzene",mz3
+156.9928,3.4313,1-Chloro-2-nitrobenzene,mz3
+156.9928,3.456,1-Chloro-4-nitrobenzene,mz3
+154.0058,3.7785,2-Chloro-6-nitrotoluene,mz3
+154.0058,3.8189,4-Chloro-2-nitrotoluene,mz3
+154.0058,4.1109,4-Chloro-3-nitrotoluene,mz3
+144.961,3.938,"2,3-Dichloronitrobenzene",mz3
+144.961,4.167,"2,4-Dichloronitrobenzene",mz3
+144.961,4.1827,"3,5-Dichloronitrobenzene",mz3
+144.961,4.2828,"3,4-Dichloronitrobenzene",mz3
+144.961,4.3367,"2,5-Dichloronitrobenzene",mz3
+204.8764,5.2714,"2,3,5,6-Tetrachloronitrobenzene",mz3
+204.8764,5.6125,"2,3,4,5-Tetrachloronitrobenzene",mz3
+142.9449,4.4977,"1,2,3-Trichloro-4-nitrobenzene",mz3
+142.9449,4.8328,"1,2,4-Trichloro-5-nitrobenzene",mz3
+142.9449,5.0683,"2,4,6-Trichloronitrobenzene",mz3
+128.0623,8.6363,2-Chlorophenyl-4'-nitrophenyl ether,mz3
+138.0573,8.8331,3-Chlorophenyl-4'-nitrophenyl ether,mz3
+128.0623,9.0769,4-Chlorophenyl-4'-nitrophenyl ether,mz3
+280.9967,10.9663,"2,4-Dichlorophenyl-3'-methyl-4'-nitrophenyl ether",mz3
+284.9777,10.0271,"2,6-Dichlorophenyl-4'-nitrophenyl ether",mz3
+284.9777,10.3024,"3,5-Dichlorophenyl-4'-nitrophenyl ether",mz3
+284.9777,10.4169,"2,5-Dichlorophenyl-4'-nitrophenyl ether",mz3
+284.9777,10.8575,"2,3-Dichlorophenyl-4'-nitrophenyl ether",mz3
+284.9777,11.1331,"3,4-Dichlorophenyl-4'-nitrophenyl ether",mz3
+185.0602,7.1368,4-Nitrophenyl phenyl ether,mz3
+286.943,11.4817,"2,4,6-Trichlorophenyl-4'-nitrophenyl ether",mz3
+286.9438,12.0485,"2,3,6-Trichlorophenyl-4'-nitrophenyl ether",mz3
+318.9388,12.1787,"2,3,5-Trichlorophenyl-4'-nitrophenyl ether",mz3
+318.9389,12.3224,"2,4,5-Trichlorophenyl-4'-nitrophenyl ether",mz3
+197.9817,12.9921,"3,4,5-Trichlorophenyl-4'-nitrophenyl ether",mz3
+318.9389,13.0999,"2,3,4-Trichlorophenyl-4'-nitrophenyl ether",mz3
+173.046,6.1563,Atrazine,mz3
+168.0892,8.2815,Diphenamid,mz3
+86.0602,4.0653,EPTC,mz3
+113.9357,5.4969,Ethoprop,mz3
+109.0051,4.433,Mevinphos,mz3
+199.089,7.3882,Prometryne,mz3
+187.0624,6.2038,Propazine,mz3
+226.1127,7.5946,Terbutryn,mz3
+168.1146,6.5363,Atraton,mz3
+265.0198,6.1918,Bromacil,mz3
+127.0949,5.0375,Molinate,mz3
+176.9607,9.12,Pronamide,mz3
+160.0518,14.0523,Tricyclazole,mz3
+186.9733,3.403,Dichlorvos,mz3
+107.0237,14.6434,Fenarimol,mz3
+155.0605,9.5631,Napropamide,mz3
+155.0381,7.2609,Simetryn,mz3
+162.0464,14.6502,Terbacil,mz3
+209.1064,10.8558,o-aminoazotoluene,mz3
+170.0915,9.1121,4-aminobiphenyl,mz3
+92.0496,3.1684,4-chloroaniline-1,mz3
+94.0652,5.1719,p-cresidine,mz3
+121.0761,5.317,"2,4-diaminoanisole (as sulfate hydrate)",mz3
+182.0964,10.8535,"4,4'-diaminodiphenylmethane",mz3
+123.0872,5.3193,"2,4-diaminotoluene",mz3
+260.024,12.7145,Benzoylprop ethyl,mz3
+109.0635,6.8158,Caffeine,mz3
+116.0622,7.2984,Carbaryl,mz3
+158.964,3.799,o-Chlorophenyl thiourea,mz3
+256.0156,13.1413,"3,3'-Dichlorobenzidine",mz3
+186.0791,17.1748,"3,3'-Dimethoxybenzidine",mz3
+213.1338,18.4252,"3,3'-Dimethylbenzidine-1",mz3
+231.0087,8.723,Diuron,mz3
+200.0525,6.8271,Monuron,mz3
+395.1448,19.935,Rotenone,mz3
+395.1448,20.2518,Rotenone-1,mz3
+395.1448,20.7395,Rotenone-2,mz3
+97.101,9.7827,Siduron,mz3
+136.0759,6.2743,Aminocarb,mz3
+225.0325,10.1412,Barban,mz3
+171.0077,5.6311,Chlorpropham,mz3
+119.0726,5.5435,Fenuron,mz3
+233.0853,5.5031,Fluometuron,mz3
+159.9716,7.7461,Linuron,mz3
+97.0521,9.8184,Methomyl,mz3
+150.0914,6.6197,Mexacarbate,mz3
+190.9667,7.7393,Monuron TCA,mz3
+218.0573,9.0452,Oxamyl,mz3
+120.0807,4.6306,Propham,mz3
+167.037,6.8452,baygon-1,mz3
+188.9552,6.1881,Swep,mz3
+265.0198,7.6574,Bromacil-1,mz3
+192.1295,5.1873,Deet,mz3
+85.076,11.9023,Hexazinone,mz3
+144.0463,7.0768,Metribuzin,mz3
+209.0304,8.0794,Triadimefon,mz3
+90.0376,4.44,Butylate,mz3
+186.0942,5.5024,Cycloate,mz3
+146.1006,4.5448,Pebulate,mz3
+90.0372,4.6224,Vernolate,mz3
+85.0648,3.1862,Ethyl acetate,mz3
+89.0597,4.8461,Ethyl propionate,mz3
+115.0754,5.3623,Ethyl butyrate,mz3
+88.0474,6.5436,Ethyl valerate,mz3
+101.0599,8.0479,Ethyl caproate,mz3
+101.0599,8.0457,Ethyl heptanoate,mz3
+173.1421,8.2353,Ethyl caprylate,mz3
+141.1274,3.7686,Ethyl pelargonate,mz3
+155.1432,4.3275,Ethyl caprate,mz3
+169.1588,4.8461,Ethyl undecanoate,mz3
+183.1743,5.3465,Ethyl laurate,mz3
+157.1224,6.5369,Ethyl myristate,mz3
+88.052,8.2286,Ethyl palmitate,mz3
+88.0519,10.3603,Ethyl stearate,mz3
+117.0574,19.1182,Aldicarb sulfoxide,mz3
+118.0362,18.666,Aldicarb sulfone,mz3
+220.0999,23.6237,Oxamyl-1,mz3
+132.0569,4.8198,methomyl-1,mz3
+163.0753,19.2978,3-hydroxycarbofuran,mz3
+142.0809,4.8939,aldicarb,mz3
+111.0438,5.3426,baygon,mz3
+121.065,6.0763,carbofuran,mz3
+116.0617,7.2546,1-naphthol,mz3
+109.0646,7.6154,methiocarb,mz3
+309.807,8.7423,OCTACHLOROSTYRENE,mz3
+388.8019,8.8981,oxychlordane,mz3
+405.6848,8.2004,"2,3,4,6-tetrabromophenol",mz3
+491.5875,11.8565,pentabromophenol,mz3
+723.4285,22.2426,BDE-206,mz3
+304.9034,10.6038,Parlar 26,mz3
+374.8411,12.7118,Parlar 50,mz3
+302.8878,14.1634,Parlar 62,mz3
+135.0804,3.2714,"4-Hydroxy-2,5-dimethyl-3(2H)-furanone",mz3
+97.1012,17.4333,(-)-Menthol,mz3
+209.0113,2.9422,Maltol,mz3
+207.0321,4.5732,(+-)-Nicotine,mz3
+167.0552,4.8138,Ethyl vanillin,mz3
+125.0233,3.3286,Ethyl maltol,mz3
+159.1168,18.1496,Glycerin ,mz3
+147.0441,17.9981,Propylene glycol,mz3
+111.0814,17.4356,Menthone ,mz3
+325.6558,12.3149,"2,3,7,8-TCDD",mz3
+308.7573,12.1824,"2,3,7,8-TCDF-1",mz3
+357.9785,14.1604,"1,2,3,7,8-Pentachlorodibenzo-p-dioxin",mz3
+393.8097,16.2231,"1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin",mz3
+377.8145,15.7059,"1,2,3,6,7,8-Hexachlorodibenzofuran",mz3
+377.8145,16.0986,"1,2,3,7,8,9-Hexachlorodibenzofuran",mz3
+377.8145,16.5597,"2,3,4,6,7,8-Hexachlorodibenzofuran",mz3
+313.4218,17.4894,"1,2,3,4,6,7,8-Heptachlorodibenzofuran",mz3
+313.4218,18.2498,"1,2,3,4,7,8,9-Heptachlorodibenzofuran",mz3
+462.0531,19.187,OCDD,mz3
+256.0158,13.9086,"3,3'-Dichlorobenzidine-1",mz3
+158.0838,14.0772,"3,3'-Dimethoxybenzidine-1",mz3
+213.1339,6.3176,"3,3'-Dimethylbenzidine",mz3
+187.1118,19.6965,"3,3'-Dimethyl-4,4'-diaminodiphenylmethane",mz3
+268.0345,8.0592,"4,4'-Methylenebis(2-chloroaniline)",mz3
+144.0775,5.2866,2-Naphthylamine,mz3
+106.0734,19.5034,"4,4'-Oxydianiline",mz3
+187.0754,9.2267,"4,4'-Thiodianiline",mz3
+109.0604,3.7968,o-Toluidine,mz3
+121.0842,9.0753,"2,4,5-Trimethylaniline",mz3
+160.0839,19.6763,p-Aminoazobenzene,mz3
+170.0919,5.5242,2-Aminobiphenyl,mz3
+121.0605,6.6594,o-Anisidine,mz3
+140.0263,5.318,3-Chloro-o-toluidine,mz3
+111.1169,3.2147,n-dodecane,mz3
+111.1169,3.8101,n-tridecane,mz3
+111.1169,4.367,n-tetradecane,mz3
+111.1169,4.8841,n-pentadecane,mz3
+111.1169,5.3758,n-hexadecane,mz3
+111.1169,5.9298,n-heptadecane,mz3
+111.1168,6.5925,n-octadecane,mz3
+111.1169,7.3889,n-nonadecane,mz3
+111.1169,8.303,n-icosane,mz3
+111.1169,10.1147,n-henicosane,mz3
+111.1169,10.4443,n-docosane,mz3
+111.1169,11.5222,n-tricosane,mz3
+111.1169,12.7727,n-tetracosane,mz3
+111.1169,13.9694,n-pentacosane,mz3
+111.1169,15.1458,n-hexacosane,mz3
+111.1169,16.7187,n-heptacosane,mz3
+111.1169,15.1377,n-octacosane,mz3
+141.6958,21.2457,n-triacontane,mz3
+160.0518,6.35,"1,4-Naphthoquinone",mz3
+110.1045,11.7898,p-Phenylenediamine,mz3
+106.0413,11.5422,Acetophenone,mz3
+224.1024,12.409,2-Acetylaminofluorene,mz3
+170.0921,9.2923,4-Aminobiphenyl-1,mz3
+319.0763,10.3927,Aramite,mz3
+319.0762,10.6394,Aramite-1,mz3
+211.0351,6.6207,"2-sec-Butyl-4,6-dinitrophenol",mz3
+109.0604,3.8216,m-Cresol,mz3
+116.9061,3.2503,"2,6-Dichlorophenol",mz3
+226.1293,10.6147,p-Dimethylaminoazobenzene,mz3
+257.128,16.661,"7,12-Dimethylbenz(a)anthracene",mz3
+169.02,4.633,m-Dinitrobenzene,mz3
+99.0441,9.8866,Ethyl methacrylate,mz3
+210.8912,16.6094,Hexachlorophene,mz3
+210.8438,3.2571,Hexachloropropene,mz3
+161.0597,4.2807,Isosafrole,mz3
+161.0597,3.7812,Isosafrole-1,mz3
+162.1359,17.8421,Methapyrilene,mz3
+267.1169,18.3072,3-Methylcholanthrene,mz3
+96.057,9.8888,Methyl methacrylate,mz3
+98.0621,19.5245,Methyl methanesulfonate,mz3
+144.0763,5.3314,1-Naphthylamine,mz3
+144.0763,5.9728,2-Naphthylamine-1,mz3
+100.095,3.5915,N-Nitrosodi-n-butylamine,mz3
+100.095,3.5915,N-Nitrosodiethylamine,mz3
+113.0387,4.9606,N-Nitrosomorpholine,mz3
+101.0388,4.2829,N-Nitrosopyrrolidine,mz3
+101.0388,3.7857,N-Nitrosopyrrolidine-1,mz3
+153.0612,5.401,5-Nitro-o-toluidine,mz3
+253.8428,4.9875,Pentachlorobenzene,mz3
+203.8447,6.2822,Pentachloroethane,mz3
+234.844,6.2822,Pentachloronitrobenzene,mz3
+137.0836,5.9413,Phenacetin,mz3
+95.0685,9.0749,2-Picoline,mz3
+176.9496,6.4784,Pronamide-1,mz3
+104.0621,4.2807,Safrole,mz3
+104.0621,3.7812,Safrole-1,mz3
+217.8846,3.9976,"1,2,4,5-Tetrachlorobenzene",mz3
+235.8767,5.1755,"2,3,4,6-Tetrachlorophenol",mz3
+123.0398,3.1785,Benzoic acid-1,mz3
+210.0677,7.2986,Benzyl salicylate,mz3
+157.1224,5.1553,"1,8-Cineole",mz3
+102.0465,3.6887,trans Cinnamaldehyde,mz3
+116.0622,4.6286,Cinnamyl acetate,mz3
+116.0616,4.6263,Cinnamyl alcohol,mz3
+88.0474,8.0705,Ethyl butyrate-1,mz3
+88.0474,10.1085,Ethyl butyrate-2,mz3
+122.1046,5.1553,Geraniol,mz3
+95.0493,9.8808,Hydroxycitronellal,mz3
+108.0888,3.8189,d-Limonene ,mz3
+151.1072,3.8167,Thymol ,mz3
+153.0504,4.373,Vanillin,mz3
+88.0518,8.1198,Butyric acid,mz3
+173.1325,8.1342,Hexanoic acid,mz3
+89.0597,3.8385,Valeric acid,mz3
+137.0363,7.22,Tetraethyl ethylenediphosphate,mz3
+101.0597,10.7415,Ethyl oleate,mz3
+321.8611,7.7336,HFPO-DA,mz3
+583.9844,22.9185,NEtFOSAA,mz3
+168.9885,18.5241,PFBS,mz3
+270.9753,3.7855,PFHxA,mz3
+316.9273,16.2087,PFHpA,mz3
+130.9152,19.5026,PFHxS,mz3
+168.4802,13.8348,PFOA,mz3
+502.9766,21.4859,PFOS,mz3
+218.9023,14.8518,PFNA,mz3
+169.0493,20.8482,PFDA,mz3
+268.8239,18.3975,PFUnA,mz3
+572.1501,19.579,NMeFOSAA,mz3
+162.8538,22.3167,PFDoA,mz3
+618.8948,22.0271,PFTrDA,mz3
+134.9928,23.2757,PFTA,mz3
+563.8453,21.2321,11Cl-PF3OUdS,mz3
+613.944,7.5552,9Cl-PF3ONS,mz3
+180.864,11.6446,ADONA,mz3
+103.0499,4.851,Glyphosate,mz3
+363.2556,20.6285,"Cholic acid sodium (5b-cholanic acid-3a,7a,12a-triol, CA),",mz3
+409.2881,20.8846,"a-muricholic acid (5b-cholanic acid-3a,6b,7a-triol, aMCA),",mz3
+392.2524,22.2993,"b-muricholic acid (5b-cholanic acid-3a,6b,7b-triol, bMCA),",mz3
+392.2524,22.5665,omega-muricholic acid,mz3
+391.2486,21.4932,"Hyocholic acid (3alpha,6alpha,7alpha-Trihydroxy-5beta-cholan-24-oic acid)",mz3
+410.3011,20.8592,deoxycholate sodium,mz3
+410.3011,22.016,deoxycholate sodium-1,mz3
+248.1776,20.5621," hyodeoxycholic acid (5b-cholanic acid3a,6a-diol, HDCA),",mz3
+141.082,21.2713,"ursodeoxycholic acid (5b-cholanic acid-3a, 7b-diol, UDCA),",mz3
+550.298,14.0057,tauro-b-muricholic acid sodium,mz3
+520.2756,12.6104,sodium taurochenodeoxycholate,mz3
+445.2594,15.6066,sodium taurohyodeoxycholate hedrate,mz3
+489.3207,20.6897,taurolithocholic sodium salt,mz3
+453.4503,22.8836,glycocholic acid hydrate,mz3
+431.3298,20.6974,glycocholic acid,mz3
+378.2436,21.5503,sodium glycochenodeoxycholate,mz3
+128.0526,22.3055,glycodeoxycholic acid sodium salt,mz3
+448.3549,22.3075,"glycohyodeoxycholic acid [5b-cholanic acid-3a,6a-diol-N-(carboxymethyl)-amide],",mz3
+448.3549,18.3626,"glycoursodeoxycholic acid [5b-cholanic acid-3a,7b-diol-N- (carboxymethyl)-amide],",mz3
+434.3168,19.2536,glycolithocholic acid [5b-cholanic acid3a-ol-N-(carboxymethyl)-amide],mz3

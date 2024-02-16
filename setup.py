@@ -3,9 +3,10 @@ from setuptools import setup, find_packages
 setup(
     name='gcmsnote',
     version='0.1.0',
-    packages=find_packages(),
+    packages=find_packages(where='src'),
+    package_dir={'': 'src'},
     package_data={
-        'gcms': ['src/data/gcms_lib.csv'],
+        'gcmsnote': ['data/gcms_lib.csv'],
     },
     include_package_data=True,
     description='A comprehensive toolkit to annotate GCMS metabolomics data.',

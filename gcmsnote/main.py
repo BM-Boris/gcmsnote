@@ -20,7 +20,7 @@ def pre_process(feat,lib):
     
     return mz_array,time_array,lib_mz_array,lib_time_array
 
-def match(data, sep='\t', mz_col='mz', rt_col='rt', save=None, shift=0, time_diff=0.05, mz_diff=5e-6, time_range=2, ngroup=3):
+def match_meta(data, sep='\t', mz_col='mz', rt_col='rt', save=None, shift=0, time_diff=0.05, mz_diff=5e-6, time_range=2, ngroup=3):
     """
     Annotates GC-MS data by matching measured metabolites to a library, and groups annotations by similarity.
 

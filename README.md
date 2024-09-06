@@ -35,6 +35,7 @@ print(annotated_data.head())
 
 #### Parameters:
 ```python
+"""
 - data (str): Path to the input CSV file containing GC-MS data.
 - sep (str): Separator used in the input CSV file. Defaults to '\t'.
 - mz_col (str): Column name for mass-to-charge ratio (m/z) in the input data. Defaults to 'mz'.
@@ -45,6 +46,7 @@ print(annotated_data.head())
 - mz_diff (float): Maximum allowed m/z difference for a match. Defaults to 5e-6.
 - time_range (float): Time range within which metabolites are considered for grouping. Defaults to 2.
 - ngroup (int): Minimum number of metabolites required to form a group. Defaults to 3.
+"""
 ```
 
 #### Contact

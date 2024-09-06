@@ -20,7 +20,7 @@ def pre_process(feat,lib):
     
     return mz_array,time_array,lib_mz_array,lib_time_array
 
-def match_meta(data, sep='\t', mz_col='mz', rt_col='rt', save=None, shift=0, time_diff=0.05, mz_diff=5e-6, time_range=2, ngroup=3):
+def match_meta(data, sep='\t', mz_col='mz', rt_col='rt', save=None, shift='auto', time_diff=0.05, mz_diff=5e-6, time_range=2, ngroup=3):
     """
     Annotates GC-MS data by matching measured metabolites to a library, and groups annotations by similarity.
 
@@ -34,7 +34,7 @@ def match_meta(data, sep='\t', mz_col='mz', rt_col='rt', save=None, shift=0, tim
     - mz_col (str): Column name for mass-to-charge ratio (m/z) in the input data. Defaults to 'mz'.
     - rt_col (str): Column name for retention time in the input data. Defaults to 'rt'.
     - save (str): Path to save the annotated and grouped data as a CSV file. If None, the data is not saved. Defaults to None.
-    - shift (float): Adjustment to the retention time to align with the library. Defaults to 0.
+    - shift (str or float): Adjustment to the retention time to align with the library. Defaults to 'auto' - calculates the shift based on 4,4'-DDE.
     - time_diff (float): Maximum allowed difference in retention time for a match. Defaults to 0.05.
     - mz_diff (float): Maximum allowed m/z difference for a match. Defaults to 5e-6.
     - time_range (float): Time range within which metabolites are considered for grouping. Defaults to 2.
@@ -59,6 +59,23 @@ def match_meta(data, sep='\t', mz_col='mz', rt_col='rt', save=None, shift=0, tim
     second_notes = np.empty(len(mz_array), dtype=object)
 
     lib_time_array = lib_time_array*60
+
+    #shift
+    if shift=='auto':
+        tmp=5e-6
+        n=-1
+        dde = lib[(lib.Name=="4,4'-DDE ") & (lib.note=='mz1')]
+        for i in range(len(mz_array)):
+            dmz = np.abs((dde.mz.values[0]-mz_array[i])/ dde.mz.values[0])
+            if dmz<=tmp:
+                tmp=dmz
+                shift=time_array[i]-dde.time.values[0]*60
+                n=i
+                print(f"Shift = {shift} secs based on 4,4'-DDE")
+        if n==-1:
+            print("4,4'-DDE is not found in the data, 0 is used as a shift")
+            shift=0
+        
     time_array = time_array-shift
 
     for i in tqdm(range(len(mz_array))):
@@ -129,21 +146,3 @@ def match_meta(data, sep='\t', mz_col='mz', rt_col='rt', save=None, shift=0, tim
         data.to_csv(save, index=False)
 
     return data
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

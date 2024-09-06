@@ -26,7 +26,7 @@ data_path = 'path/to/your/data.csv'
 output_path = 'path/for/output.csv'
 
 # Perform metabolite annotation
-annotated_data = match_meta(data_path, sep='\t', mz_col='mz', rt_col='rt', shift=16, save=output_path)
+annotated_data = match_meta(data_path, sep='\t', mz_col='mz', rt_col='rt', save=output_path)
 
 # Explore your annotated data
 print(annotated_data.head())

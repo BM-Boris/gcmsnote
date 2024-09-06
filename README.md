@@ -46,6 +46,7 @@ print(annotated_data.head())
 - mz_diff (float): Maximum allowed m/z difference for a match. Defaults to 5e-6.
 - time_range (float): Time range within which metabolites are considered for grouping. Defaults to 2.
 - ngroup (int): Minimum number of metabolites required to form a group. Defaults to 3.
+
 """
 ```
 

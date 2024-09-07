@@ -42,8 +42,8 @@ print(annotated_data.head())
 - rt_col (str): Column name for retention time in the input data. Defaults to 'rt'.
 - save (str): Path to save the annotated and grouped data as a CSV file. If None, the data is not saved. Defaults to None.
 - shift (str or float): Adjustment to the retention time to align with the library. Defaults to 'auto' - calculates the shift based on 4,4'-DDE.
-- time_diff (float): Maximum allowed difference in retention time for a match. Defaults to 0.05.
-- mz_diff (float): Maximum allowed m/z difference for a match. Defaults to 5e-6.
+- time_diff (float): Maximum allowed accuracy in retention time for a match. Defaults to 0.05.
+- mz_diff (float): Maximum allowed m/z accuracy for a match. Defaults to 5e-6.
 - time_range (float): Time range within which metabolites are considered for grouping. Defaults to 2.
 - ngroup (int): Minimum number of metabolites required to form a group. Defaults to 3.
 """

@@ -5,8 +5,8 @@ _GCMSnote_ is a specialized Python library designed to streamline the annotation
 ### **Features**
 
 - **Automated Metabolite Annotation**: Match your GC-MS data against a curated library with ease.
-- **Customizable Matching Criteria**: Tailor the matching process to your specific research needs by adjusting key parameters such as mass-to-charge ratio (m/z) differences, retention time shifts, and etc.
-- **Grouping of Similar Annotations:**: Automatically group metabolites based on similarity to enhance the clarity and utility of your analysis.
+- **Customizable Matching Criteria**: Tailor the matching process to your specific research needs by adjusting key parameters such as mass-to-charge ratio (m/z) accuracy, retention time shifts, and etc.
+- **Grouping of Similar Annotations:**: Automatically group spectral m/z of the same chemical to enhance the clarity and utility of your analysis.
 
 #### Installation
 

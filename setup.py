@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     packages=find_packages(),
     package_data={
-        'gcmsnote': ['data/gcms_lib.csv'],
+        'gcmsnote': ['data/gcms_lib.csv','data/hmdb.csv'],
     },
     include_package_data=True,
     description='A comprehensive toolkit to annotate GCMS metabolomics data.',

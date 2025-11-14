@@ -369,7 +369,7 @@ def match_meta(
                 return int(hits[0]) if hits.size > 0 else None
     
             # 1) C13_pp_DDE: can override base candidate
-            row_c13 = lib_gc[lib_gc.Name == "C13_pp_DDE"].iloc[0]
+            row_c13 = lib_gc[lib_gc.Name == "C13_pp_DDE "].iloc[0]
             c13_shift = anchor_shift(row_c13.mz, row_c13.time * 60)
             if c13_shift is None:
                 print("C13_pp_DDE not found in data")

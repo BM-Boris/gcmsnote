@@ -330,61 +330,90 @@ def match_meta(
     lib_time_array = lib_time_array * 60
 
     # Auto RT shift using 4,4'-DDE
+    # Auto RT shift using 4,4'-DDE
     if shift == "auto":
         tol = 5e-6  # relative m/z tolerance
-        dde     = lib_gc[(lib_gc.Name == "4,4'-DDE ") & (lib_gc.note == "mz1")]
-        dde_mz0 = lib_gc[(lib_gc.Name == "4,4'-DDE ") & (lib_gc.note == "mz0")]
+        mz = np.asarray(mz_array)
+        rt = np.asarray(time_array)
     
-        mz1     = dde.mz.values[0]
-        mz0     = dde_mz0.mz.values[0]
-        rt1_ref = dde.time.values[0] * 60
-        rt0_ref = dde_mz0.time.values[0] * 60
+        # mz1: 4,4'-DDE
+        row1 = lib_gc[(lib_gc.Name == "4,4'-DDE ") & (lib_gc.note == "mz1")].iloc[0]
+        mz1, rt1_ref = row1.mz, row1.time * 60
     
-        cand_shifts = []
-        cand_dmz1   = []
+        dmz1 = np.abs((mz - mz1) / mz1)
+        cand_idx = np.where(dmz1 <= tol)[0]
     
-        # collect candidate shifts using mz1 
-        for mz, t in zip(mz_array, time_array):
-            dmz1 = abs((mz - mz1) / mz1)
-            if dmz1 <= tol:
-                cand_shifts.append(t - rt1_ref)
-                cand_dmz1.append(dmz1)
-    
-        if not cand_shifts:
-            print("4,4'-DDE was not found in the data, using shift = 0")
+        if cand_idx.size == 0:
+            print("No 4,4'-DDE mz1 found in data, using shift = 0")
             shift = 0
         else:
-            shift = None
-            multiple = len(cand_shifts) > 1
-            mz0_found = False
+            cand_shifts = rt[cand_idx] - rt1_ref
+            base_i = int(np.argmin(dmz1[cand_idx]))
+            shift = cand_shifts[base_i]
+            confirmed = None
+            confirmed_i = base_i
     
-            # refine using mz0  only if there are multiple candidates
-            if multiple:
-                for mz, t in zip(mz_array, time_array):
-                    dmz0 = abs((mz - mz0) / mz0)
-                    if dmz0 <= tol:
-                        mz0_found = True
-                        shift0 = t - rt0_ref
-                        for s in cand_shifts:
-                            if abs(s - shift0) <= time_range:
-                                shift = s
-                                break
-                        if shift is not None:
-                            break
+            def anchor_shift(mz_a, rt_a):
+                dmz = np.abs((mz - mz_a) / mz_a)
+                idx = np.where(dmz <= tol)[0]
+                if idx.size == 0:
+                    return None
+                j = idx[int(np.argmin(dmz[idx]))]
+                return rt[j] - rt_a
     
-            # fallback logic
-            if shift is None:
-                # pick candidate with smallest dmz1
-                best_idx = int(np.argmin(cand_dmz1))
-                shift = cand_shifts[best_idx]
-                if multiple and not mz0_found:
-                    print("Multiple 4,4'-DDE mz1 candidates and no mz0 found; "
-                          "using closest mz1 by m/z")
-                elif multiple and mz0_found:
-                    print("Multiple 4,4'-DDE candidates; no consistent mz0 match; "
-                          "using closest mz1 by m/z")
+            def match_anchor(a_shift):
+                if a_shift is None:
+                    return None
+                diffs = np.abs(cand_shifts - a_shift)
+                hits = np.where(diffs <= time_range)[0]
+                return int(hits[0]) if hits.size > 0 else None
     
-            print(f"Shift = {shift} seconds based on 4,4'-DDE")
+            # 1) C13_pp_DDE: can override base candidate
+            row_c13 = lib_gc[lib_gc.Name == "C13_pp_DDE"].iloc[0]
+            c13_shift = anchor_shift(row_c13.mz, row_c13.time * 60)
+            if c13_shift is None:
+                print("C13_pp_DDE not found in data")
+            else:
+                k = match_anchor(c13_shift)
+                if k is not None:
+                    shift = cand_shifts[k]
+                    confirmed = "C13"
+                    confirmed_i = k
+                    print("Shift chosen by mz1 candidate confirmed by C13_pp_DDE")
+                else:
+                    print("C13_pp_DDE found in data, but no mz1 candidate matches its RT shift")
+    
+            # 2) 4,4'-DDE mz0
+            row0 = lib_gc[(lib_gc.Name == "4,4'-DDE ") & (lib_gc.note == "mz0")].iloc[0]
+            mz0_shift = anchor_shift(row0.mz, row0.time * 60)
+            if mz0_shift is None:
+                print("4,4'-DDE mz0 not found in data")
+            else:
+                if confirmed == "C13":
+                    # only check consistency with C13-confirmed candidate
+                    if abs(mz0_shift - cand_shifts[confirmed_i]) <= time_range:
+                        print("Shift also consistent with 4,4'-DDE mz0")
+                    else:
+                        print("4,4'-DDE mz0 shift not consistent with C13-based shift")
+                else:
+                    # C13 did not confirm; mz0 can choose any candidate
+                    k = match_anchor(mz0_shift)
+                    if k is not None:
+                        shift = cand_shifts[k]
+                        confirmed = "mz0"
+                        confirmed_i = k
+                        print("Shift chosen by mz1 candidate confirmed by 4,4'-DDE mz0")
+                    else:
+                        print("4,4'-DDE mz0 found in data, but no mz1 candidate matches its RT shift")
+    
+            if confirmed is None:
+                if cand_idx.size > 1:
+                    print("Multiple mz1 candidates; using best m/z match (no confirmation)")
+                else:
+                    print("Single mz1 candidate; using best m/z match")
+    
+            print(f"Shift = {shift} seconds based on 4,4'-DDE mz1")
+
 
 
     # Apply RT shift

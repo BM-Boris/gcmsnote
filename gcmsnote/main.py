@@ -331,19 +331,42 @@ def match_meta(
 
     # Auto RT shift using 4,4'-DDE
     if shift == "auto":
-        tmp = 5e-6
-        n = -1
-        dde = lib_gc[(lib_gc.Name == "4,4'-DDE ") & (lib_gc.note == "mz1")]
-        for i in range(len(mz_array)):
-            dmz = np.abs((dde.mz.values[0] - mz_array[i]) / dde.mz.values[0])
-            if dmz <= tmp:
-                tmp = dmz
-                shift = time_array[i] - dde.time.values[0] * 60
-                n = i
-                print(f"Shift = {shift} seconds based on 4,4'-DDE")
-        if n == -1:
+        tol = 5e-6  # relative m/z tolerance
+        dde     = lib_gc[(lib_gc.Name == "4,4'-DDE ") & (lib_gc.note == "mz1")]
+        dde_mz0 = lib_gc[(lib_gc.Name == "4,4'-DDE ") & (lib_gc.note == "mz0")]
+    
+        mz1      = dde.mz.values[0]
+        mz0      = dde_mz0.mz.values[0]
+        rt1_ref  = dde.time.values[0] * 60
+        rt0_ref  = dde_mz0.time.values[0] * 60
+    
+        shifts = []
+        # collect candidate shifts using mz1 
+        for mz, t in zip(mz_array, time_array):
+            dmz = abs((mz - mz1) / mz1)
+            if dmz <= tol:
+                shifts.append(t - rt1_ref)
+    
+        if not shifts:
             print("4,4'-DDE was not found in the data, using shift = 0")
             shift = 0
+        else:
+            # if multiple candidates, refine using mz0 
+            if len(shifts) > 1:
+                for mz, t in zip(mz_array, time_array):
+                    dmz0 = abs((mz - mz0) / mz0)
+                    if dmz0 <= tol:
+                        shift0 = t - rt0_ref
+                        for s in shifts:
+                            if abs(s - shift0) <= time_range:
+                                shift = s
+                                break
+                        if "shift" in locals():
+                            break
+            # fallback: if only one candidate or no consistent mz0 match
+            if "shift" not in locals():
+                shift = shifts[0]
+            print(f"Shift = {shift} seconds based on 4,4'-DDE")
 
     # Apply RT shift
     time_array = time_array - float(shift)

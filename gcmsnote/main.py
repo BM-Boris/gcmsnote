@@ -379,9 +379,9 @@ def match_meta(
                     shift = cand_shifts[k]
                     confirmed = "C13"
                     confirmed_i = k
-                    print("Shift chosen by mz1 candidate confirmed by C13_pp_DDE")
+                    print("Shift chosen by 4,4'-DDE mz1 candidate confirmed by C13_pp_DDE")
                 else:
-                    print("C13_pp_DDE found in data, but no mz1 candidate matches its RT shift")
+                    print("C13_pp_DDE found in data, but no 4,4'-DDE mz1 candidate matches its RT shift")
     
             # 2) 4,4'-DDE mz0
             row0 = lib_gc[(lib_gc.Name == "4,4'-DDE ") & (lib_gc.note == "mz0")].iloc[0]
@@ -402,17 +402,17 @@ def match_meta(
                         shift = cand_shifts[k]
                         confirmed = "mz0"
                         confirmed_i = k
-                        print("Shift chosen by mz1 candidate confirmed by 4,4'-DDE mz0")
+                        print("Shift chosen by 4,4'-DDE mz1 candidate confirmed by 4,4'-DDE mz0")
                     else:
-                        print("4,4'-DDE mz0 found in data, but no mz1 candidate matches its RT shift")
+                        print("4,4'-DDE mz0 found in data, but no 4,4'-DDE mz1 candidate matches its RT shift")
     
             if confirmed is None:
                 if cand_idx.size > 1:
-                    print("Multiple mz1 candidates; using best m/z match (no confirmation)")
+                    print("Multiple 4,4'-DDE mz1 candidates; using best m/z match (no confirmation)")
                 else:
-                    print("Single mz1 candidate; using best m/z match")
+                    print("Single 4,4'-DDE mz1 candidate; using best m/z match")
     
-            print(f"Shift = {shift} seconds based on 4,4'-DDE mz1")
+            print(f"Shift = {shift} seconds based on 4,4'-DDE ")
 
 
 

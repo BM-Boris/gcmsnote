@@ -335,38 +335,57 @@ def match_meta(
         dde     = lib_gc[(lib_gc.Name == "4,4'-DDE ") & (lib_gc.note == "mz1")]
         dde_mz0 = lib_gc[(lib_gc.Name == "4,4'-DDE ") & (lib_gc.note == "mz0")]
     
-        mz1      = dde.mz.values[0]
-        mz0      = dde_mz0.mz.values[0]
-        rt1_ref  = dde.time.values[0] * 60
-        rt0_ref  = dde_mz0.time.values[0] * 60
+        mz1     = dde.mz.values[0]
+        mz0     = dde_mz0.mz.values[0]
+        rt1_ref = dde.time.values[0] * 60
+        rt0_ref = dde_mz0.time.values[0] * 60
     
-        shifts = []
+        cand_shifts = []
+        cand_dmz1   = []
+    
         # collect candidate shifts using mz1 
         for mz, t in zip(mz_array, time_array):
-            dmz = abs((mz - mz1) / mz1)
-            if dmz <= tol:
-                shifts.append(t - rt1_ref)
+            dmz1 = abs((mz - mz1) / mz1)
+            if dmz1 <= tol:
+                cand_shifts.append(t - rt1_ref)
+                cand_dmz1.append(dmz1)
     
-        if not shifts:
+        if not cand_shifts:
             print("4,4'-DDE was not found in the data, using shift = 0")
             shift = 0
         else:
-            # if multiple candidates, refine using mz0 
-            if len(shifts) > 1:
+            shift = None
+            multiple = len(cand_shifts) > 1
+            mz0_found = False
+    
+            # refine using mz0  only if there are multiple candidates
+            if multiple:
                 for mz, t in zip(mz_array, time_array):
                     dmz0 = abs((mz - mz0) / mz0)
                     if dmz0 <= tol:
+                        mz0_found = True
                         shift0 = t - rt0_ref
-                        for s in shifts:
+                        for s in cand_shifts:
                             if abs(s - shift0) <= time_range:
                                 shift = s
                                 break
-                        if "shift" in locals():
+                        if shift is not None:
                             break
-            # fallback: if only one candidate or no consistent mz0 match
-            if "shift" not in locals():
-                shift = shifts[0]
+    
+            # fallback logic
+            if shift is None:
+                # pick candidate with smallest dmz1
+                best_idx = int(np.argmin(cand_dmz1))
+                shift = cand_shifts[best_idx]
+                if multiple and not mz0_found:
+                    print("Multiple 4,4'-DDE mz1 candidates and no mz0 found; "
+                          "using closest mz1 by m/z")
+                elif multiple and mz0_found:
+                    print("Multiple 4,4'-DDE candidates; no consistent mz0 match; "
+                          "using closest mz1 by m/z")
+    
             print(f"Shift = {shift} seconds based on 4,4'-DDE")
+
 
     # Apply RT shift
     time_array = time_array - float(shift)
